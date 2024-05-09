@@ -1,0 +1,11 @@
+<help>
+<play>Click <b>Play</b> to listen to your recording.</play>
+<select>Click on a box to select a recording to send to your teacher.</select>
+<info.1>If you did not save your recording in the Speaking section, it will not appear in this list to send.</info.1>
+<continue.1>Click on <b>Continue</b> to go to the next screen.</continue.1>
+<enter>Enter the requested information in the boxes.</enter>
+<info.2>You must fill in all 4 boxes to start sending.</info.2>
+<continue.2>Click on <b>Continue</b> to start sending your data.</continue.2>
+<0>play|select|info.1|continue.1</0>
+<1>enter|info.2|continue.2</1>
+</help>
