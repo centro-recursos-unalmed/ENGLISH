@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 3</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Listening Section Directions</sectionname>
+<sectiondirections>This section tests your understanding of conversations and lectures.  You will hear each conversation or lecture only once. Your answers should be based on what is stated or implied in the conversations and lectures.
+
+You are allowed to take notes as you listen, and you can use these notes to help you answer the questions. 
+
+In some questions, you will see a headphones icon.   &lt;icon&gt;   This icon tells you that you will hear, but not read, part of the lecture again. Then you will answer a question about the part of the lecture that you heard.
+
+Some questions have special directions that are &lt;readinghighlight&gt;highlighted&lt;/readinghighlight&gt;.
+
+This test includes two conversations and four lectures.
+
+You must give an answer for every question, and then click &lt;b&gt;NEXT&lt;/b&gt;. To confirm your answer, click &lt;b&gt;OK&lt;/b&gt;. Once the next question appears, you cannot go back to earlier questions. 
+</sectiondirections>
+
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<audiofile>3_Li_02.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT3_4.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>3_Li_04.mp3</questionAudio>
+			<questiontext>What does Professor Wallace imply was her main purpose for visiting this town?</questiontext>
+			<choice>To teach a special class</choice>
+			<choice>To go sight-seeing</choice>
+			<choice>To attend a conference</choice>
+			<choice>To visit an art museum</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<audiofile>3_Li_04a.mp3</audiofile>
+			<boxtext>Listen again to part of the conversation. Then answer the question.</boxtext>
+			<art>PT3_4.jpg</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_05.mp3</questionAudio>
+			<questiontext>What does the student mean when he says this?     &lt;icon&gt;</questiontext>
+			<choice>He's anxious to hear Professor Johnstone speak at the conference.</choice>
+			<choice>Professor Johnston has cancelled her presentation again this year.</choice>
+			<choice>He would like to see Professor Johnstone, but he won't be able to.</choice>
+			<choice>He would like to attend Western State University and study with Professor Johnstone.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_06.mp3</questionAudio>
+			<questiontext>What is one reason that Professor Wallace does NOT want to go to the natural science museum here?</questiontext>
+			<choice>She is no longer interested in natural science.</choice>
+			<choice>There is a good natural science museum in the city she lives in.</choice>
+			<choice>She has heard that the museum on campus is not a very good one.</choice>
+			<choice>The museum won't be open when she is free.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_07.mp3</questionAudio>
+			<questiontext>What does the student say might be difficult about visiting Crystal Falls?</questiontext>
+			<choice>Finding the trail</choice>
+			<choice>Walking to the foot of the waterfall</choice>
+			<choice>Finding a place to park</choice>
+			<choice>Climbing the cliff</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_08.mp3</questionAudio>
+			<questiontext>Where will the student probably see Professor Wallace next?</questiontext>
+			<choice>At her presentation</choice>
+			<choice>At the waterfall</choice>
+			<choice>At the College Inn</choice>
+			<choice>At a reception</choice>
+			<correctanswer>4</correctanswer>
+		</question>	
+		<question>
+			<questionnumber>6</questionnumber>
+			<audiofile>3_Li_09.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT3_5_6.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>3_Li_13.mp3</questionAudio>
+			<questiontext>Who must approve the tuition increase before it goes into effect?</questiontext>
+			<choice>The president of the university</choice>
+			<choice>The Board of Regents</choice>
+			<choice>The dean</choice>
+			<choice>The president of the Student Council</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<audiofile>3_Li_11.mp3</audiofile>
+			<boxtext>Listen again to part of the conversation. Then answer the question. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_12.mp3</questionAudio>
+			<questiontext>What does the dean mean when he says this?     &lt;icon&gt;</questiontext>
+			<choice>The rumor about the tuition increase is not true.</choice>
+			<choice>He is opposed to an increase in tuition.</choice>
+			<choice>He hasn't heard the rumor about a tuition increase.</choice>
+			<choice>Tuition will probably be increased.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_14.mp3</questionAudio>
+			<questiontext>What does the dean say about tuition next year at Hambleton University?</questiontext>
+			<choice>It will be lower than the tuition at Babcock University.</choice>
+			<choice>It will remain the same as it is this year.</choice>
+			<choice>It will be the highest in the state.</choice>
+			<choice>It will be increased by the same amount as tuition at Babcock University.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_15.mp3</questionAudio>
+			<questiontext>Which of the following is NOT one of the suggestions made by Penny Chang?</questiontext>
+			<choice>To get better computers for the computer labs</choice>
+			<choice>To keep the library open longer</choice>
+			<choice>To expand one of the dormitories</choice>
+			<choice>To increase contact time between teachers and students</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_16_17.mp3</questionAudio>
+			<questiontext>What does the dean imply when he says this?     &lt;icon&gt;</questiontext>
+			<choice>The university will not follow Penny Chang's advice.</choice>
+			<choice>He never agrees with Penny Chang's suggestions.</choice>
+			<choice>He's not familiar with Penny Chang's ideas.</choice>
+			<choice>Penny Chang's suggestions have already been accepted.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>11</questionnumber>
+			<audiofile>3_Li_18.mp3</audiofile>
+			<boxtext>Urban Studies</boxtext>
+			<art>PT3_8.jpg:39,PT3_7.jpg:143,PT3_8.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>3_Li_19.mp3</questionAudio>
+			<questiontext>What is the main topic of the lecture?</questiontext>
+			<choice>A study that was done by Professor Appleyard</choice>
+			<choice>Various techniques used to "calm traffic"</choice>
+			<choice>A study that the professor plans to do herself</choice>
+			<choice>The ironic nature of Professor Appleyard's death</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>12</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_20.mp3</questionAudio>
+			<questiontext>It can be inferred that the professor describes the three streets in the way she does in order to show which of the following?</questiontext>
+			<choice>Different ethnic mixes caused profound differences on the three blocks.</choice>
+			<choice>All three neighborhood have taken very different approaches to solving the problems caused by too much traffic.</choice>
+			<choice>Different conditions on the three streets were caused by different amounts of traffic, not by other factors.</choice>
+			<choice>The level of income determined the amount of traffic that passed though a neighborhood.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>13</questionnumber>
+			<audiofile>3_Li_21.mp3</audiofile>
+			<questiontext>According to the speaker, which of the following findings made by Professor Appleyard were surprising?</questiontext>
+			<choice>Increased traffic leads to an increased number of accidents.</choice>
+			<choice>Heavy traffic leads to decreased social interaction.</choice>
+			<choice>With an increase in traffic comes an increase in air pollution.</choice>
+			<choice>Greater amounts of traffic cause residents to be responsible for less space.</choice>
+			<choice>Faster traffic results in a greater number of serious accidents.</choice>
+			<correctanswer>2,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>14</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_22.mp3</questionAudio>
+			<questiontext>Which of these statements about the traffic on the "heavy" street is NOT true?</questiontext>
+			<choice>It got twice as much traffic as the "medium" street.</choice>
+			<choice>It had more traffic in the past than it does now.</choice>
+			<choice>It often got more traffic in an hour than the "light" street got in a day.</choice>
+			<choice>It got more traffic per day than the other two streets combined.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>15</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT3_8.jpg</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_23.mp3</questionAudio>
+			<questiontext>Why does the speaker say this?    &lt;icon&gt;</questiontext>
+			<choice>To show how she disagrees with some of Appleyard's ideas</choice>
+			<choice>To summarize what one critic of Appleyard said</choice>
+			<choice>To indicate that Appleyard's ideas are no longer current</choice>
+			<choice>To indicate that her own opinion is similar to Appleyard's</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>16</questionnumber>
+			<audiofile>3_Li_24.mp3</audiofile>
+			<questiontext>In this lecture, the professor gives a number of characteristics of the three San Francisco streets. Indicate whether each of the following is a characteristic of that street.</questiontext>
+			<rows>6</rows>
+			<columns>4</columns>
+			<heading>Franklin Street</heading>
+			<heading>Gough Street</heading>
+			<heading>Octavia Street</heading>
+			<choice>  The street had a "fence effect."</choice>
+			<choice>  Residents had the most friends and acquaintances.</choice>
+			<choice>  Residents spent much of their time in the rear of their houses.</choice>
+			<choice>  Residents felt that their feeling of community was starting to disappear.</choice>
+			<choice>  Children played on the sidewalk.</choice>
+			<correctanswer>2,4,2,3,4</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>17</questionnumber>
+			<audiofile>3_Li_25.mp3</audiofile>
+			<boxtext>Art History</boxtext>
+			<art>PT3_10.jpg:236,PT3_9.jpg:370,PT3_10.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>3_Li_28.mp3</questionAudio>
+			<questiontext>According to the professor, how did Earl feel about the Revolutionary War?</questiontext>
+			<choice>He was pro-British and against American independence.</choice>
+			<choice>He never made up his mind about the issue.</choice>
+			<choice>He was strongly in favor of the American cause.</choice>
+			<choice>He agreed with Copley's opinion of the war.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>18</questionnumber>
+			<audiofile>3_Li_26.mp3</audiofile>
+			<boxtext>Listen again to part of the class discussion. Then answer the question. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_27.mp3</questionAudio>
+			<questiontext>What does the professor mean when he says this?    &lt;icon&gt;</questiontext>
+			<choice>He realizes that he made a mistake when he spoke about Copley in the last class.</choice>
+			<choice>He wants his students to answer a question about Copley.</choice>
+			<choice>He doesn't remember saying that the square in Boston was named for Copley.</choice>
+			<choice>He wants to emphasize a point that he made about Copley earlier.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>19</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_29.mp3</questionAudio>
+			<questiontext>What contrast does the professor mention in &lt;br&gt;&lt;i&gt;Portrait of Oliver and Abigail Ellsworth&lt;/i&gt;?</questiontext>
+			<choice>The difference between light in the foreground and shadow in the background</choice>
+			<choice>The contrast between the simplicity of the subjects and the luxury of the setting</choice>
+			<choice>The difference in age between Oliver Ellsworth and Abigail Ellsworth</choice>
+			<choice>The contrast between the unusual subjects and Earl's ordinary painting techniques</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>20</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_30.mp3</questionAudio>
+			<questiontext>According to the professor, what incorrect assumption about the painting &lt;i&gt;The Striker Sisters&lt;/i&gt; do people commonly make?</questiontext>
+			<choice>That the sisters are twins</choice>
+			<choice>That the two girls are not really sisters</choice>
+			<choice>That the first names of the sisters are not known</choice>
+			<choice>That the portrait was painted when Earl was in prison</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>21</questionnumber>
+			<audiofile>3_Li_31.mp3</audiofile>
+			<questiontext>Why does the professor call Earl's painting &lt;i&gt;Reclining Hunter&lt;/i&gt; "something of an anomaly"? </questiontext>
+			<choice>He did not usually paint portraits of hunters.</choice>
+			<choice>His paintings were generally not funny.</choice>
+			<choice>It portrays the subject of the painting as foolish.</choice>
+			<choice>It is a landscape painting and he primarily painted portraits.</choice>
+			<correctanswer>2,3</correctanswer>
+		</question>
+	</multipleanswer>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>22</questionnumber>
+			<audiofile>3_Li_32.mp3</audiofile>
+			<questiontext>In this lecture, the professor divides Earl's career into three periods. Decide which period of his career each event was associated with.</questiontext>
+			<rows>7</rows>
+			<columns>4</columns>
+			<heading>First period</heading>
+			<heading>Second period</heading>
+			<heading>Third period</heading>
+			<choice>Painted a portrait of the king of England</choice>
+			<choice>Travelled from town to town painting portraits</choice>
+			<choice>Became friends with Benjamin West</choice>
+			<choice>Was influenced by John S. Copley </choice>
+			<choice>Painted pictures while in jail</choice>
+			<choice>Painted scenes from the Battle of Lexington</choice>
+			<correctanswer>3,4,3,2,4,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>23</questionnumber>
+			<audiofile>3_Li_33.mp3</audiofile>
+			<boxtext>Zoology</boxtext>
+			<art>PT3_12.jpg:48,PT3_13.jpg:99,PT3_12.jpg:173,PT3_11.jpg:242,PT3_12.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>3_Li_34.mp3</questionAudio>
+			<questiontext>According to the passage, what are &lt;i&gt;muselids&lt;/i&gt;?</questiontext>
+			<choice>A family of marine mammals that all have blubber</choice>
+			<choice>A type of sea otter that lives only in California</choice>
+			<choice>A group of mammals that includes sea otters</choice>
+			<choice>A kind of sea animal that includes sea urchins, clams, and crabs</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>24</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_35.mp3</questionAudio>
+			<questiontext>It can be inferred from the passage that, if a large male sea otter weighs 100 pounds, it must eat approximately how many pounds of food a day?</questiontext>
+			<choice>20 pounds</choice>
+			<choice>30 pounds</choice>
+			<choice>40 pounds</choice>
+			<choice>120 pounds</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>25</questionnumber>
+			<audiofile>3_Li_35a.mp3</audiofile>
+			<boxtext>Listen again to part of the lecture. Then answer the question.</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_36.mp3</questionAudio>
+			<questiontext>What does the professor mean when she says this?     &lt;icon&gt;</questiontext>
+			<choice>All sea otters eat many types of food.</choice>
+			<choice>Sometimes sea otters can't find any food.</choice>
+			<choice>Sea otters sometimes eat too much.</choice>
+			<choice>Each sea otter eats only a few types of food.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>26</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_37.mp3</questionAudio>
+			<questiontext>According to the lecture, which of the following best describes sea otters' relationship with kelp forests?</questiontext>
+			<choice>Sea otters protect kelp by eating animals that destroy it.</choice>
+			<choice>Kelp serves as the main source of food for sea otters.</choice>
+			<choice>Kelp eliminates the sea otters' sources of food.</choice>
+			<choice>Sea otters destroy kelp when they wrap themselves up in it.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>27</questionnumber>
+			<audiofile>3_Li_38.mp3</audiofile>
+			<questiontext>What does the lecturer say about the outer fur of sea otters?</questiontext>
+			<choice>It keeps the underfur dry.</choice>
+			<choice>It does not require much grooming.</choice>
+			<choice>It is more desirable to hunters than the underfur.</choice>
+			<choice>It holds in air to provide insulation.</choice>
+			<correctanswer>1,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>28</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_39.mp3</questionAudio>
+			<questiontext>What does the lecturer imply is the DIRECT cause of the decline in the population of California sea otters?</questiontext>
+			<choice>Lack of food</choice>
+			<choice>Infection</choice>
+			<choice>Water pollution</choice>
+			<choice>Hunting</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>29</questionnumber>
+			<audiofile>3_Li_40.mp3</audiofile>
+			<boxtext>Chemistry</boxtext>
+			<art>PT3_15.jpg:37,PT3_14.jpg:127,PT3_15.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>x</questionAudio>
+			<questiontext>x</questiontext>
+			<choice>x</choice>
+			<choice>x</choice>
+			<choice>x</choice>
+			<choice>x</choice>
+			<correctanswer>x</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>29</questionnumber>
+			<audiofile>3_Li_41.mp3</audiofile>
+			<questiontext>Which of the following are synonyms for the term &lt;i&gt;inert gases&lt;/i&gt;?</questiontext>
+			<choice>Noble gases</choice>
+			<choice>Valence gases</choice>
+			<choice>Rare gases</choice>
+			<choice>Fluoride gases</choice>
+			<correctanswer>1,3</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>30</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_42.mp3</questionAudio>
+			<questiontext>Which of the following is NOT true about helium?</questiontext>
+			<choice>It was first discovered on the moon.</choice>
+			<choice>Breathing it makes people's voices sound strange.</choice>
+			<choice>It is lighter than air.</choice>
+			<choice>It is named for a Greek god.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>31</questionnumber>
+			<audiofile>3_Li_43.mp3</audiofile>
+			<questiontext>How is light of different colors produced in neon lights?</questiontext>
+			<choice>The gas inside the glass tube is heated to high temperatures.</choice>
+			<choice>The electrical current running through the tube is increased.</choice>
+			<choice>It is mixed with other inert gases inside the tube.</choice>
+			<choice>The inside of the glass tube is painted different colors.</choice>
+			<correctanswer>3,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>32</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_44.mp3</questionAudio>
+			<questiontext>Which of these accounts for the presence of most argon in the atmosphere?</questiontext>
+			<choice>It escapes from argon lamps.</choice>
+			<choice>It comes from the burning of natural gas.</choice>
+			<choice>It is produced by the decay of radioactive potassium. </choice>
+			<choice>It is distilled from other inert gases. </choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>33</questionnumber>
+			<audiofile>3_Li_45.mp3</audiofile>
+			<questiontext>The speaker mentions various uses for three of the inert gases. Match the gas and the device in which it is used.</questiontext>
+			<rows>6</rows>
+			<columns>4</columns>
+			<heading>Helium</heading>
+			<heading>Neon</heading>
+			<heading>Argon</heading>
+			<choice>Liquid fuel rocket engines</choice>
+			<choice>Double-pane windows</choice>
+			<choice>The cooling system of nuclear reactors</choice>
+			<choice>Incandescent light bulbs</choice>
+			<choice>Birthday balloons </choice>
+			<correctanswer>2,4,3,4,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>34</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>3_Li_46.mp3</questionAudio>
+			<questiontext>What topic will the speaker's presentation partner talk about?</questiontext>
+			<choice>Further uses for argon</choice>
+			<choice>Three other inert gases</choice>
+			<choice>Oxygen, hydrogen, and nitrogen</choice>
+			<choice>Reasons why these gases are "inert"</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+<sectionClosing>This is the end of the Listening Section of Practice Test 3. You may take a ten-minute break before beginning work on the Speaking Section.</sectionClosing>
+</test>

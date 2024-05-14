@@ -1,0 +1,570 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 4</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Reading Section Directions</sectionname>
+<sectiondirections>This section tests your ability to comprehend academic reading passages. It consists of three reading passages and a set of questions about each of them. All of the questions are worth one point except for the last question in each set. Special directions for the last question will tell you how many points it is worth. 
+
+You have 60 minutes to complete this section of the test. 
+
+In the passages, some words or phrases are &lt;u&gt;underlined&lt;/u&gt;. Definitions or explanations for these words are provided at the end of the passage. 
+
+As soon as you have finished one question, you may move on to the next one. You may skip questions and come back to them later, and you can change your answers if you wish.  
+
+As soon as you have read these directions, go on to the first reading.
+</sectiondirections>
+
+<multiple>
+		<grouptitle>&lt;b&gt;Guyots&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>In addition to the great mid-oceanic ridges and chains of volcanoes, there are other undersea mountains scattered across the ocean bed. These include the steep, cone-shaped seamounts and the flat-topped guyots. Guyots look rather like the &lt;readinggloss&gt;mesas&lt;/readinggloss&gt; seen in the American Southwest, rising from the ocean floor rather than from the dessert.
+
+Davidson Seamount, the first seamount to be detected, was discovered in the 1920s off the coast of California and, soon after, others were found in the Atlantic. However, marine geologists did not even suspect the existence of guyots for more than 20 years after that. They were discovered by Princeton University geologist Henry H. Hess in 1945. He was at the time serving as a naval officer in the Pacific aboard a survey ship equipped with a fathometer. Henry named these 
+&lt;readinghighlight&gt;truncated&lt;/readinghighlight&gt; mountains for the mid-nineteenth-century Swiss-born geologist, who had served on the faculty of Princeton for ten years (1854-1864). Since then, several hundred guyots have been charted in every ocean except the Arctic. The greatest number of guyots--and the greatest number of seamounts--are found in the mid-Pacific, southwest of Hawaii. 
+
+By definition, guyots must be at least 1,000 meters above the surrounding deep-sea floor and their tops must be at least 100 meters beneath the ocean's surface. Most lie 1,000 to 2,000 meters below the surface, but some, such as Allison Guyot and Redoubt Guyot in the Pacific, are as deep as 3,000 meters. They average about 10 kilometers in circumference, but Great Meteor Tablemount in the northeastern Atlantic is about 120 kilometers in circumference. Guyots harbor their own ecosystems. Hatchet fish, sea fans, eels, sponges, lantern fish, and sea biscuits all dwell in this intermediate zone high above the ocean floor but far beneath the waves. Some species of these organisms are found only on top of guyots. 
+
+Like offshore canyons, guyots present a challenge to oceanographic theory. It is theorized that they are the &lt;readinghighlight&gt;relics&lt;/readinghighlight&gt; of volcanic islands created from lava flows from oceanic ridges. Their flat tops indicate that they once stood above the surface of the ocean, where the action of waves and weather planed off their peaks. Seamounts, on the other hand, have retained their conical shape because they were never islands; their peaks never extended above the surface of the sea. Drilling samples taken by geologists taken from deep within the cores of guyots indicate the presence of basalt, confirming their volcanic origin. And dredging from the tops of guyots has recovered the rubble of wave-eroded coral reefs that date from the late Cretaceous Age, about 95 million years ago. These fossil coral are associated only with shallow water, proving that the guyots were at one time islands surrounded by ancient coral reefs. The volcanic islands disappeared before the reefs, leaving ring-like coral &lt;readinggloss&gt;atolls&lt;/readinggloss&gt; surrounding central &lt;readinggloss&gt;lagoons&lt;/readinggloss&gt;. The atolls eventually collapsed onto the guyots.  
+
+The submersion of the guyots probably involved two processes. As the tectonic plates beneath the ocean floor moved away from the oceanic ridges, a process called sea-floor spreading, they carried the guyots with &lt;readinghighlight&gt;them&lt;/readinghighlight&gt; into deeper water. Computer analysis indicates they moved at the rate of about 10 centimeters a year. The movement of the guyots was hurried by their enormous weight. Then, as the sea rose a number of times, especially at the end of the last Ice Age, some 8,000 to 10,000 years ago, guyots were submerged even deeper.   
+
+The existence of guyots was considered a proof of the existence of continental drift, because the shifting of tectonic plates that moved these formations is the same force that caused the original landmass to split apart and the individual continents to move apart.</thereading>
+			<readingglossdef>Mesas*Mesa: A flat-topped, table-shaped mountain found in the desert regions of the southwestern United States ( &lt;i&gt;mesa&lt;/i&gt; is the Spanish word for &lt;i&gt;table&lt;/i&gt;)</readingglossdef>
+			<readingglossdef>Atolls*Atoll: A circular coral reef surrounding a body of water (called a lagoon)</readingglossdef>
+			<readingglossdef>Lagoons*Lagoon: A body of salt water separated from the deeper ocean by a coral reef or a similar feature</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<scrolltoposition>In addition to the great</scrolltoposition>
+			<questiontext>In paragraph 1, how does the author describe guyots?</questiontext>
+			<choice>By classifying them as a type of undersea ridge</choice>
+			<choice>By  pointing out that they are shaped like typical volcanoes</choice>
+			<choice>By comparing them to a type of geological structure found on land</choice>
+			<choice>By explaining how they look when viewed from the surface of the sea</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<scrolltoposition>Davidson Seamount, the first seamount</scrolltoposition>
+<questiontext>The author uses the word &lt;readinghighlight&gt;truncated&lt;/readinghighlight&gt; in paragraph 2 to indicate that guyots </questiontext>
+			<choice>appear to have their peaks cut off</choice>
+			<choice>are isolated from other undersea mountains</choice>
+			<choice>seem to tower over other undersea mountains</choice>
+			<choice>are submerged deep beneath the sea</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<scrolltoposition>Davidson Seamount, the first seamount</scrolltoposition>
+			<questiontext>In paragraph 2, the author implies that guyots were discovered by means of</questiontext>
+			<choice>a fathometer</choice>
+			<choice>computer analysis</choice>
+			<choice>a research submarine</choice>
+			<choice>deep-sea drilling operations</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<scrolltoposition>Davidson Seamount, the first seamount</scrolltoposition>
+			<questiontext>In paragraph 2, the author indicates that Arnold Guyot</questiontext>
+			<choice>was Henry Hess's instructor at Princeton</choice>
+			<choice>discovered guyots and named them after himself</choice>
+			<choice>commanded a naval survey ship</choice>
+			<choice>once taught at the same university as Henry Hess </choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<scrolltoposition>Davidson Seamount, the first seamount</scrolltoposition>
+			<questiontext>According to the information in paragraph 2, where are the largest number of guyots found?</questiontext>
+			<choice>The southwestern Pacific Ocean</choice>
+			<choice>The northeastern Atlantic Ocean</choice>
+			<choice>The mid-Pacific Ocean</choice>
+			<choice>The Arctic Ocean</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>By definition, a guyot must be at least</questiontext>
+			<choice>a few meters above the surface of the ocean</choice>
+			<choice>10 kilometers in circumference</choice>
+			<choice>100 meters above the surface of the ocean</choice>
+			<choice>1,000 meters above the floor of the ocean</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<scrolltoposition>Like offshore canyons, guyots</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;relics&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>remnants</choice>
+			<choice>summits</choice>
+			<choice>ashes</choice>
+			<choice>depths</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the passage, the presence of which of the following on the tops of guyots indicates that guyots were once islands?</questiontext>
+			<choice>Basalt fragments</choice>
+			<choice>Coral fossils</choice>
+			<choice>Hot lava</choice>
+			<choice>Ecosystems</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<scrolltoposition>Like offshore canyons, guyots</scrolltoposition>
+                        <questiontext>Why does the author mention offshore canyons in paragraph 4?</questiontext>
+			<choice> They were discovered at about the same time as guyots were discovered.</choice>
+			<choice>Unlike guyots, they occur in parts of the ocean that are easy to study.</choice>
+			<choice>They were created by the same forces that created guyots.</choice>
+			<choice>Like guyots, they presented a challenge to ocean science.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>What two processes were probably involved in the submergence of guyots?</questiontext>
+			<choice>Drilling and dredging</choice>
+			<choice>Sea-floor spreading and rising sea levels</choice>
+			<choice>Weather and erosion by waves</choice>
+			<choice>Volcanic eruptions and continental drift</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>11</questionnumber>
+			<scrolltoposition>The submersion of the guyots</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;them&lt;/readinghighlight&gt; in paragraph 5 refers to</questiontext>
+			<choice>two processes</choice>
+			<choice>oceanic ridges</choice>
+			<choice>guyots</choice>
+			<choice>tectonic plates</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>12</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According the passage, when did sea levels significantly rise?</questiontext>
+			<choice>In 1945</choice>
+			<choice>In the nineteenth century</choice>
+			<choice>From 8,000 to 10,000 years ago</choice>
+			<choice>95 million years ago</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>By definition, guyots must be at least 1,000 meters above the surrounding deep-sea floor and their tops must be at least 100 meters beneath the ocean's surface. Most lie 1,000 to 2,000 meters below the surface, but some, such as Allison Guyot and Redoubt Guyot in the Pacific, are as deep as 3,000 meters. They average about 10 kilometers in circumference, but Great Meteor Tablemount in the northeastern Atlantic is about 120 kilometers in circumference.  &lt;n&gt;  Guyots harbor their own ecosystems.  &lt;n&gt;  Hatchet fish, sea fans, eels, sponges, lantern fish, and sea biscuits all dwell in this intermediate zone high above the ocean floor but far beneath the waves.  &lt;n&gt;  Some species of these organisms are found only on top of guyots.  &lt;n&gt; </thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>13</questionnumber>
+			<questiontext>&lt;b&gt;Indeed, there are even species that are found only on a single guyot.&lt;/b&gt;</questiontext>
+			<correctanswer>4</correctanswer>
+		</question>
+	</addsentence>
+	<dragdrop>
+		<grouptitle>&lt;b&gt;Guyots&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>In addition to the great mid-oceanic ridges and chains of volcanoes, there are other undersea mountains scattered across the ocean bed. These include the steep, cone-shaped seamounts and the flat-topped guyots. Guyots look rather like the &lt;readinggloss&gt;mesas&lt;/readinggloss&gt; seen in the American Southwest, rising from the ocean floor rather than from the dessert.
+
+Davidson Seamount, the first seamount to be detected, was discovered in the 1920s off the coast of California and, soon after, others were found in the Atlantic. However, marine geologists did not even suspect the existence of guyots for more than 20 years after that. They were discovered by Princeton University geologist Henry H. Hess in 1945. He was at the time serving as a naval officer in the Pacific aboard a survey ship equipped with a fathometer. Henry named these &lt;readinghighlight&gt;truncated&lt;/readinghighlight&gt; mountains for the mid-nineteenth-century Swiss-born geologist, who had served on the faculty of Princeton for ten years (1854-1864). Since then, several hundred guyots have been charted in every ocean except the Arctic. The greatest number of guyots--and the greatest number of seamounts--are found in the mid-Pacific, southwest of Hawaii. 
+
+By definition, guyots must be at least 1,000 meters above the surrounding deep-sea floor and their tops must be at least 100 meters beneath the ocean's surface. Most lie 1,000 to 2,000 meters below the surface, but some, such as Allison Guyot and Redoubt Guyot in the Pacific, are as deep as 3,000 meters. They average about 10 kilometers in circumference, but Great Meteor Tablemount in the northeastern Atlantic is about 120 kilometers in circumference. Guyots harbor their own ecosystems. Hatchet fish, sea fans, eels, sponges, lantern fish, and sea biscuits all dwell in this intermediate zone high above the ocean floor but far beneath the waves. Some species of these organisms are found only on top of guyots. 
+
+Like offshore canyons, guyots present a challenge to oceanographic theory. It is theorized that they are the &lt;readinghighlight&gt;relics&lt;/readinghighlight&gt; of volcanic islands created from lava flows from oceanic ridges. Their flat tops indicate that they once stood above the surface of the ocean, where the action of waves and weather planed off their peaks. Seamounts, on the other hand, have retained their conical shape because they were never islands; their peaks never extended above the surface of the sea. Drilling samples taken by geologists taken from deep within the cores of guyots indicate the presence of basalt, confirming their volcanic origin. And dredging from the tops of guyots has recovered the rubble of wave-eroded coral reefs that date from the late Cretaceous Age, about 95 million years ago. These fossil coral are associated only with shallow water, proving that the guyots were at one time islands surrounded by ancient coral reefs. The volcanic islands disappeared before the reefs, leaving ring-like coral &lt;readinggloss&gt;atolls&lt;/readinggloss&gt; surrounding central &lt;readinggloss&gt;lagoons&lt;/readinggloss&gt;. The atolls eventually collapsed onto the guyots.  
+
+The submersion of the guyots probably involved two processes. As the tectonic plates beneath the ocean floor moved away from the oceanic ridges, a process called sea-floor spreading, they carried the guyots with &lt;readinghighlight&gt;them&lt;/readinghighlight&gt; into deeper water. Computer analysis indicates they moved at the rate of about 10 centimeters a year. The movement of the guyots was hurried by their enormous weight. Then, as the sea rose a number of times, especially at the end of the last Ice Age, some 8,000 to 10,000 years ago, guyots were submerged even deeper.   
+
+The existence of guyots was considered a proof of the existence of continental drift, because the shifting of tectonic plates that moved these formations is the same force that caused the original landmass to split apart and the individual continents to move apart.
+</thereading>
+			<readingglossdef>Mesa*Mesa: A flat-topped, table-shaped mountain found in the desert regions of the southwestern United States (&lt;i&gt;mesa&lt;/i&gt; is the Spanish word for &lt;i&gt;table&lt;/i&gt;)</readingglossdef>
+			<readingglossdef>Atoll*Atoll: A circular coral reef surrounding a body of water (called a lagoon)</readingglossdef>
+			<readingglossdef>Lagoon*Lagoon: A body of salt water separated from the deeper ocean by a coral reef or a similar feature</readingglossdef>
+		</groupreading>
+		<directions>Select phrases from the answer choices and match them to the category to which they relate. TWO answer choices will not be used. &lt;i&gt;&lt;b&gt;This question is worth 3 points.&lt;/b&gt;&lt;/i&gt;</directions>
+		<orientation>V</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>14</questionnumber>
+			<questiontext>&lt;b&gt;Answer Choices&lt;/b&gt;</questiontext>
+			<sectionheading1>&lt;b&gt;Guyots&lt;/b&gt;</sectionheading1>
+			<sectionheading2>&lt;b&gt;Seamounts&lt;/b&gt;</sectionheading2>
+			<choice1>Were eroded by the action of weather and waves</choice1>
+			<choice2>Are part of the great undersea range of volcanoes</choice2>
+			<choice3>Were once surrounded by circular coral atolls</choice3>
+			<choice4>Are shaped like conical volcanic mountains</choice4>
+			<choice5>Never extended above the surface of the sea</choice5>
+			<choice6>Are only found in the Pacific Ocean</choice6>
+			<choice7>Were discovered in the 1940s</choice7>
+			<correctanswer>1,3,7;4,5</correctanswer>
+		</question>
+	</dragdrop>
+	<multiple>
+		<grouptitle>&lt;b&gt;&lt;i&gt;Can Animals Count?&lt;/b&gt;&lt;/i&gt;</grouptitle>
+		<groupreading>
+		<thereading>It is clear from observation and experiments that certain animals have a limited, intuitive awareness of quantities. They know without analysis the difference between a given number of objects and a smaller number. In his book &lt;i&gt;The Natural History of Selbourne&lt;/i&gt; (1786), the naturalist Gilbert White tells how he secretly removed one egg a day from a plover's nest, and how the mother laid another egg each day to make up for the missing one. Another &lt;readinghighlight&gt;anecdote&lt;/readinghighlight&gt; that demonstrates birds' ability to grasp quantities concerns a nineteenth-century French aristocrat who wanted to get rid of a raven that lived in his castle tower. Whenever he approached the tower, the raven flew to a nearby tree and waited until he left. The nobleman then sent two servants to the tower and told one to leave and one to wait for the raven's return. The raven wasn't fooled and waited until both had left. The aristocrat sent three, then four men. The bird always waited until all the men had left. Finally, when five men entered the tower and four left, the raven couldn't grasp the difference and returned. The remaining servant trapped the bird.
+
+Naturalists have noted that the female paper wasp always provides five--never four, never six--caterpillars for each egg she lays so that the hatchling wasps have something to eat. Scientists have taught mice to distinguish between odd numbers and even numbers of food pellets (providing that the number of pellets are relatively small). Rhesus monkeys appear to have an innate capacity to solve simple arithmetic problems, such as 1 +1 = 2  and 3 - 2 = 1. Other researchers have taught animals equally intriguing tasks. University of Arizona psychologist Irene Pepperberg's African gray parrots can tell her how many keys are scattered on a plate (1994). Chittka and Geiger (1995) trained worker honeybees to feed at a station 300 meters away from their hive. Tiny tents, which the bees used as landmarks to reach these stations, were set up along the route. Bees navigated to their feeding station by "counting" these tent landmarks. When the researchers changed the number of landmarks, the bees would look for their feeding station in other locations  Placing more tents between the hive and the feeding station caused bees to fly a shorter distance before looking for food. 
+
+Perhaps the most famous "mathematical genius" of the animal world was Clever Hans, a horse purchased by Wilhelm von Osten in Berlin around 1900. Von Osten, a retired school teacher, had previously tried to teach mathematics to a cat and a bear, but he successfully trained Clever Hans to count and do arithmetic. Hans communicated numerical answers by stomping his hoof the proper number of times. His performances delighted the public. A math teacher tested the horse and claimed &lt;readinghighlight&gt;he&lt;/readinghighlight&gt; had the mathematical skills of a fourteen-year-old child. However, in 1907 German psychologist Oskar Pfunkst designed a series of experiments that demonstrated that Hans, although certainly a very smart horse, had no true understanding of arithmetic. Hans was simply very good at detecting signals sent &lt;readinghighlight&gt;unwittingly&lt;/readinghighlight&gt; by his owner that were so slight as to be almost undetectable. For example, when his owner asked him how much 8 + 5 was, Hans began stomping his hoof. When he had stomped thirteen times, he detected a slight change in his owner's heartbeat or breathing, or saw his owner raise his eyebrow, and stopped counting. Other animal trainers have deliberately used the techniques that von Osten used to duplicate this talent in dogs, monkeys, and other types of animals.
+
+Today most psychologists believe that animals respond to quantities only when they are connected to survival as a species--as in the case of the plover's eggs--or survival as individuals. They have no understanding of abstract notion of numbers. Animals can count only when the objects are present and only when the numbers involved are small--not more than five or six. One theory is that animals have a basic neural system called an "accumulator" that can clearly distinguish small quantities but cannot reliably discriminate between bigger ones. Higher-order numerical abilities require more highly developed brain systems. This accumulator is active in animals and, perhaps, in human infants and "primitive" humans. Indeed, several hunter-gatherer cultures have words for the numbers one through five, but their word for any higher sum is "many." 
+
+&lt;readinghighlight&gt;Animals' admittedly remarkable achievements simply do not amount to evidence of counting, nor do they reveal more than instinct, refined by the genes of successive generations, or the results of careful conditioning by trainers.&lt;/readinghighlight&gt;</thereading>
+		<readingglossdef>x</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>15</questionnumber>
+			<scrolltoposition>It is clear from observation</scrolltoposition>
+			<questiontext>The author refers to Gilbert White's book in paragraph 1 in order to</questiontext>
+			<choice>show how attitudes towards animals have changed since 1786</choice>
+			<choice>contradict the idea that some birds are able to count</choice>
+			<choice>provide evidence that certain animals are aware of quantities</choice>
+			<choice>contradict the ideas presented in the story about the French aristocrat</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>16</questionnumber>
+			<scrolltoposition>It is clear from observation</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;anecdote&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>story</choice>
+			<choice>image</choice>
+			<choice>detail</choice>
+			<choice>theory</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>17</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Why was the French aristocrat unable to get rid of the raven on the first four attempts?</questiontext>
+			<choice>Because he couldn't determine where the bird went after it had left the tower</choice>
+			<choice>Because the bird was aware that someone was in the tower</choice>
+			<choice>Because he didn't have any help from his servants</choice>
+			<choice>Because the bird was frightened of several men but not of a single man</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>18</questionnumber>
+			<scrolltoposition>Naturalists have noted that the female</scrolltoposition>
+			<questiontext>The author suggests that the mice mentioned in paragraph 2 could distinguish between which of the following?</questiontext>
+			<choice>One food pellet and three food pellets</choice>
+			<choice>Two food pellets and four food pellets</choice>
+			<choice>Three food pellets and four food pellets</choice>
+			<choice>Ninety-nine food pellets and one hundred food pellets</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>19</questionnumber>
+			<scrolltoposition>Naturalists have noted that the female</scrolltoposition>
+			<questiontext>The author says that all the animals mentioned in paragraph 2 are aware of quantities in some way EXCEPT</questiontext>
+			<choice>African gray parrots</choice>
+			<choice>paper moths</choice>
+			<choice>rhesus monkeys</choice>
+			<choice>caterpillars</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>20</questionnumber>
+			<scrolltoposition>Naturalists have noted that the female</scrolltoposition>
+			<questiontext>It can be inferred that if the researchers mentioned in paragraph 2 removed some of the tents between the hive and the feeding station, the honeybees would</questiontext>
+			<choice>be unable to find their way back to the hive</choice>
+			<choice>fly in the opposite direction from the feeding station</choice>
+			<choice>look for food in some of the remaining tents</choice>
+			<choice>fly a longer distance before looking for the feeding station</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>21</questionnumber>
+			<scrolltoposition>Perhaps the most famous</scrolltoposition>
+			<questiontext>"&lt;readinghighlight&gt;He&lt;/readinghighlight&gt;" in paragraph 3 refers to </questiontext>
+			<choice>the math teacher</choice>
+			<choice>von Osten</choice>
+			<choice>Clever Hans</choice>
+			<choice>Oscan Pfunkst</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>22</questionnumber>
+			<scrolltoposition>Perhaps the most famous</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;unwittingly&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>accidentally</choice>
+			<choice>occasionally</choice>
+			<choice>previously</choice>
+			<choice>humorously</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>23</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>What did the experiments performed by Oskar Pfunkst prove?</questiontext>
+			<choice>That von Osten was deliberately fooling the public</choice>
+			<choice>That Hans was not really a very intelligent horse</choice>
+			<choice>That Hans's calculations involved his careful observation of his owner</choice>
+			<choice>That the math teacher who tested Hans was right</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>24</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to information in the passage, which of the following is LEAST likely to be the result of animals' intuitive awareness of quantities?</questiontext>
+			<choice>A duck is more attracted by a box containing five pieces of food than by a box containing one piece.</choice>
+			<choice>When asked by its trainer how old it is, a five-year-old dolphin leaps out of the water five times.</choice>
+			<choice>When one of her five kittens crawls away, a mother cat notices that is gone and searches for it.</choice>
+			<choice>A lion follows one antelope instead of a group of five antelopes because it is easier to hunt a single prey.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>25</questionnumber>
+			<scrolltoposition>Animals' admittedly remarkable achievements simply do not amount to evidence of counting, nor do they reveal more than instinct, refined by the genes of successive generations, or the results of careful conditioning by trainers.*Animals' admittedly remarkable</scrolltoposition>
+			<questiontext>Which of the following sentences best expresses the essential information in the highlighted sentence? (Incorrect answer choices omit important information or change the meaning of the original sentence in an important way.)&lt;readinghighlight&gt;&lt;/readinghighlight&gt;</questiontext>
+			<choice>It is the instinct passed down from previous generations and the conditioning provided by trainers that has given animals their remarkable ability to count.</choice>
+			<choice>Animals can perform some incredible feats that seem to indicate they can count, but there is no proof that these are anything other than instinct or training.</choice>
+			<choice>Some people may consider the achievements of animals to be remarkable, but in fact, they are simply the result of genetic instinct.</choice>
+			<choice>It is undeniable that some animals have the ability to count, but it is difficult to find scientific evidence to support this idea.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>Today most psychologists believe that animals respond to quantities only when they are connected to survival as a species--as in the case of the plover's eggs--or survival as individuals. They have no understanding of abstract notion of numbers.  &lt;n&gt;  Animals can count only when the objects are present and only when the numbers involved are small--not more than five or six.  &lt;n&gt;  One theory is that animals have a basic neural system called an "accumulator" that can clearly distinguish small quantities.  &lt;n&gt;  Higher-order numerical abilities require more highly developed brain systems.  &lt;n&gt;  The accumulator is active in animals and, perhaps, in human infants and "primitive" humans. Indeed, several hunter-gatherer cultures have words for the numbers one through five, but their word for any higher sum is "many."</thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>26</questionnumber>
+			<questiontext>&lt;b&gt;However, it cannot reliably discriminate between bigger ones.&lt;/b&gt;</questiontext>
+			<correctanswer>3</correctanswer>
+		</question>
+	</addsentence>	
+	<dragdrop>
+		<grouptitle>&lt;b&gt;&lt;i&gt;Can Animals Count?&lt;/b&gt;&lt;/i&gt;</grouptitle>
+		<groupreading>
+		<thereading>It is clear from observation and experiments that certain animals have a limited, intuitive awareness of quantities. They know without analysis the difference between a given number of objects and a smaller number. In his book &lt;i&gt;The Natural History of Selbourne&lt;/i&gt; (1786), the naturalist Gilbert White tells how he secretly removed one egg a day from a plover's nest, and how the mother laid another egg each day to make up for the missing one. Another &lt;readinghighlight&gt;anecdote&lt;/readinghighlight&gt; that demonstrates birds' ability to grasp quantities concerns a nineteenth-century French aristocrat who wanted to get rid of a raven that lived in his castle tower. Whenever he approached the tower, the raven flew to a nearby tree and waited until he left. The nobleman then sent two servants to the tower and told one to leave and one to wait for the raven's return. The raven wasn't fooled and waited until both had left. The aristocrat sent three, then four men. The bird always waited until all the men had left. Finally, when five men entered the tower and four left, the raven couldn't grasp the difference and returned. The remaining servant trapped the bird.
+
+Naturalists have noted that the female paper wasp always provides five--never four, never six--caterpillars for each egg she lays so that the hatchling wasps have something to eat. Scientists have taught mice to distinguish between odd numbers and even numbers of food pellets (providing that the number of pellets are relatively small). Rhesus monkeys appear to have an innate capacity to solve simple arithmetic problems, such as 1 +1 = 2  and 3 - 2 = 1. Other researchers have taught animals equally intriguing tasks. University of Arizona psychologist Irene Pepperberg's African gray parrots can tell her how many keys are scattered on a plate (1994). Chittka and Geiger (1995) trained worker honeybees to feed at a station 300 meters away from their hive. Tiny tents, which the bees used as landmarks to reach these stations, were set up along the route. Bees navigated to their feeding station by "counting" these tent landmarks. When the researchers changed the number of landmarks, the bees would look for their feeding station in other locations  Placing more tents between the hive and the feeding station caused bees to fly a shorter distance before looking for food. 
+
+Perhaps the most famous "mathematical genius" of the animal world was Clever Hans, a horse purchased by Wilhelm von Osten in Berlin around 1900. Von Osten, a retired school teacher, had previously tried to teach mathematics to a cat and a bear, but he successfully trained Clever Hans to count and do arithmetic. Hans communicated numerical answers by stomping his hoof the proper number of times. His performances delighted the public. A math teacher tested the horse and claimed &lt;readinghighlight&gt;he&lt;/readinghighlight&gt; had the mathematical skills of a fourteen-year-old child. However, in 1907 German psychologist Oskar Pfunkst designed a series of experiments that demonstrated that Hans, although certainly a very smart horse, had no true understanding of arithmetic. Hans was simply very good at detecting signals sent &lt;readinghighlight&gt;unwittingly&lt;/readinghighlight&gt; by his owner that were so slight as to be almost undetectable. For example, when his owner asked him how much 8 + 5 was, Hans began stomping his hoof. When he had stomped thirteen times, he detected a slight change in his owner's heartbeat or breathing, or saw his owner raise his eyebrow, and stopped counting. Other animal trainers have deliberately used the techniques that von Osten used to duplicate this talent in dogs, monkeys, and other types of animals.
+
+Today most psychologists believe that animals respond to quantities only when they are connected to survival as a species--as in the case of the plover's eggs--or survival as individuals. They have no understanding of abstract notion of numbers. Animals can count only when the objects are present and only when the numbers involved are small--not more than five or six. One theory is that animals have a basic neural system called an "accumulator" that can clearly distinguish small quantities but cannot reliably discriminate between bigger ones. Higher-order numerical abilities require more highly developed brain systems. This accumulator is active in animals and, perhaps, in human infants and "primitive" humans. Indeed, several hunter-gatherer cultures have words for the numbers one through five, but their word for any higher sum is "many." 
+
+&lt;readinghighlight&gt;Animals' admittedly remarkable achievements simply do not amount to evidence of counting, nor do they reveal more than instinct, refined by the genes of successive generations, or the results of careful conditioning by trainers.&lt;/readinghighlight&gt;</thereading>
+		<readingglossdef>x</readingglossdef>
+		</groupreading>
+		<directions>Below is an introductory sentence for a brief summary of the passage. Complete the summary by writing the letters of &lt;b&gt;three&lt;/b&gt; answer choices that express the most important ideas of the passage. Some of the answer choices are incorrect because they express ideas that are not given in the passage or because they express only details from the passage.</directions>
+		<orientation>H</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>27</questionnumber>
+			<questiontext>&lt;b&gt;Some animals are aware of quantities.&lt;/b&gt;</questiontext>
+			<sectionheading1>&lt;b&gt;Chemical herbicides&lt;/b&gt;</sectionheading1>
+			<sectionheading2>&lt;b&gt;Bio-control agents&lt;/b&gt;</sectionheading2>
+			<choice1>Von Osten discovered that a horse is easier to train than either a cat or a bear.</choice1>
+			<choice2>Most psychologists now believe that, while animals recognize small quantities, perhaps by means of an "accumulator," they cannot actually count.</choice2>
+			<choice3>Both historical accounts and more recent studies indicate that some animals seem to have basic counting skills.</choice3>
+			<choice4>Clever Hans seemed particularly good at understanding numbers but, in fact, he was observing signals from his owner.</choice4>
+			<choice5>Some hunter-gatherers have words for very small numbers but use the word for &lt;i&gt;many&lt;/i&gt; for larger numbers.</choice5>
+			<correctanswer>2,3,4</correctanswer>
+		</question>
+	</dragdrop>
+	<multiple>
+		<grouptitle>&lt;b&gt;The Bessemer Process&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>It would be hard to cite a development that has had more impact on industry than the Bessemer process of making steel. It made possible the production of low-cost steel in large quantities and established the foundation of the modern steel industry. It provided steel for railroads and for the &lt;readinghighlight&gt;skeletons&lt;/readinghighlight&gt; of early skyscrapers. In many ways, it was responsible for the rapid industrialization of the United States that took place in the formative period of the late 1800s.
+
+The process was named for Henry Bessemer, who owned the Bessemer Steel Works in Sheffield, England. The American steelmaker William Kelly first developed the process. Bankruptcy forced him to sell his patents to Bessemer, who had been working on a similar process himself. However, neither Bessemer nor Kelly could have developed this method of making steel without knowing of the work of the British metallurgist Robert Muslett. Muslett discovered in 1857 that adding the iron-carbon-magnesium alloy spiegeleissen to iron during the refining process helps create a much stronger form of steel.
+
+Before the introduction of the Bessemer process, steel was made by the crucible method, perfected by Benjamin Huntsman. Bars of iron were heated with charcoal and &lt;readinggloss&gt;coke&lt;/readinggloss&gt; for periods of up to a week in a stone box. Up to 3 tons of expensive coke was burnt for each ton of steel produced. &lt;readinghighlight&gt;Because steel was so costly to produce, wrought iron was used for most industrial applications, but wrought iron is much more brittle than steel.&lt;/readinghighlight&gt; After the Bessemer process came into use, steel and wrought iron were roughly the same price.
+
+The Bessemer process takes place in an egg-shaped container called a converter. The converter is made of steel and lined with clay. Workers pour molten &lt;readinggloss&gt;pig iron&lt;/readinggloss&gt; from a blast furnace into the converter. Compressed air is injected through tubes called tuy&#233;res into the bottom of the converter. The oxygen in the air reacts with impurities such as silicon and carbon in the molten metal, and the oxidized impurities (called slag) float to the top of the mixture. The oxidization,  along with the addition of spiegeleissen or a similar alloying compound, converts the iron to steel. The entire process takes only about half an hour. The molten steel is then poured out into ladles and transferred into molds, and the slag is left behind.
+    
+The first Bessemer plant in the United States was built in Wyandotte, Michigan in 1864, near the end of the Civil War. It was capable of producing only 2 tons of steel at a time. The steel was rolled into rails--the first steel rails made in the United States. But after about 1875, production grew rapidly, rising to 1.2 million tons in 1880, when it exceeded that of wrought iron for the first time. Pittsburgh, Pennsylvania and Birmingham, Alabama became major centers of Bessemer steel production in the United States.
+ 
+The rise of the U.S. steel industry in the last quarter of the nineteenth century was fueled largely by the demand for Bessemer steel rails for the construction of the nation's &lt;readinghighlight&gt;burgeoning&lt;/readinghighlight&gt; rail network. Steel rails were far more durable than those made of iron. Spurred by demand from the railroads, the U.S. steel industry became the largest in the world in 1886 when it surpassed that of Great Britain.
+
+The Bessemer process was the chief method of making steel until 1907, when it was overtaken by other methods, such as the open-hearth process and, later, the Linz-Donawitz process. The Bessemer process took place so quickly that it allowed little time for chemical analysis of the molten steel or for the adjustment of the amounts of alloying elements added to the steel. The Bessemer process also did not efficiently remove certain impurities such as phosphorous. By 1960, the Bessemer process accounted for less than 3% of the total U.S. steel production.</thereading>
+			<readingglossdef>coke*coke: A very hard form of coal that burns at a high temperature</readingglossdef>
+			<readingglossdef>pig*pig iron:  The raw form of iron used to make steel</readingglossdef>
+			<readingglossdef>iron*pig iron:  The raw form of iron used to make steel</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>28</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the passage, the Bessemer process contributed to all of the following EXCEPT</questiontext>
+			<choice>the establishment of the modern steel industry in the United States</choice>
+			<choice>the manufacture of steel weapons during the Civil War</choice>
+			<choice>the production of steel for the transportation and construction industry</choice>
+			<choice>industrial development in the United States during an important period</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>29</questionnumber>
+			<scrolltoposition>It would be hard to cite</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;skeletons&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>foundations</choice>
+			<choice>components</choice>
+			<choice>frameworks</choice>
+			<choice>predecessors</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>30</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Who first developed the Bessemer process?</questiontext>
+			<choice>Benjamin Huntsman</choice>
+			<choice>Henry Bessemer</choice>
+			<choice>William Kelly</choice>
+			<choice>Robert Musslett</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>31</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the passage, what is &lt;i&gt;spiegeleisen&lt;/i&gt;?</questiontext>
+			<choice>An alloy used to strengthen steel</choice>
+			<choice>A fuel used to melt metal</choice>
+			<choice>A tube that carries oxygen into a converter</choice>
+			<choice>An industrial process</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>32</questionnumber>
+			<scrolltoposition>Because steel was so costly to produce, wrought iron was used for most industrial applications, but wrought iron is much more brittle than steel.*Before the introduction of</scrolltoposition>
+                        <questiontext>Which of the following sentences best expresses the essential information in the highlighted sentence? (Incorrect answer choices omit important information or change the meaning of the original sentence in an important way.)&lt;readinghighlight&gt;&lt;/readinghighlight&gt;</questiontext>
+			<choice>Wrought iron cost more to produce than steel, but it was not as easy to manufacture as steel.</choice>
+			<choice>Although wrought iron was not as strong as steel, it was used in industry because it was cheaper to make.</choice>
+			<choice>Steel was not only less expensive than wrought iron, it was also less brittle.</choice>
+			<choice>Wrought iron broke so easily that it could not be used for many industrial purposes.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>33</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Which of the following is NOT mentioned in the passage as an impurity found in iron?</questiontext>
+			<choice>Carbon</choice>
+			<choice>Silicon</choice>
+			<choice>Phosphorous</choice>
+			<choice>Oxygen</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>34</questionnumber>
+			<scrolltoposition>The rise of the U.S.</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;burgeoning&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>expanding</choice>
+			<choice>critical</choice>
+			<choice>recent</choice>
+			<choice>surprising</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>35</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the passage, why were Bessemer steel rails used in place of iron rails?</questiontext>
+			<choice>They did not have to be imported.</choice>
+			<choice>They could be installed faster.</choice>
+			<choice>They provided a smoother ride for passengers.</choice>
+			<choice>They lasted longer.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>36</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Great Britain was the largest producer of steel in the world until</questiontext>
+			<choice>1864</choice>
+			<choice>1875</choice>
+			<choice>1886</choice>
+			<choice>1907</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>37</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>One reason the Bessemer method was replaced by other methods of steel making is that the Bessemer method</questiontext>
+			<choice>took too much time</choice>
+			<choice>was extremely complicated</choice>
+			<choice>cost too much</choice>
+			<choice>did not remove all impurities</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>The first Bessemer plant in the United States was built in Wyandotte, Michigan in 1864, near the end of the Civil War.  &lt;n&gt;  It was capable of producing only 2 tons of steel at a time.  &lt;n&gt;  The steel was rolled into rails--the first steel rails made in the United States.  &lt;n&gt;  But after about 1875, production grew rapidly, rising to 1.2 million tons in 1880, when it exceeded that of wrought iron for the first time. Pittsburgh, Pennsylvania and Birmingham, Alabama became major centers of Bessemer steel production in the United States.  &lt;n&gt;</thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>38</questionnumber>
+			<questiontext>&lt;b&gt;Acceptance of the process was initially slow.&lt;/b&gt;</questiontext>
+			<correctanswer>3</correctanswer>
+		</question>
+	</addsentence>
+	<dragdrop>
+		<grouptitle>&lt;b&gt;The Bessemer Process&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>It would be hard to cite a development that has had more impact on industry than the Bessemer process of making steel. It made possible the production of low-cost steel in large quantities and established the foundation of the modern steel industry. It provided steel for railroads and for the &lt;readinghighlight&gt;skeletons&lt;/readinghighlight&gt; of early skyscrapers. In many ways, it was responsible for the rapid industrialization of the United States that took place in the formative period of the late 1800s.
+
+The process was named for Henry Bessemer, who owned the Bessemer Steel Works in Sheffield, England. The American steelmaker William Kelly first developed the process. Bankruptcy forced him to sell his patents to Bessemer, who had been working on a similar process himself. However, neither Bessemer nor Kelly could have developed this method of making steel without knowing of the work of the British metallurgist Robert Muslett. Muslett discovered in 1857 that adding the iron-carbon-magnesium alloy spiegeleissen to iron during the refining process helps create a much stronger form of steel.
+
+Before the introduction of the Bessemer process, steel was made by the crucible method, perfected by Benjamin Huntsman. Bars of iron were heated with charcoal and &lt;readinggloss&gt;coke&lt;/readinggloss&gt; for periods of up to a week in a stone box. Up to 3 tons of expensive coke was burnt for each ton of steel produced. &lt;readinghighlight&gt;Because steel was so costly to produce, wrought iron was used for most industrial applications, but wrought iron is much more brittle than steel.&lt;/readinghighlight&gt; After the Bessemer process came into use, steel and wrought iron were roughly the same price.
+
+The Bessemer process takes place in an egg-shaped container called a converter. The converter is made of steel and lined with clay. Workers pour molten &lt;readinggloss&gt;pig iron&lt;/readinggloss&gt; from a blast furnace into the converter. Compressed air is injected through tubes called tuy&#233;res into the bottom of the converter. The oxygen in the air reacts with impurities such as silicon and carbon in the molten metal, and the oxidized impurities (called slag) float to the top of the mixture. The oxidization,  along with the addition of spiegeleissen or a similar alloying compound, converts the iron to steel. The entire process takes only about half an hour. The molten steel is then poured out into ladles and transferred into molds, and the slag is left behind.
+    
+The first Bessemer plant in the United States was built in Wyandotte, Michigan in 1864, near the end of the Civil War. It was capable of producing only 2 tons of steel at a time. The steel was rolled into rails--the first steel rails made in the United States. But after about 1875, production grew rapidly, rising to 1.2 million tons in 1880, when it exceeded that of wrought iron for the first time. Pittsburgh, Pennsylvania and Birmingham, Alabama became major centers of Bessemer steel production in the United States.
+
+ 
+The rise of the U.S. steel industry in the last quarter of the nineteenth century was fueled largely by the demand for Bessemer steel rails for the construction of the nation's &lt;readinghighlight&gt;burgeoning&lt;/readinghighlight&gt; rail network. Steel rails were far more durable than those made of iron. Spurred by demand from the railroads, the U.S. steel industry became the largest in the world in 1886 when it surpassed that of Great Britain.
+
+The Bessemer process was the chief method of making steel until 1907, when it was overtaken by other methods, such as the open-hearth process and, later, the Linz-Donawitz process. The Bessemer process took place so quickly that it allowed little time for chemical analysis of the molten steel or for the adjustment of the amounts of alloying elements added to the steel. The Bessemer process also did not efficiently remove certain impurities such as phosphorous. By 1960, the Bessemer process accounted for less than 3% of the total U.S. steel production.</thereading>
+			<readingglossdef>coke*coke: A very hard form of coal that burns at a high temperature</readingglossdef>
+			<readingglossdef>pig*pig iron:  The raw form of iron used to make steel</readingglossdef>
+			<readingglossdef>iron*pig iron:  The raw form of iron used to make steel</readingglossdef>
+		</groupreading>
+		<directions>Below is an introductory sentence for a brief summary of the passage. Complete the summary by writing the letters of &lt;b&gt;three&lt;/b&gt; answer choices that express the most important ideas of the passage. Some of the answer choices are incorrect because they express ideas that are not given in the passage or because they express only details from the passage.</directions>
+		<orientation>H</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>39</questionnumber>
+			<questiontext>&lt;b&gt;The Bessemer process for making steel was of great importance to the American economy.&lt;/b&gt;</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>Bessemer steel is made in converters by using oxygen to remove the impurities and by adding an alloying compound for strength.</choice1>
+			<choice2>William Kelly tried to develop a low-cost method of making steel, but he went bankrupt before he was successful.</choice2>
+			<choice3>The development of Bessemer steel enabled the first skyscrapers to be built.</choice3>
+			<choice4>Stimulated by the railroad industry, the Bessemer steel industry became dominant in the late eighteenth century, but it was later replaced by other methods.</choice4>
+			<choice5>Named for Henry Bessemer, the process was cheaper than the existing method of making steel, and made steel competitive with wrought iron in price.</choice5>
+			<correctanswer>1,4,5</correctanswer>
+		</question>
+	</dragdrop>
+<sectionClosing>This is the end of the Reading Section. Go on to the Listening Section.</sectionClosing>
+
+
+
+</test>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

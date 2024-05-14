@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Writing Section Directions</sectionname>
+<sectiondirections>This section tests your ability to write academic English. It consists of two writing tasks.
+
+The first writing task is an "integrated" task. It involves reading a short passage and listening to a short lecture on the same topic. You will then have 20 minutes in which to write a response based on the information in the passage and the lecture.
+
+The second writing task is an "independent" task. It involves writing a response to a question using your own experience and background knowledge.
+
+Now read the directions for the first writing task.
+</sectiondirections>
+
+	<integrated>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>Take three minutes to read the short passage on the following screen. You may take notes as you read. 
+
+After three minutes, you will hear a lecture on the same topic as the reading. Again, you may take notes as you listen.
+
+You will have 20 minutes to write your response. Your response should include information from both the reading and the lecture. 
+
+Your essay will be rated on the completeness and accuracy of your response as well as on the correctness and quality of your writing. A typical response should be about 250 words. 
+
+You may use your notes and view the reading passage on the computer screen as you write. 
+
+If you finish this writing task in less than 20 minutes, you may start working on the second writing task if you want.</directions>
+			<directionsAudio>IntegratedWritingTask.mp3</directionsAudio>
+			<thereading>These days, many tourists are tired of just sitting on the beach or looking at paintings in museums. Many enjoy getting back to nature in undeveloped parts of the globe. In fact, the most rapidly growing segment of the tourist industry is "eco-tourism," tourism in sites that have ecological significance such as national parks and nature preserves in rain forests, deserts, and mountainous regions.
+
+Eco-tourism is having significant positive results on these previously remote areas. First and foremost, eco-tourism serves as a substitute for forms of development that would be much more damaging to the environment, such as logging, farming, and manufacturing. And eco-tourism encourages conservation. Let's say there is a rainforest in a country where several rare species of birds and mammals live. Now, the government could allow loggers to cut down this rain forest and sell the wood and could allow developers to build on this site. But suppose the government decides to preserve this national treasure and to instead develop this area for eco-tourism. There would then a steady stream of revenue from tourists. Local people could find jobs working at small hotels, lodges, and tour companies. Many of these natural wonders lie in areas that have previously been passed over by development of any kind. Eco-tourism provides jobs and better living conditions for people who need it the most. Now, both the government and the local people have a vested interest in preserving this sensitive wilderness site. And governments can use some of the funds from entry fees to parks and so on to help pay for the preservation and protection. Eco-tourism, then, is one of those rare situations where all parties benefit--tourists, governments, the local people, and especially the animals and plants.
+</thereading>
+			<audiofile>2_Wr_02.mp3</audiofile>			
+			<art>PT2_21.jpg</art>
+
+			<questionDirections>Now get ready to answer the question. You may also use your notes to help you. You have twenty minutes to prepare and write your response.</questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; Summarize the main points made in the lecture that you just heard, discussing how they cast doubt on points made in the reading. You can refer to the reading passage as you write.</questiontext>
+			<questionaudio>2_Wr_03.mp3</questionaudio>
+		</question>
+	</integrated>
+	<independent>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>Read the question. You have 30 minutes to write your essay. This includes the time to plan, write, and revise your essay. A typical response should be a minimum of 300 words.
+
+Your essay will be rated on the correctness and quality of your writing, including the way you organize your essay and develop and support your ideas.</directions>
+			<directionsAudio>IndependentWritingTask.mp3</directionsAudio>
+			<questionDirections>Read the question below. You have thirty minutes to write your essay. This includes the time to plan, write, and revise your essay.  A typical response should be a minimum of 300 words.</questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; A new acquaintance of yours is thinking about studying your native language. How would you convince him or her that this would be a good decision? Use specific reasons and details in your response.</questiontext>
+		</question>
+	</independent>
+<sectionClosing>This is the end of the Writing Section and of Practice Test 2.</sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 3</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Speaking Section Directions</sectionname>
+<sectiondirections>This section tests your ability to speak about various subjects. There are six tasks in this section. Listen carefully to the directions, and read the questions on the screen. The first two tasks are independent speaking tasks. You have 15 seconds in which to prepare your response. When you hear a beep on the Listening Program, you will have 45 seconds in which to answer the question.
+
+The last four tasks are integrated speaking tasks. The third and fourth questions involve a reading text and a listening passage. You will have 45 seconds in which to read a short text. You will then hear a short conversation or part of a lecture on the same topic. You may take notes on both the reading and listening passage. You will then see a question on the screen asking about the information that you have just read and heard, and you will have 30 seconds in which to plan a response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question. 
+
+The fifth and sixth questions involve a short listening passage. You may take notes as you listen. After listening to the conversation or lecture, you will see a question, and you will have 20 seconds in which to plan your response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question.
+
+A clock on the screen will tell you how much preparation time or how much response time (speaking time) remains for each question. It is important that you time yourself accurately when you take this practice test. On an actual test your responses will be recorded and evaluated by trained raters. 
+</sectiondirections>
+
+	<speaking>
+		<numberofquestions>6</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>3_Sp_49.mp3</questionAudio>			
+			<art>x</art>
+			<audiofile>x</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>Imagine that you have the opportunity to learn a language that you are not able to speak now. Explain which language you would choose to learn. Give specific details and examples to support your explanation.</questiontext>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>3_Sp_50.mp3</questionAudio>			
+			<art>x</art>
+			<audiofile>x</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>Some people generally prefer to stay up late and wake up late. Other people generally prefer to go to bed early and wake up early. Explain which of these two options you prefer. Include details and examples in your explanation.</questiontext>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<directions>The library science department of Farwell University has begun to offer a new research methods course. Read the following notice from the department. You will have 45 seconds in which to read the notice. Begin reading now.</directions>
+			<directionsAudio>3_Sp_51.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>The Department of Library Science of Farwell University announces a new course: Research Methods 101. This short-term (4-week) course introduces students to the most important methods of library research. The course will focus on locating and evaluating information from print and non-print resources: 
+ 
+*  specialized encyclopedias  
+*  magazines and newspapers
+*  scholarly journals  
+*  Internet websites
+
+Students will learn to use the following research tools:
+
+*  online library catalog
+*  periodical databases   
+*  Internet search engines 
+
+Students will learn to evaluate information that they find according to their accuracy, authority, and timeliness. They will also learn to prepare bibliographies.
+
+This course replaces the three-hour library orientation, which was previously required for all 
+incoming first-year students.</thereading>
+			<listeningdirections>Now listen to two students discussing this notice.</listeningdirections>
+			<questionAudio>3_Sp_51b.mp3</questionAudio>			
+			<art>PT3_16.jpg</art>
+			<audiofile>3_Sp_51a.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The woman expresses her opinion of the new course. State her opinion, and explain the reasons she gives for having that opinion.</questiontext>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<directions>The following passage comes from a textbook in a telecommunications class. You will have 45 seconds in which to read the text below. Begin now.</directions>
+			<directionsAudio>3_Sp_52.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>Situation comedies, or sitcoms, first became popular on radio, and then moved to television in the late 1940s. They involve a cast of characters that reappear in each episode. The characters are usually part of a tight-knit group, most often members of a family, but they may also be friends, coworkers, or neighbors. Most episodes are self-contained; a problem of some kind arises and is resolved by the end of the show. Some sitcoms, however, have ongoing stories, often involving romantic relationships, that develop from episode to episode.
+
+Most sitcom episodes are formulaic. In other words, they follow similar plots, similar story lines. Since the first sitcom, characters have faced the same basic problems. One common formula is that one or more characters try to deceive others, or hide the truth from them, and this leads to many comic situations.
+
+Successful sitcoms generally have predictable life cycles. For the first few years, the writing is creative, and more viewers watch every week. After several years, sitcoms reach their peak in terms of creativity and audience. Something often goes wrong. Perhaps some key actors leave the show. The writers bring in new characters or introduce new premises, but these seldom work. Before long, the sitcom is cancelled.</thereading>
+			<listeningdirections>Now listen to a lecture in a telecommunications class about the television show &lt;i&gt;Friends&lt;/i&gt;.</listeningdirections>
+			<questionAudio>3_Sp_52b.mp3</questionAudio>			
+			<art>PT3_17.jpg</art>
+			<audiofile>3_Sp_52a.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The professor's lecture is about the television show &lt;i&gt;Friends&lt;/i&gt;. Describe this show and explain how this is related to the information about sitcoms presented in the reading.</questiontext>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>3_Sp_53.mp3</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>Listen to a conversation between two students.</listeningdirections>
+			<questionAudio>3_Sp_53b.mp3</questionAudio>			
+			<art>PT3_18_19.jpg</art>
+			<audiofile>3_Sp_53a.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The two students discuss two possible solutions to Andrea's problem. Discuss her problem and then explain which of the two solutions you think is better and why you think so.</questiontext>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>3_Sp_54.mp3</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>Listen to part of a lecture in a geology class.</listeningdirections>
+			<questionAudio>3_Sp_54b.mp3</questionAudio>			
+			<art>PT3_20.jpg</art>
+			<audiofile>3_Sp_54a.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>Using specific examples and points from the lecture, explain how diamonds are formed and how they are brought to the surface of the Earth.</questiontext>
+		</question>
+	</speaking>
+	
+<sectionClosing>This is the end of the Speaking Section. Go directly to the Writing Section. </sectionClosing>
+</test>

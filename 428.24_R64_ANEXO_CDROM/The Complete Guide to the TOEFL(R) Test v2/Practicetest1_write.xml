@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Writing Section Directions</sectionname>
+<sectiondirections>
+This section tests your ability to write academic English. It consists of two writing tasks.
+
+The first writing task is an "integrated" task. It involves reading a short passage and listening to a short lecture on the same topic. You will then have 20 minutes in which to write a response based on the information in the passage and the lecture.
+
+The second writing task is an "independent" task. It involves writing a response to a question using your own experience and background knowledge.
+
+Now read the directions for the first writing task.</sectiondirections>
+
+	<integrated>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>Take three minutes to read the short passage on the following screen. You may take notes as you read. 
+
+After three minutes, you will hear a lecture on the same topic as the reading. Again, you may take notes as you listen.
+
+You will have 20 minutes to write your response. Your response should include information from both the reading and the lecture. 
+
+Your essay will be rated on the completeness and accuracy of your response as well as on the correctness and quality of your writing. A typical response should be about 250 words. 
+
+You may use your notes and view the reading passage on the computer screen as you write. 
+
+If you finish this writing task in less than 20 minutes, you may start working on the second writing task if you want.</directions>
+			<directionsAudio>IntegratedWritingTask.mp3</directionsAudio>
+			<thereading>Another personality type is called the "universal risk-taking personality." People with this type of personality engage in risky activities in all aspects of their lives, endangering themselves, their families and friends, and their fortunes for little or no reason or reward. Since the need for safety is the most fundamental of all human needs, behaviors of this kind must be considered illogical and, in their most extreme forms, pathological. These extreme behaviors are indicative of suicidal tendencies, of what some psychologists call &lt;i&gt;thanatos&lt;/i&gt;, the death wish.
+
+Of course, there are those who must face risks. Soldiers may be called on to face the dangers of the battlefield. This is their duty, and we expect them to do their duty.  Lumberjacks encounter daily dangers when chopping down trees in the forest. This is their job. In many other occupations, people face dangers willingly, but for good reason. However, young daredevils who drive their cars in street races do so for no reason. They endanger their lives and the lives of others for no reason except for the satisfaction they get from their selfish thrill-seeking.
+
+Many people who engage in dangerous activities for no purpose do so to hide some sort of inadequacy. For example, a student whose grades are not good, who does not do well in school, may try to cover up his failure in this respect by taking needless chances. This may be somewhat understandable in the young, but there are plenty of adults who behave the same way. Some of our so-called "adventurers" are really just like schoolchildren themselves, showing off to get attention and to hide their feelings of inadequacy.</thereading>
+			<audiofile>1_Wr_02.mp3</audiofile>			
+			<art>PT1_21.jpg</art>
+			<questionDirections>Now get ready to answer the question. You may also use your notes to help you. You have twenty minutes to prepare and write your response.</questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; Summarize the main points made in the lecture that you just heard, discussing how they cast doubt on the main points of the reading. You can refer to the reading passage as you write.</questiontext>
+			<questionaudio>1_Wr_03.mp3</questionaudio>
+		</question>
+	</integrated>
+	<independent>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>Read the question. You have 30 minutes to write your essay. This includes the time to plan, write, and revise your essay. A typical response should be a minimum of 300 words.
+
+Your essay will be rated on the correctness and quality of your writing, including the way you organize your essay and develop and support your ideas.</directions>
+			<directionsAudio>IndependentWritingTask.mp3</directionsAudio>
+			<questionDirections>Read the question below. You have thirty minutes to write your essay. This includes the time to plan, write, and revise your essay.  A typical response should be a minimum of 300 words. </questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; Books can be divided into two main types: fiction (novels and stories) and non-fiction (histories, biographies, and self-help books, for example). Which of these two types of books do you generally prefer to read? Use specific reasons and details to support your answer.</questiontext>
+		</question>
+	</independent>
+<sectionClosing>This is the end of the Writing Section and of Practice Test 1.</sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

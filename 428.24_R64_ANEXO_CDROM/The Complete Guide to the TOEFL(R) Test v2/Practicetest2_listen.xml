@@ -1,0 +1,633 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Listening Section Directions</sectionname>
+<sectiondirections>This section tests your understanding of conversations and lectures.  You will hear each conversation or lecture only once. Your answers should be based on what is stated or implied in the conversations and lectures.
+
+You are allowed to take notes as you listen, and you can use these notes to help you answer the questions. 
+
+In some questions, you will see a headphones icon.   &lt;icon&gt;   This icon tells you that you will hear, but not read, part of the lecture again. Then you will answer a question about the part of the lecture that you heard.
+
+Some questions have special directions that are &lt;readinghighlight&gt;highlighted&lt;/readinghighlight&gt;.
+
+This test includes two conversations and four lectures.
+
+You must give an answer for every question, and then click &lt;b&gt;NEXT&lt;/b&gt;. To confirm your answer, click &lt;b&gt;OK&lt;/b&gt;. Once the next question appears, you cannot go back to earlier questions. 
+</sectiondirections>
+
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<audiofile>2_Li_03.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT2_4.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the conversation.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>2_Li_05.mp3</questionAudio>
+			<questiontext>Why can't Allen vote for Janet?</questiontext>
+			<choice>Because he is no longer attending the university.</choice>
+			<choice>Because she has decided to drop out of the election.</choice>
+			<choice>Because they do not attend the same school at the university.</choice>
+			<choice>Because she is running for president, not for the Student Council.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_06.mp3</questionAudio>
+			<questiontext>How many members of the council is each student allowed to vote for?</questiontext>
+			<choice>One</choice>
+			<choice>Two</choice>
+			<choice>Three</choice>
+			<choice>Eleven</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>3</questionnumber>
+			<audiofile>2_Li_07.mp3</audiofile>
+			<questiontext>What is learned about Janet from this conversation?</questiontext>
+			<choice>She is currently a member of the Student Council.</choice>
+			<choice>She doesn't believe that she has a chance of getting elected.</choice>
+			<choice>She doesn't think that the president should be directly elected.</choice>
+			<choice>She may run for Student Council president next year.</choice>
+			<correctanswer>1,4</correctanswer>
+		</question>
+	</multipleanswer>	
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>4</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_08.mp3</questionAudio>
+			<questiontext>According to Janet, what is the most important responsibility of the Student Council?</questiontext>
+			<choice>To determine how to spend student fees</choice>
+			<choice>To decide when and where to hold concerts</choice>
+			<choice>To attend meetings of the Board of Trustees</choice>
+			<choice>To change the student government charter</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<audiofile>2_Li_09.mp3</audiofile>
+			<boxtext>Listen again to part of the conversation.</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_10.mp3</questionAudio>
+			<questiontext>What does Allen imply when he says this?    &lt;icon&gt;</questiontext>
+			<choice>He'll be too busy to vote tomorrow.</choice>
+			<choice>He won't attend tonight's debate.</choice>
+			<choice>He's already decided whom to vote for.</choice>
+			<choice>He hopes the woman gets elected.</choice>
+			<correctanswer>2</correctanswer>
+		</question>	
+		<question>
+			<questionnumber>6</questionnumber>
+			<audiofile>2_Li_11.mp3</audiofile>
+			<boxtext>Listen to a conversation between two students.</boxtext>
+			<art>PT2_5.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the conversation.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>2_Li_13.mp3</questionAudio>
+			<questiontext>What subject does Professor Marquez probably teach?</questiontext>
+			<choice>Chemistry</choice>
+			<choice>Film making</choice>
+			<choice>Drama</choice>
+			<choice>Marketing</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_14.mp3</questionAudio>
+			<questiontext>What will Professor Marquez give the man if he comes to her class the next day?</questiontext>
+			<choice>Information about what role he will play</choice>
+			<choice>Several types of ice cream</choice>
+			<choice>A list of questions about the product</choice>
+			<choice>Money to pay him for his time</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_15.mp3</questionAudio>
+			<questiontext>What does the woman imply about focus groups that test Hollywood films?</questiontext>
+			<choice>They are mainly exploratory focus groups.</choice>
+			<choice>They are used to help select directors for films.</choice>
+			<choice>They are mainly experiential focus groups.</choice>
+			<choice>They are usually used before work on films has begun.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_16.mp3</questionAudio>
+			<questiontext>What will Professor Marquez probably pay most attention to during the focus group activity?</questiontext>
+			<choice>The knowledge that the moderators have about the product</choice>
+			<choice>The types of ice cream that are used</choice>
+			<choice>The opinions that the volunteers express</choice>
+			<choice>The interaction between focus groups and moderators</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<audiofile>2_Li_17.mp3</audiofile>
+			<boxtext>Listen again to part of the conversation.</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_18.mp3</questionAudio>
+			<questiontext>What does Tony imply when he says this?    &lt;icon&gt;</questiontext>
+			<choice>He wants to take part in the focus group activity, but he can't.</choice>
+			<choice>He likes mint chocolate chip ice cream.</choice>
+			<choice>He's already formed his opinion about the product.</choice>
+			<choice>He would like to become a moderator of the focus group.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>11</questionnumber>
+			<audiofile>2_Li_19.mp3</audiofile>
+			<boxtext>American Literature</boxtext>
+			<art>PT2_6.jpg:23,PT2_8.jpg:82,PT2_6.jpg:176,PT2_7.jpg:304,PT2_6.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the lecture. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>2_Li_21.mp3</questionAudio>
+			<questiontext>Where did Harriet Stowe live when she wrote &lt;i&gt;Uncle Tom's Cabin&lt;/i&gt;?</questiontext>
+			<choice>Cincinnati, Ohio</choice>
+			<choice>Kentucky</choice>
+			<choice>Brunswick, Maine</choice>
+			<choice>Connecticut</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<dragdropListen>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>12</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>	
+			<orientation>A</orientation>
+			<backgroundart>L_12.jpg</backgroundart>
+			<questionAudio>2_Li_22.mp3</questionAudio>
+			<questiontext>The professor mentions a number of versions of &lt;i&gt;Uncle Tom's Cabin&lt;/i&gt;. List these in the order in which they were produced, beginning with the earliest.</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>The book</choice1>
+			<choice2>The movie</choice2>
+			<choice3>The newspaper serial</choice3>
+			<choice4>The plays</choice4>
+			<Loc1>3,3</Loc1>
+			<Loc2>3,30</Loc2>
+			<Loc3>3,60</Loc3>
+			<Loc4>3,90</Loc4>
+			<correctanswer>3,1,4,2</correctanswer>
+		</question>
+	</dragdropListen>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>13</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_23.mp3</questionAudio>
+			<questiontext>Why does the professor mention Charles Dickens?</questiontext>
+			<choice>He wrote a book on the same topic as that of Stowe's book.</choice>
+			<choice>Like Stowe, he wrote about some characters in a sentimental way.</choice>
+			<choice>His novel &lt;i&gt;The Old Curiosity Shop&lt;/i&gt; strongly influenced Stowe's writing.</choice>
+			<choice>He strongly criticized Stowe's novel &lt;i&gt;Uncle Tom's Cabin&lt;/i&gt;.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>14</questionnumber>
+			<audiofile>2_Li_24.mp3</audiofile>
+			<questiontext>What does the professor say about the scene in which Eliza is chased across the icy river by men with dogs?</questiontext>
+			<choice>It is considered the most frightening part of the book.</choice>
+			<choice> It is one of the scenes that people remember best. </choice>
+			<choice>It is a part of the book but not of the play.</choice>
+			<choice>It does not appear in the book &lt;i&gt;Uncle Tom's Cabin&lt;/i&gt;.</choice>
+			<correctanswer>2,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>15</questionnumber>
+			<audiofile>2_Li_25.mp3</audiofile>
+			<questiontext>In this lecture, the professor mentions a number of criticisms of Harriet Beecher Stowe's novel &lt;i&gt;Uncle Tom's Cabin&lt;/i&gt;. Indicate whether each of the following is a criticism that was mentioned in the lecture. </questiontext>
+			<rows>6</rows>
+			<columns>3</columns>
+			<heading>Yes</heading>
+			<heading>No</heading>
+			<choice>It is not strong enough in its criticism of slavery.</choice>
+			<choice>It treats its characters too sentimentally.</choice>
+			<choice>It is not based on the author's first-hand experiences.</choice>
+			<choice>It is difficult for modern readers to understand.</choice>
+			<choice>It is far too long and repetitive.</choice>
+			<correctanswer>2,2,2,3,3</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>16</questionnumber>
+			<audiofile>2_Li_26.mp3</audiofile>
+			<boxtext>Listen again to part of the lecture. Then answer the question. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_27.mp3</questionAudio>
+			<questiontext>What does the professor suggest to the students when she   &lt;icon&gt; says this?</questiontext>
+			<choice>They should read the book several times.</choice>
+			<choice>They must read the entire textbook.</choice>
+			<choice>They should read short selections from the novel.</choice>
+			<choice>They should read all of &lt;i&gt;Uncle Tom's Cabin&lt;/i&gt;.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+	</multipleListen>
+	<dragdropListen>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>17</questionnumber>
+			<audiofile>2_Li_28.mp3</audiofile>
+			<boxtext>Geology</boxtext>
+			<art>PT2_9.jpg:47,PT2_10.jpg:111,PT2_9.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the lecture.
+
+You may use your notes to help you.</highlightbox>	
+			<orientation>A</orientation>
+			<backgroundart>L_17.jpg</backgroundart>
+			<questionAudio>2_Li_30.mp3</questionAudio>
+			<questiontext>The professor discusses four types of materials involved in the formation of a glacier. Give the order in which these materials appear.</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>Glacial ice</choice1>
+			<choice2>N&#233;v&#233;</choice2>
+			<choice3>Firn</choice3>
+			<choice4>Ordinary snow</choice4>
+			<Loc1>3,3</Loc1>
+			<Loc2>3,30</Loc2>
+			<Loc3>3,60</Loc3>
+			<Loc4>3,90</Loc4>
+			<correctanswer>4,2,3,1</correctanswer>
+		</question>
+	</dragdropListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>18</questionnumber>
+			<audiofile>2_Li_31.mp3</audiofile>
+			<questiontext>Where can continental glaciers be found today?</questiontext>
+			<choice>West Virginia</choice>
+			<choice>Iceland</choice>
+			<choice>Greenland</choice>
+			<choice>Antarctica</choice>
+			<correctanswer>3,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>19</questionnumber>
+			<audiofile>2_Li_32.mp3</audiofile>
+			<questiontext>Which of the following describe a valley formed by a valley glacier?</questiontext>
+			<choice>Shaped like the letter V</choice>
+			<choice>Gently curving</choice>
+			<choice>Shaped like the letter U</choice>
+			<choice>Having sharp angles</choice>
+			<correctanswer>2,3</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>20</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_33.mp3</questionAudio>
+			<questiontext>It can be inferred from the lecture that which of the following is the smallest type of glacier?</questiontext>
+			<choice>A tributary glacier</choice>
+			<choice>A piedmont glacier</choice>
+			<choice>A valley glacier</choice>
+			<choice>A continental glacier</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>21</questionnumber>
+			<audiofile>2_Li_34.mp3</audiofile>
+			<questiontext>In this lecture, the professor gives a number of characteristics of valley glaciers and continental glaciers. Indicate which type of glacier each of the following is typical of. </questiontext>
+			<rows>6</rows>
+			<columns>3</columns>
+			<heading>Valley Glaciers</heading>
+			<heading>Continental Glaciers</heading>
+			<choice>Today cover about 10% of the world's landmass</choice>
+			<choice>Flow together to form piedmont glaciers</choice>
+			<choice>As they recede, seem to flow uphill</choice>
+			<choice>About 11,000 years ago, covered 30% of the world's landmass</choice>
+			<choice>As they grow, seem to flow outwards in all directions</choice>
+			<correctanswer>3,2,2,3,3</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>22</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_35.mp3</questionAudio>
+			<questiontext>What danger does the professor mention?</questiontext>
+			<choice>The water from melting glaciers may cause sea levels to rise.</choice>
+			<choice>Melted ice from glaciers may cause the water in the oceans to cool off.</choice>
+			<choice>Global warming may cause damaging storms in the Indian Ocean.</choice>
+			<choice>Glaciers may form in places such as Africa where there are no glaciers today.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>23</questionnumber>
+			<audiofile>2_Li_36.mp3</audiofile>
+			<boxtext>Economics</boxtext>
+			<art>PT2_11.jpg:31,PT2_12.jpg:160,PT2_11.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the discussion.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>2_Li_38.mp3</questionAudio>
+			<questiontext>What is the main topic of this discussion?</questiontext>
+			<choice>The causes of the Great Depression</choice>
+			<choice>The effects of climate on business cycles</choice>
+			<choice>The stages of the business cycle</choice>
+			<choice>Government regulation of business</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>24</questionnumber>
+			<audiofile>2_Li_39.mp3</audiofile>
+			<boxtext>Listen again to part of the discussion.</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_40.mp3</questionAudio>
+			<questiontext>What does Professor Martin imply when he says this?    &lt;icon&gt;</questiontext>
+			<choice>These terms are still used but are no longer common.</choice>
+			<choice>Other terms were more common in the past.</choice>
+			<choice>These are the correct terms, but they are not very descriptive.</choice>
+			<choice>He himself prefers to use other terms for the four stages.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>25</questionnumber>
+			<audiofile>2_Li_41.mp3</audiofile>
+			<questiontext>In this lecture, the professor describes the business cycle. Indicate whether each of the following is a characteristic of the cycle mentioned by the professor. </questiontext>
+			<rows>6</rows>
+			<columns>3</columns>
+			<heading>Yes</heading>
+			<heading>No</heading>
+			<choice>They vary in length from cycle to cycle.</choice>
+			<choice>They are measured from the peak of economic activity to the trough, the lowest point of economic activity.</choice>
+			<choice>They vary in intensity from cycle to cycle.</choice>
+			<choice>They have involved deeper recessions in recent years because of globalization.</choice>
+			<choice>They are sometimes called "fluctuations" because they are irregular.</choice>
+			<correctanswer>2,3,2,3,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>26</questionnumber>
+			<audiofile>2_Li_42.mp3</audiofile>
+			<questiontext>In which of these decades did economic depressions occur?</questiontext>
+			<choice>The 1870's</choice>
+			<choice>The 1930's</choice>
+			<choice>The 1970's</choice>
+			<choice>The 1990's</choice>
+			<correctanswer>1,2</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>27</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_43.mp3</questionAudio>
+			<questiontext>In what ways do governments usually try to affect business cycles?</questiontext>
+			<choice>By reforming the central bank</choice>
+			<choice>By hiring more government employees</choice>
+			<choice>By spending less money</choice>
+			<choice>By controlling the money supply</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>28</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_44.mp3</questionAudio>
+			<questiontext>Which of the following statements about William Jevons's theory would Professor Martin probably agree with?</questiontext>
+			<choice>It's interesting but no longer generally accepted.</choice>
+			<choice>It may be valid, but there were never any statistics to                support it.</choice>
+			<choice>As time has gone by, more and more economists have accepted it.</choice>
+			<choice>It was valid when it was first proposed but not today.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>29</questionnumber>
+			<audiofile>2_Li_45.mp3</audiofile>
+			<boxtext>Film Studies</boxtext>
+			<art>PT2_13.jpg:50,PT2_14.jpg:75,PT2_15.jpg:96,PT2_14.jpg:288,PT2_13.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the lecture.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>2_Li_47.mp3</questionAudio>
+			<questiontext>Why does the professor mention the work of the French director Georges M&#233;li&#232;s?</questiontext>
+			<choice>To point out that one of the earliest movies was a science fiction movie</choice>
+			<choice>To give an example of a realistic science fiction movie</choice>
+			<choice>To discuss the very first use of special effects in any movie ever made</choice>
+			<choice>To compare the role of a magician with that of a film director</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>30</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_48.mp3</questionAudio>
+			<questiontext>When does the action in the movie &lt;i&gt;Metropolis&lt;/i&gt; supposedly take place?</questiontext>
+			<choice>In 1902</choice>
+			<choice>In 1926</choice>
+			<choice>In 1984</choice>
+			<choice>In 2026 </choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>31</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_49.mp3</questionAudio>
+			<questiontext>What topic does the movie &lt;i&gt;Them!&lt;/i&gt; and many other 1950's science-fiction movies deal with?</questiontext>
+			<choice>An invasion from outer space</choice>
+			<choice>An attack by robots</choice>
+			<choice>The effects of radiation on insects</choice>
+			<choice>A nuclear war</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>32</questionnumber>
+			<audiofile>2_Li_50.mp3</audiofile>
+			<questiontext>Which of the following influenced the movie &lt;i&gt;Forbidden Planet&lt;/i&gt;?</questiontext>
+			<choice>The theories of Sigmund Freud</choice>
+			<choice>A novel by the French author Jules Verne</choice>
+			<choice>A play by William Shakespeare</choice>
+			<choice>Movies about the American West</choice>
+			<correctanswer>1,3</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>33</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_51.mp3</questionAudio>
+			<questiontext>What does the speaker think is remarkable about the movie &lt;i&gt;ET&lt;/i&gt;?</questiontext>
+			<choice>That it's considered the most popular science fiction of all time</choice>
+			<choice>That it features a friendly alien rather than a hostile one</choice>
+			<choice>That it was popular with audiences but not with critics </choice>
+			<choice>That it is so similar to other movies about visitors from space</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>34</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>2_Li_52.mp3</questionAudio>
+			<questiontext>What does the professor imply when she says this?    &lt;icon&gt;</questiontext>
+			<choice>She prefers recent movies to older movies such as &lt;i&gt;Forbidden Planet&lt;/i&gt;.</choice>
+			<choice>She would like to be able to show more of the film &lt;i&gt;Forbidden Planet&lt;/i&gt;.</choice>
+			<choice>She doesn't really want to show scenes from any 1950's movies.</choice>
+			<choice>She doesn't have time to show scenes from her favorite movie today.  </choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+<sectionClosing>This is the end of the Listening Section of Practice Test 2. You may take a ten-minute break before beginning work on the Speaking Section.</sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

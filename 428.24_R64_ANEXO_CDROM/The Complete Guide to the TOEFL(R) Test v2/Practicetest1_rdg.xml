@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Reading Section Directions</sectionname>
+<sectiondirections>This section tests your ability to comprehend academic reading passages. It consists of three passages and a set of questions about each of them. All of the questions are worth one point except for the last question in each set. Special directions for the last question will tell you how many points it is worth. 
+
+You have sixty minutes in which to complete this section of the test. 
+
+In the passages, some words or phrases are underlined in black. If you click on one, a definition or explanation will appear on your screen.
+
+As soon as you have finished one question, you may move on to the next one by clicking the NEXT button that appears in the top bar of your screen. You may skip questions and change answers later by clicking the REVIEW button. Click the BACK button to return to a previous question. 
+
+As soon as you have read these directions, click NEXT to go on to the first reading.</sectiondirections>
+
+<multiple>
+		<grouptitle>&lt;b&gt;Bioluminescence&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>Bioluminescence, or "living light," is produced by a number of organisms. It is most common among marine creatures, especially deep-sea fish. In fact, 90% of deep-sea marine life is estimated to produce bioluminescence in one form or another. Among land animals, the most familiar light-emitting organisms are certain adult insects known as fireflies and their &lt;readinggloss&gt;larval&lt;/readinggloss&gt; forms, known as glowworms. Bacteria, protozoa, crustaceans, fungi, and mollusks all have species that emit light. The only groups that do not display bioluminescence are freshwater fish, mammals, birds, reptiles, amphibians, and leafy plants.
+
+Bioluminescence is produced when a &lt;readinggloss&gt;pigment&lt;/readinggloss&gt; called luciferin is combined with oxygen in the presence of an &lt;readinggloss&gt;enzyme&lt;/readinggloss&gt; called lucifrase. When other chemicals take part in the reaction, the color of the light changes, ranging from yellow-green to blue, blue-green, green, violet, and red. Bioluminescence is often called "cold light" because almost no energy is lost as heat. It compares favorably in efficiency with fluorescent lighting.
+
+Some organisms, such as fungi, emit a steady glow. Others, such as fireflies, blink on and off. Certain types of bacteria that grow on decomposing plants produce a shimmering luminescence. The popular name for this &lt;readinghighlight&gt;eerie&lt;/readinghighlight&gt; light is "foxfire." Some organisms, such as dinoflagellates, emit light only when disturbed. When a ship plows through tropical waters at night (particularly in the Indian Ocean), millions of these single-cell algae light up, producing the "milky sea" phenomenon, a softly glowing streak in &lt;readinghighlight&gt;the wake of the ship&lt;/readinghighlight&gt;.
+
+In some species, the role of bioluminescence is obvious. Fireflies and marine fireworms use their light to attract mates. The anglerfish uses a dangling luminous organ to attract prey to come within striking distance. &lt;readinghighlight&gt;The cookie cutter shark utilizes a bioluminescent patch on its underbelly to appear as a small fish to lure large predatory fish such as tuna and mackerel, and when these fish try to consume the "small fish," they are attacked by the shark.&lt;/readinghighlight&gt; The bobtail squid uses its bioluminescence as nighttime camouflage. When viewed from below, its spots of light blend in with the light of the stars and the moon. Some squids use luminous fluids to confuse and escape from predators in the same way that other squids use their dark ink. It is widely believed that many of the creatures that live in the dark depths of the ocean developed the ability to produce light simply as a way to see around them.  Most deep-sea creatures produce blue and green light, and unsurprisingly, light of those colors has the most powerful penetrating power in water.  The only cave-dwelling creature capable of generating light is a New Zealand glowworm.
+
+The reasons why fungi, bacteria, and protozoa are able to glow are more &lt;readinghighlight&gt;obscure&lt;/readinghighlight&gt;. Perhaps, at one time, it was a way to use up oxygen. Millions of years ago, before green plants created oxygen, there was little of that gas in the atmosphere, and living creatures could not use it. Indeed, it may have been poisonous to some creatures. As more oxygen was created by green plants, new types of life developed that could breathe it. Some species died off, while other species developed techniques such as bioluminescence to reduce the amount of oxygen in their immediate environment and thus survive in the richer atmosphere. &lt;readinghighlight&gt;These organisms&lt;/readinghighlight&gt; have since adapted and are no longer poisoned by oxygen, so their bioluminescence is no longer functional.
+
+Through genetic engineering, scientists have been able to produce bioluminescence in species that do not naturally have it, such as tobacco plants. This ability was originally developed as a way to trace the movement of substances through a living plant, but other uses have been suggested. Some people have proposed lining highways with glowing trees to save electricity. Others have proposed producing luminous ornamental plants for the lawn or garden, or even pets such as goldfish, mice, and rabbits that glow in the dark. Scientists are also studying bioluminescent organisms in order to learn how to produce light chemically without producing heat. Someday homes may be lit with lamps based on a method of creating light suggested by bioluminescent creatures.</thereading>
+			<readingglossdef>larval*larval: related to the earliest stage of life of many types of insects; larva are wingless and often wormlike</readingglossdef>
+			<readingglossdef>pigment*pigment: a chemical that produces color</readingglossdef>
+			<readingglossdef>enzyme*enzyme: a natural chemical that helps chemical reactions take place in an animal or plant</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Which of the following groups do NOT have representatives that produce bioluminescence?</questiontext>
+			<choice>Adult insects and their larvae</choice>
+			<choice>Deep sea fish and other ocean organisms</choice>
+			<choice>Bacteria and protozoa</choice>
+			<choice>Reptiles and birds</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<scrolltoposition>Bioluminescence is produced</scrolltoposition>
+			<questiontext> In paragraph 2, the author compares bioluminescence to fluorescent lighting because the two forms of lighting </questiontext>
+			<choice>produce about the same amount of light</choice>
+			<choice> are almost equally energy efficient</choice>
+			<choice>both require oxygen to produce light</choice>
+			<choice>are produced with similar chemicals</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<scrolltoposition>Some organisms, such as fungi</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;eerie&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>strange</choice>
+			<choice>dim</choice>
+			<choice>steady</choice>
+			<choice>greenish</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<scrolltoposition>Some organisms, such as fungi</scrolltoposition>
+			<questiontext> What can be inferred about dinoflagellates from the information in paragraph 3?</questiontext>
+			<choice>They are found only in the Indian Ocean.</choice>
+			<choice>Their light blinks on and off like fireflies.</choice>
+			<choice>They are most common in warm waters.</choice>
+			<choice>Millions of them are destroyed by passing ships.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<scrolltoposition>Some organisms, such as fungi</scrolltoposition>
+			<questiontext>The phrase &lt;readinghighlight&gt;the wake of the ship&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>the interior of the ship</choice>
+			<choice>the track left by the ship in the water</choice>
+			<choice>the course that the ship will follow</choice>
+			<choice>the water in the bottom of the ship</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<scrolltoposition>The cookie cutter shark utilizes a bioluminescent patch on its underbelly to appear as a small fish to lure large predatory fish such as tuna and mackerel, and when these fish try to consume the "small fish," they are attacked by the shark.*In some species, the role</scrolltoposition>
+			<questiontext>Which of the following sentences best expresses the essential information in the highlighted sentence?  (Incorrect answer choices omit important information or change the meaning of the original sentence in an important way.)&lt;readinghighlight&gt;&lt;/readinghighlight&gt;</questiontext>
+			<choice>The bioluminescence of a cookie cutter shark attracts small fish, which in turn attract predators such as the tuna and mackerel, which the shark can then bite.</choice>
+			<choice>The glowing patch on a cookie cutter shark attracts large predatory fish which the shark can then prey on.</choice>
+			<choice>The cookie cutter shark uses its bioluminescence to frighten off large, dangerous predators such as the mackerel and the tuna.</choice>
+			<choice>Large, predatory fish such as sharks are attracted by the sight of small fish. </choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<scrolltoposition>In some species,</scrolltoposition>
+			<questiontext>In paragraph 4, how does the author explain the way some squids use their bioluminescent secretions?</questiontext>
+			<choice>By comparing it to an everyday activity that most readers have experienced</choice>
+			<choice>By providing the example of the bobtail squid</choice>
+			<choice>By comparing it with the way some squids use another type of secretion</choice>
+			<choice>By explaining the chemical composition of this secretion</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Why does the author mention the fact that deep-sea creatures mainly use blue and green light?</questiontext>
+			<choice>To support the idea that they use bioluminescence simply to light up their environment</choice>
+			<choice>To explain how they are different from the bioluminescent glowworms that live in caves</choice>
+			<choice>To show that they are unique in producing bioluminescence in these two colors</choice>
+			<choice>To provide an example of creatures that produce bioluminescence for no particular reason</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<scrolltoposition>The reasons why fungi</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;obscure&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>misunderstood</choice>
+			<choice>interesting</choice>
+			<choice>complex</choice>
+			<choice>unclear</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<scrolltoposition>The reasons why fungi</scrolltoposition>
+			<questiontext>The phrase &lt;readinghighlight&gt;these organisms&lt;/readinghighlight&gt; in paragraph 5 refers to species that</questiontext>
+			<choice>no longer use bioluminescence</choice>
+			<choice>became extinct millions of years ago</choice>
+			<choice>create their own oxygen</choice>
+			<choice>once used bioluminescence to use up oxygen</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>11</questionnumber>
+			<scrolltoposition>Through genetic engineering</scrolltoposition>
+			<questiontext>Which of the following is NOT one of the possible uses for artificial bioluminescent organisms mentioned by the author in paragraph 6?</questiontext>
+			<choice>To create glow-in-the-dark pets</choice>
+			<choice>To light houses in an efficient way</choice>
+			<choice>To provide light along highways</choice>
+			<choice>To produce glowing ornamental plants</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>In some species, the role of bioluminescence is obvious. Fireflies and marine fireworms use their light to attract mates. The anglerfish uses a dangling luminous organ to attract prey to come within striking distance. The cookie cutter shark utilizes a bioluminescent patch on its underbelly to appear as a small fish to large predatory fish like tuna and mackerel and when these fish try to consume the "small fish," they are attacked by the shark. The bobtail squid uses its bioluminescence as nighttime camouflage. When viewed from below, its spots of light blend in with the lights of stars and the moon. Some squids use luminous secretions to confuse and escape from predators in the same way that other squids use ink. &lt;n&gt; It is widely believed that many of the creatures that live in the dark depths of the ocean developed the ability to produce light simply as a way to see around them. &lt;n&gt; Most deep-sea creatures produce blue and green light, and unsurprisingly, light of those colors has the most powerful penetrating power in water. &lt;n&gt; The only cave-dwelling creature capable of generating light is a New Zealand glowworm. &lt;n&gt;  </thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>12</questionnumber>
+			<questiontext>&lt;b&gt;For some reason, however, bioluminescence is not common in the unending darkness of caves.&lt;/b&gt;</questiontext>
+			<correctanswer>3</correctanswer>
+		</question>
+	</addsentence>
+	<dragdrop>
+		<grouptitle>&lt;b&gt;Bioluminescence&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>Bioluminescence, or "living light," is produced by a number of organisms. It is most common among marine creatures, especially deep-sea fish. In fact, 90% of deep-sea marine life is estimated to produce bioluminescence in one form or another. Among land animals, the most familiar light-emitting organisms are certain adult insects known as fireflies and their &lt;readinggloss&gt;larval&lt;/readinggloss&gt; forms, known as glowworms. Bacteria, protozoa, crustaceans, fungi, and mollusks all have species that emit light. The only groups that do not display bioluminescence are freshwater fish, mammals, birds, reptiles, amphibians, and leafy plants.
+
+Bioluminescence is produced when a &lt;readinggloss&gt;pigment&lt;/readinggloss&gt; called luciferin is combined with oxygen in the presence of an &lt;readinggloss&gt;enzyme&lt;/readinggloss&gt; called lucifrase. When other chemicals take part in the reaction, the color of the light changes, ranging from yellow-green to blue, blue-green, green, violet, and red. Bioluminescence is often called "cold light" because almost no energy is lost as heat. It compares favorably in efficiency with fluorescent lighting.
+
+Some organisms, such as fungi, emit a steady glow. Others, such as fireflies, blink on and off. Certain types of bacteria that grow on decomposing plants produce a shimmering luminescence. The popular name for this &lt;readinghighlight&gt;eerie&lt;/readinghighlight&gt; light is "foxfire." Some organisms, such as dinoflagellates, emit light only when disturbed. When a ship plows through tropical waters at night (particularly in the Indian Ocean), millions of these single-cell algae light up, producing the "milky sea" phenomenon, a softly glowing streak in &lt;readinghighlight&gt;the wake of the ship&lt;/readinghighlight&gt;.
+
+In some species, the role of bioluminescence is obvious. Fireflies and marine fireworms use their light to attract mates. The anglerfish uses a dangling luminous organ to attract prey to come within striking distance. The cookie cutter shark utilizes a bioluminescent patch on its underbelly to appear as a small fish to lure large predatory fish such as tuna and mackerel, and when these fish try to consume the "small fish," they are attacked by the shark. The bobtail squid uses its bioluminescence as nighttime camouflage. When viewed from below, its spots of light blend in with the light of the stars and the moon. Some squids use luminous fluids to confuse and escape from predators in the same way that other squids use their dark ink. It is widely believed that many of the creatures that live in the dark depths of the ocean developed the ability to produce light simply as a way to see around them.  Most deep-sea creatures produce blue and green light, and unsurprisingly, light of those colors has the most powerful penetrating power in water.  The only cave-dwelling creature capable of generating light is a New Zealand glowworm.
+
+The reasons why fungi, bacteria, and protozoa are able to glow are more &lt;readinghighlight&gt;obscure&lt;/readinghighlight&gt;. Perhaps, at one time, it was a way to use up oxygen. Millions of years ago, before green plants created oxygen, there was little of that gas in the atmosphere, and living creatures could not use it. Indeed, it may have been poisonous to some creatures. As more oxygen was created by green plants, new types of life developed that could breathe it. Some species died off, while other species developed techniques such as bioluminescence to reduce the amount of oxygen in their immediate environment and thus survive in the richer atmosphere. &lt;readinghighlight&gt;These organisms&lt;/readinghighlight&gt; have since adapted and are no longer poisoned by oxygen, so their bioluminescence is no longer functional.
+
+Through genetic engineering, scientists have been able to produce bioluminescence in species that do not naturally have it, such as tobacco plants. This ability was originally developed as a way to trace the movement of substances through a living plant, but other uses have been suggested. Some people have proposed lining highways with glowing trees to save electricity. Others have proposed producing luminous ornamental plants for the lawn or garden, or even pets such as goldfish, mice, and rabbits that glow in the dark. Scientists are also studying bioluminescent organisms in order to learn how to produce light chemically without producing heat. Someday homes may be lit with lamps based on a method of creating light suggested by bioluminescent creatures.</thereading>
+			<readingglossdef>larval*larval: related to the earliest stage of life of many types of insects; larva are wingless and often wormlike</readingglossdef>
+			<readingglossdef>pigment*pigment: a chemical that produces color</readingglossdef>
+			<readingglossdef>enzyme*enzyme: a natural chemical that helps chemical reactions take place in an animal or plant</readingglossdef>
+		</groupreading>
+		<directions>Directions: Below is an introductory sentence for a brief summary of the passage. Complete the summary with answer choices that express the most important ideas of the passage. Some of the answer choices are incorrect because they express ideas that are not given in the passage or because they express only details from the passage. &lt;i&gt;&lt;b&gt;This question is worth 3 points.&lt;/i&gt;&lt;/b&gt;</directions>
+		<orientation>H</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>13</questionnumber>
+			<questiontext>&lt;b&gt;Produced by chemical reactions, bioluminescence is seen in a wide variety of organisms.&lt;/b&gt;</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>Genetic engineering has enabled scientists to create artificial bioluminescence, which could be used in a number of ways.</choice1>
+			<choice2>Fireflies and other creatures once used bioluminescence as a way to attract mates, but today, their bioluminescent abilities serve no particular function. </choice2>
+			<choice3>Some animals glow with a steady light, some blink on and off, some shimmer, and some light up only when disturbed.</choice3>
+			<choice4>At one time there was much less oxygen in the earth's atmosphere as a result of bioluminescent creatures.</choice4>
+			<choice5>The "milky sea" phenomenon is large-scale display of bioluminescent activity.</choice5>
+			<choice6>Today, some species have developed a variety of uses for bioluminescence, but for some species, it may be related to the now-unneeded ability to reduce oxygen around them.</choice6>
+			<correctanswer>1,3,6</correctanswer>
+		</question>
+	</dragdrop>
+	<multiple>
+		<grouptitle>&lt;b&gt;&lt;i&gt;Modern Times&lt;/b&gt;&lt;/i&gt;</grouptitle>
+		<groupreading>
+		<thereading>Probably Charlie Chaplin's most important film is his comic masterpiece &lt;i&gt;Modern Times&lt;/i&gt;, made in 1936.  Set in the Great Depression era, the film's main concerns are those of millions of people at the time: unemployment, poverty, and economic oppression. Chaplin was motivated to make the film by a journalist who, while interviewing him, happened to describe working conditions in industrial Detroit. Chaplin was told that healthy young men were attracted by promises of high wages to come work on the assembly lines in the automobile factories there. The stress of long hours and endlessly repetitive work soon destroyed these young men's physical and mental health.
+
+Chaplin not only starred in &lt;i&gt;Modern Times&lt;/i&gt; but also wrote the script and the music and directed and produced it. It was the last movie in which Chaplin played the "Little Tramp," a popular character he had first created in 1915. The Little Tramp is a simple, kind wanderer with a small mustache, a Derby hat, baggy pants, and a cane. He falls into many misfortunes but always maintains a sweet, sad optimism. &lt;i&gt;Modern Times&lt;/i&gt; was also Chaplin's final silent movie. &lt;readinggloss&gt;"Talkies"&lt;/readinggloss&gt; had appeared nine years earlier, but Chaplin's humor was mostly based on body language and visual &lt;readinghighlight&gt;gags&lt;/readinghighlight&gt;. However, it is somewhat deceptive to call &lt;i&gt;Modern Times&lt;/i&gt; a silent film. While there is no dialogue, there is music and sound effects, such as the roar of machinery and the scream of factory whistles. In &lt;i&gt;Modern Times&lt;/i&gt;, the world of sound is the noisy world of technology, while the Tramp, a symbol of humanity, is silent.
+
+Only about one third of &lt;i&gt;Modern Times&lt;/i&gt; takes place inside a futuristic factory (the Electro Steel Works), but these are the scenes viewers remember most vividly. The Tramp has one job, to tighten nuts and bolts on the machines in the factory with a large wrench. In one inventive scene, he is chosen to test an automatic feeding machine. The machine can be brought to the assembly line so that workers do not have to pause for lunch. The device suddenly malfunctions. It hurls food at the Tramp, who is strapped into his position on the assembly line and cannot escape. &lt;readinghighlight&gt;This&lt;/readinghighlight&gt; illustrates people's utter helplessness in the face of machines that should be serving them. In another memorable scene, the owner orders that the speed of the assembly line be increased to its maximum level. No one who has seen the film can forget watching Chaplin vainly trying to keep pace with the conveyor belt. At one point in this scene, he is taken inside, literally "eaten" by the &lt;readinghighlight&gt;nightmarish&lt;/readinghighlight&gt; machinery, and caught up in its whirring wheels, gears, and cogs. The Tramp loses his mind and rushes around trying to tighten anything that resembles a nut, including the buttons on a woman's dress. He is led from the factory by attendants in white coats and is taken away.
+
+The Tramp recovers from his nervous breakdown and is released. The doctor tells him, "Take it easy and avoid excitement," but for the rest of this episodic film, the Tramp experiences one calamity after another. He unintentionally joins a labor strike and later is sent to jail. He becomes a roller-skating night watchman at a department store, an overstressed singing waiter, and a fugitive from the law. He meets an orphan (played by Chaplin's real-life wife, Paulette Goddard) and becomes her friend and protector. In the final scene, the Tramp walks down a country road into the sunset. This is a &lt;readinghighlight&gt;stock&lt;/readinghighlight&gt; ending for Chaplin films, but usually the tramp walks off alone. In his last film, the Tramp walks off arm-in-arm with the girl.
+
+Clearly, &lt;i&gt;Modern Times&lt;/i&gt; has its flaws, but it is the best film about the effects of technology on humanity ever made. It is as relevant now as it was when it was first made. It does not offer a radical social message, but it warns that standardization, mechanization, and misuse of authority rob men and women of their individuality. It also offers a reminder that, no matter how bad things seem, one can always smile.</thereading>
+		<readingglossdef>talkies*talkies:  films in which you can hear the actual voices of the actors, not just music</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>14</questionnumber>
+			<scrolltoposition>Probably Charlie Chaplin's</scrolltoposition>
+			<questiontext>In paragraph 1, how does the author explain the main themes of the film &lt;i&gt;Modern Times&lt;/i&gt;?</questiontext>
+			<choice>By identifying them as the concerns of many people at the time</choice>
+			<choice>By contrasting them to those of another Chaplin movie</choice>
+			<choice>By explaining what movie critics of the time thought of them</choice>
+			<choice>By showing what a strong influence the movie had at the time</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>15</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the passage, Chaplin got his idea for the film &lt;i&gt;Modern Times&lt;/i&gt; from </questiontext>
+			<choice>a newspaper article</choice>
+			<choice>a scene in a movie</choice>
+			<choice>a conversation with a reporter</choice>
+			<choice>a job that he had once held</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>16</questionnumber>
+			<scrolltoposition>Chaplin not only starred</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;gags&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>messages</choice>
+			<choice>jokes</choice>
+			<choice>symbols</choice>
+			<choice>expressions</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>17</questionnumber>
+			<scrolltoposition>Chaplin not only starred</scrolltoposition>
+			<questiontext>In paragraph 2, why does the author say that "it is somewhat deceptive to call &lt;i&gt;Modern Times&lt;/i&gt; a silent film"?</questiontext>
+			<choice>Chaplin wanted to use dialogue in this film, but the technology was not available.</choice>
+			<choice>Chaplin's body language was so expressive that he communicated as well as if he were speaking.</choice>
+			<choice>Although there is little speaking in the film, there is music and noise.</choice>
+			<choice>It was originally made as a silent movie, but at a later time, dialogue was added.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>18</questionnumber>
+			<scrolltoposition>Only about one third</scrolltoposition>
+			<questiontext>It can be inferred from the information in paragraph 3 that two-thirds of the film &lt;i&gt;Modern Times&lt;/i&gt;</questiontext>
+			<choice>is more entertaining than the other third</choice>
+			<choice>is not usually shown today</choice>
+			<choice>takes place outside of the factory</choice>
+			<choice>does not involve the Little Tramp</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>19</questionnumber>
+			<scrolltoposition>Only about one third</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;This&lt;/readinghighlight&gt; in paragraph 3 refers to </questiontext>
+			<choice>the food that is thrown at the Tramp</choice>
+			<choice>the scene involving the feeding device</choice>
+			<choice>the Tramp's repetitive job</choice>
+			<choice>the assembly line</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>20</questionnumber>
+			<scrolltoposition>Only about one third</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;nightmarish&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>terrifying</choice>
+			<choice>efficient</choice>
+			<choice>powerful  </choice>
+			<choice>malfunctioning</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>21</questionnumber>
+			<scrolltoposition>Only about one third</scrolltoposition>
+			<questiontext>In paragraph 3, the author implies that when the Tramp is taken away from the factory he is taken to</questiontext>
+			<choice>a jail</choice>
+			<choice>a department store</choice>
+			<choice>his home</choice>
+			<choice>a mental hospital</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>22</questionnumber>
+			<scrolltoposition>The Tramp recovers</scrolltoposition>
+			<questiontext>The author probably includes the doctor's quote in paragraph 4 because</questiontext>
+			<choice>the doctor gives the Tramp the same advice that the author would give </choice>
+			<choice>it is in contrast with the difficulties that the Tramp faces in the rest of the film</choice>
+			<choice>the doctor is advising the Tramp to go back to his job at the factory</choice>
+			<choice>it indicates that the doctor thinks the Tramp should not leave</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>23</questionnumber>
+			<scrolltoposition>The Tramp recovers</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;stock&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>unhappy</choice>
+			<choice>sudden</choice>
+			<choice>exciting</choice>
+			<choice>standard</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>24</questionnumber>
+			<scrolltoposition>Clearly,</scrolltoposition>
+			<questiontext>In paragraph 5, what does the author find obvious about the movie?</questiontext>
+			<choice>That it is not a perfect film</choice>
+			<choice>That its message is, "Smile no matter how bad the situation appears"</choice>
+			<choice>That it is the best film about technology ever made</choice>
+			<choice>That it does not offer a revolutionary message</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>Chaplin not only starred in Modern Times but also wrote the script and the music and directed and produced it. It was the last movie in which Chaplin played "the Little Tramp," a character he first created in 1915. The Little Tramp is a simple, kind wanderer with a small mustache, a Derby hat, baggy pants, and a cane. He falls into many misfortunes but always maintains a sweet, sad optimism. Modern Times was also Chaplin's final silent movie. "Talkies" had appeared nine years earlier, but Chaplin's humor was mostly based on body language and visual gags. &lt;n&gt; However, it is somewhat deceptive to call Modern Times a silent film. &lt;n&gt; While there is no dialogue, there is music and sound effects, such as the roar of machinery and the scream of factory whistles. &lt;n&gt; In Modern Times, the world of sound is the noisy world of technology, while the Tramp, a symbol of humanity, is silent. &lt;n&gt;  </thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>25</questionnumber>
+			<questiontext>&lt;b&gt;The voice of the brutal factory owner is also heard coming through a giant two-way television screen (many years before television was actually invented).&lt;/b&gt;</questiontext>
+			<correctanswer>3</correctanswer>
+		</question>
+	</addsentence>	
+	<dragdrop>
+		<grouptitle>&lt;b&gt;&lt;i&gt;Modern Times&lt;/b&gt;&lt;/i&gt;</grouptitle>
+		<groupreading>
+		<thereading>Probably Charlie Chaplin's most important film is his comic masterpiece &lt;i&gt;Modern Times&lt;/i&gt;, made in 1936.  Set in the Great Depression era, the film's main concerns are those of millions of people at the time: unemployment, poverty, and economic oppression. Chaplin was motivated to make the film by a journalist who, while interviewing him, happened to describe working conditions in industrial Detroit. Chaplin was told that healthy young men were attracted by promises of high wages to come work on the assembly lines in the automobile factories there. The stress of long hours and endlessly repetitive work soon destroyed these young men's physical and mental health.
+
+Chaplin not only starred in &lt;i&gt;Modern Times&lt;/i&gt; but also wrote the script and the music and directed and produced it. It was the last movie in which Chaplin played the "Little Tramp," a popular character he had first created in 1915. The Little Tramp is a simple, kind wanderer with a small mustache, a Derby hat, baggy pants, and a cane. He falls into many misfortunes but always maintains a sweet, sad optimism. &lt;i&gt;Modern Times&lt;/i&gt; was also Chaplin's final silent movie. &lt;readinggloss&gt;"Talkies"&lt;/readinggloss&gt; had appeared nine years earlier, but Chaplin's humor was mostly based on body language and visual &lt;readinghighlight&gt;gags&lt;/readinghighlight&gt;. However, it is somewhat deceptive to call &lt;i&gt;Modern Times&lt;/i&gt; a silent film. While there is no dialogue, there is music and sound effects, such as the roar of machinery and the scream of factory whistles. In &lt;i&gt;Modern Times&lt;/i&gt;, the world of sound is the noisy world of technology, while the Tramp, a symbol of humanity, is silent.
+
+Only about one third of &lt;i&gt;Modern Times&lt;/i&gt; takes place inside a futuristic factory (the Electro Steel Works), but these are the scenes viewers remember most vividly. The Tramp has one job, to tighten nuts and bolts on the machines in the factory with a large wrench. In one inventive scene, he is chosen to test an automatic feeding machine. The machine can be brought to the assembly line so that workers do not have to pause for lunch. The device suddenly malfunctions. It hurls food at the Tramp, who is strapped into his position on the assembly line and cannot escape. &lt;readinghighlight&gt;This&lt;/readinghighlight&gt; illustrates people's utter helplessness in the face of machines that should be serving them. In another memorable scene, the owner orders that the speed of the assembly line be increased to its maximum level. No one who has seen the film can forget watching Chaplin vainly trying to keep pace with the conveyor belt. At one point in this scene, he is taken inside, literally "eaten" by the &lt;readinghighlight&gt;nightmarish&lt;/readinghighlight&gt; machinery, and caught up in its whirring wheels, gears, and cogs. The Tramp loses his mind and rushes around trying to tighten anything that resembles a nut, including the buttons on a woman's dress. He is led from the factory by attendants in white coats and is taken away.
+
+The Tramp recovers from his nervous breakdown and is released. The doctor tells him, "Take it easy and avoid excitement," but for the rest of this episodic film, the Tramp experiences one calamity after another. He unintentionally joins a labor strike and later is sent to jail. He becomes a roller-skating night watchman at a department store, an overstressed singing waiter, and a fugitive from the law. He meets an orphan (played by Chaplin's real-life wife, Paulette Goddard) and becomes her friend and protector. In the final scene, the Tramp walks down a country road into the sunset. This is a &lt;readinghighlight&gt;stock&lt;/readinghighlight&gt; ending for Chaplin films, but usually the tramp walks off alone. In his last film, the Tramp walks off arm-in-arm with the girl.
+
+Clearly, &lt;i&gt;Modern Times&lt;/i&gt; has its flaws, but it is the best film about the effects of technology on humanity ever made. It is as relevant now as it was when it was first made. It does not offer a radical social message, but it warns that standardization, mechanization, and misuse of authority rob men and women of their individuality. It also offers a reminder that, no matter how bad things seem, one can always smile.</thereading>
+		<readingglossdef>talkies*talkies:  films in which you can hear the actual voices of the actors, not just music</readingglossdef>
+		</groupreading>
+		<directions>Directions: Below is an introductory sentence for a brief summary of the passage. Complete the summary with three of the answer choices that express the most important ideas of the passage. Some of the answer choices are incorrect because they express ideas that are not given in the passage or because they express only details from the passage. &lt;i&gt;&lt;b&gt;This question is worth 3 points.&lt;/i&gt;&lt;/b&gt;</directions>
+		<orientation>H</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>26</questionnumber>
+			<questiontext>&lt;b&gt;&lt;i&gt;Modern Times&lt;/i&gt;, which addressed the economic problems of the Great Depression era, may have been Charlie Chaplin's most important film.&lt;/b&gt;</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>&lt;i&gt;Modern Times&lt;/i&gt; depicted healthy young men going to work in the automobile factories of Detroit because of the high wages that they could earn there.</choice1>
+			<choice2>In &lt;i&gt;Modern Times&lt;/i&gt;, the Tramp faces many dehumanizing, difficult experiences while working in a factory and at other jobs. </choice2>
+			<choice3>&lt;i&gt;Modern Times&lt;/i&gt; was the last silent movie Chaplin made, and it was the last one featuring the popular "Little Tramp."</choice3>
+			<choice4>Although the movie &lt;i&gt;Modern Times&lt;/i&gt; contains dark, bleak scenes, it also contains some happy scenes such as the Tramp's marriage to the orphan. </choice4>
+			<choice5>Chaplin warns in &lt;i&gt;Modern Times&lt;/i&gt; that technology and its effects endanger people's individuality.</choice5>
+			<choice6>Chaplin played the Little Tramp character from 1915 to 1936.</choice6>
+			<correctanswer>2,3,5</correctanswer>
+		</question>
+	</dragdrop>
+	<multiple>
+		<grouptitle>&lt;b&gt;Balloon-Frame Houses&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>Until the 1830s, &lt;readinghighlight&gt;domestic&lt;/readinghighlight&gt; architectural styles in North America were heavily influenced by European styles. The log cabin of the frontier came from Sweden, brought by settlers to the Swedish colony of Delaware in the 1630s. The typical residence in Colonial cities was heavily influenced by the standard British house of the time. No doubt there were some uniquely North American touches, but on the whole, the North American style of building houses was an adaptation of European construction methods.
+
+Two factors made building different in North America. One was an abundance of wood. Wood was used at a rate impossible to match in a mostly deforested Europe. &lt;readinghighlight&gt;The other&lt;/readinghighlight&gt;  was the fact that labor was scarce in most communities. European houses built in the traditional timber-frame style used heavy cut stone. That took a huge toll in labor. Another key feature of European houses was the use of heavy timbers fitted with complex joints. Wooden pegs were used instead of iron nails. This type of home construction was time-consuming and required a team of expert carpenters and other workers with specialized tools. Fundamentally, it was the same method of building homes that had been used in Europe since medieval times.
+
+In 1833, while constructing houses in Fort Dearborn, Illinois, Augustine Taylor, a builder from Hartford, Connecticut, invented a new method of building that utilized a framework of lightweight lumber. This was the birth of the "balloon-frame house." This type of house could be built in under a week by two or three careful workers who could saw in a straight line and hammer a nail. Almost overnight, home construction changed from a specialized craft into an industry.
+
+Skeptics predicted that the first strong wind would send a balloon-frame house flying off its foundations and into the air, and at first, &lt;i&gt;balloon-frame&lt;/i&gt; was a term of &lt;readinghighlight&gt;scorn&lt;/readinghighlight&gt;. In fact, these houses were more like woven baskets than like balloons. They were light, flexible, and yet very sturdy.
+
+Balloon-frame houses required huge amounts of machine-planed lumber. This demand was met by improved &lt;readinggloss&gt;sawmill&lt;/readinggloss&gt; technology that could quickly cut boards to standard sizes. They also required enormous numbers of machine-made nails. These were provided by recently developed automated nail-making machines. &lt;readinghighlight&gt;After 1800, the cost of nails in the United States steadily dropped, and by 1830 one could buy a five-pound bag of nails for pennies, less than the tax alone on a bag of nails in Europe.&lt;/readinghighlight&gt;
+
+The balloon-frame design first caught on in Chicago, Illinois. In the 1830s, that city established itself as a new gateway to the West. And with a &lt;readinghighlight&gt;mushrooming&lt;/readinghighlight&gt; population came a soaring demand for housing. Because they could be built so quickly, most new houses were balloon-frame houses. Another advantage of balloon-frame houses was their mobility. Today, houses are seldom moved, but Chicagoans in the 1830s, 1840s, and 1850s took advantage of the mobility of lightweight balloon-frame structures without utility connections. New arrivals could buy homes and then move them to more desirable locations. Chester Tupper, Chicago's first house mover, moved thousands of homes on rollers through Chicago's unpaved streets. The downside of balloon frame houses was that they were made almost exclusively of flammable materials. Chicago rapidly became a city of wood. That fact came back to haunt the city on a hot, terrible night in 1871.
+
+This building method spread from Chicago to the cities, towns, and farms of the American and Canadian West, where new settlers needed shelter in a hurry. Always ready to supply a new product, Chicago provided settlers with prefabricated kits for building balloon-frame structures. The Lyman-Bridges Company sold buildings of "any size or style, in any number, on short notice." Shipped by rail, the building kits contained milled lumber, roofing shingles, windows, doors, and building plans. The smallest house offered by the company was a one-room house measuring 10 by 12 feet (3.3 by 4.0 meters), while the largest had eight big rooms as well as a pantry, several hallways, and four closets. Prices ranged from $175 for the smallest model to $3,500 for the deluxe model. These reasonable prices allowed many workers the luxury of owning their own homes, in contrast to Europe where traditional construction techniques kept the rates of home ownership low for most of the nineteenth century. Balloon-frame housing remained the dominant style of home building in North America until the 1940s.</thereading>
+			<readingglossdef>sawmill*sawmill: a factory that cuts trees into lumber (boards) for building</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>27</questionnumber>
+			<scrolltoposition>Until the 1830s</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;domestic&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>residential</choice>
+			<choice>ordinary</choice>
+			<choice>international</choice>
+			<choice>useful</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>28</questionnumber>
+			<scrolltoposition>Two factors made building</scrolltoposition>
+			<questiontext>The phrase &lt;readinghighlight&gt;the other&lt;/readinghighlight&gt; in paragraph 2 refers to</questiontext>
+			<choice>another factor</choice>
+			<choice>a place outside of Europe</choice>
+			<choice>a feature in building traditional homes</choice>
+			<choice>another kind of material</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>29</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Where was the first balloon-frame house built?</questiontext>
+			<choice>Hartford, Connecticut</choice>
+			<choice>Chicago, Illinois</choice>
+			<choice>Delaware</choice>
+			<choice>Fort Dearborn, Illinois</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>30</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Builders of traditional homes did NOT require</questiontext>
+			<choice>wood</choice>
+			<choice>sophisticated tools</choice>
+			<choice>nails</choice>
+			<choice>cut stone</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>31</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the passage, the term "balloon-frame" was applied to certain houses because</questiontext>
+			<choice>like balloons, they could be easily moved from place to place</choice>
+			<choice>their rounded frames made them slightly resemble balloons</choice>
+			<choice>they resembled the baskets where passengers ride below large balloons</choice>
+			<choice>they were made of lightweight materials</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>32</questionnumber>
+			<scrolltoposition>Skeptics predicted that</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;scorn&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>disapproval</choice>
+			<choice>misunderstanding</choice>
+			<choice>delight</choice>
+			<choice>jealousy</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>33</questionnumber>
+			<scrolltoposition>After 1800, the cost of nails in the United States steadily dropped, and by 1830 one could buy a five-pound bag of nails for pennies, less than the tax alone on a bag of nails in Europe.*Balloon-frame houses required</scrolltoposition>
+			<questiontext>Which of the following sentences best expresses the essential information in the highlighted sentence? (Incorrect answer choices omit important information or change the meaning of the original sentence in an important way.)&lt;readinghighlight&gt;&lt;/readinghighlight&gt;</questiontext>
+			<choice>In the nineteenth century, the tax on a five-pound bag of nails was actually higher than the cost of the nails themselves.</choice>
+			<choice>European nails cost far more than American nails because after 1800, nails produced in Europe were so heavily taxed.</choice>
+			<choice>By 1830, the price of a bag of nails in the United States had dropped below the cost of the tax on a bag of nails in Europe. </choice>
+			<choice>The declining rate of taxes in the early nineteenth century encouraged U.S. nail-makers to drop their prices, while in Europe the opposite was true.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>34</questionnumber>
+			<scrolltoposition>The balloon-frame design</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;mushrooming&lt;/readinghighlight&gt; in the passage is closest in meaning to </questiontext>
+			<choice>rapidly growing</choice>
+			<choice>mostly transient</choice>
+			<choice>generally poor</choice>
+			<choice>highly demanding</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>35</questionnumber>
+			<scrolltoposition>The balloon-frame design</scrolltoposition>
+			<questiontext>Which of these inferences can be made from the information in paragraph 6?</questiontext>
+			<choice>Chicago's unpaved roads led to a great disaster in the nineteenth century. </choice>
+			<choice>Balloon-frame houses could be built quickly but were not comfortable, especially in hot weather.</choice>
+			<choice>Chicago was damaged by a great fire in 1871. </choice>
+			<choice>Many of Chicago's balloon-frame houses had been brought there from other parts of the country. </choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>36</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>What kind of business did the Lyman-Bridges Company engage in?</questiontext>
+			<choice>Building and then shipping balloon-frame houses to various parts of the country.</choice>
+			<choice>Moving balloon-frame houses on rollers throughout Chicago.</choice>
+			<choice>Supplying parts and directions for people to build their own houses.</choice>
+			<choice>Training workers who could then build balloon-frame houses for other people.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>37</questionnumber>
+			<scrolltoposition>This building method spread</scrolltoposition>
+			<questiontext>Why does the author supply information about two types of houses in paragraph 7?</questiontext>
+			<choice>To show that the smaller house was a bargain, but that the deluxe house was overpriced</choice>
+			<choice>To show the full range of houses available in terms of size and cost</choice>
+			<choice>To indicate how the size and price of balloon-frame houses changed over time</choice>
+			<choice>To demonstrate that balloon-frame houses were more economical than traditional houses</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>Two factors made building different in North America. One was an abundance of wood. Wood was used at a rate impossible to match in a mostly deforested Europe. The other was the fact that labor was scarce in most communities. &lt;n&gt; European houses built in the traditional box-frame style used heavy cut stone. &lt;n&gt; That took a huge toll in labor. &lt;n&gt; Another key feature of European houses was the use of heavy timbers fitted with complex joints. &lt;n&gt; Wooden pegs were used instead of iron nails. This type of home construction was time-consuming and required a team of expert carpenters and other workers with specialized tools. Fundamentally, it was the same method of building homes that had been used in Europe since medieval times.</thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>38</questionnumber>
+			<questiontext>&lt;b&gt;In particular, there was a lack of trained artisans.&lt;/b&gt;</questiontext>
+			<correctanswer>1</correctanswer>
+		</question>
+	</addsentence>
+	<dragdrop>
+		<grouptitle>&lt;b&gt;Balloon-Frame Houses&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>Until the 1830s, &lt;readinghighlight&gt;domestic&lt;/readinghighlight&gt; architectural styles in North America were heavily influenced by European styles. The log cabin of the frontier came from Sweden, brought by settlers to the Swedish colony of Delaware in the 1630s. The typical residence in Colonial cities was heavily influenced by the standard British house of the time. No doubt there were some uniquely North American touches, but on the whole, the North American style of building houses was an adaptation of European construction methods.
+
+Two factors made building different in North America. One was an abundance of wood. Wood was used at a rate impossible to match in a mostly deforested Europe. &lt;readinghighlight&gt;The other&lt;/readinghighlight&gt; was the fact that labor was scarce in most communities. European houses built in the traditional timber-frame style used heavy cut stone. That took a huge toll in labor. Another key feature of European houses was the use of heavy timbers fitted with complex joints. Wooden pegs were used instead of iron nails. This type of home construction was time-consuming and required a team of expert carpenters and other workers with specialized tools. Fundamentally, it was the same method of building homes that had been used in Europe since medieval times.
+
+In 1833, while constructing houses in Fort Dearborn, Illinois, Augustine Taylor, a builder from Hartford, Connecticut, invented a new method of building that utilized a framework of lightweight lumber. This was the birth of the "balloon-frame house." This type of house could be built in under a week by two or three careful workers who could saw in a straight line and hammer a nail. Almost overnight, home construction changed from a specialized craft into an industry.
+
+Skeptics predicted that the first strong wind would send a balloon-frame house flying off its foundations and into the air, and at first, &lt;i&gt;balloon-frame&lt;/i&gt; was a term of &lt;readinghighlight&gt;scorn&lt;/readinghighlight&gt;. In fact, these houses were more like woven baskets than like balloons. They were light, flexible, and yet very sturdy.
+
+Balloon-frame houses required huge amounts of machine-planed lumber. This demand was met by improved &lt;readinggloss&gt;sawmill&lt;/readinggloss&gt; technology that could quickly cut boards to standard sizes. They also required enormous numbers of machine-made nails. These were provided by recently developed automated nail-making machines. After 1800, the cost of nails in the United States steadily dropped, and by 1830 one could buy a five-pound bag of nails for pennies, less than the tax alone on a bag of nails in Europe.
+
+The balloon-frame design first caught on in Chicago, Illinois. In the 1830s, that city established itself as a new gateway to the West. And with a &lt;readinghighlight&gt;mushrooming&lt;/readinghighlight&gt; population came a soaring demand for housing. Because they could be built so quickly, most new houses were balloon-frame houses. Another advantage of balloon-frame houses was their mobility. Today, houses are seldom moved, but Chicagoans in the 1830s, 1840s, and 1850s took advantage of the mobility of lightweight balloon-frame structures without utility connections. New arrivals could buy homes and then move them to more desirable locations. Chester Tupper, Chicago's first house mover, moved thousands of homes on rollers through Chicago's unpaved streets. The downside of balloon frame houses was that they were made almost exclusively of flammable materials. Chicago rapidly became a city of wood. That fact came back to haunt the city on a hot, terrible night in 1871.
+
+This building method spread from Chicago to the cities, towns, and farms of the American and Canadian West, where new settlers needed shelter in a hurry. Always ready to supply a new product, Chicago provided settlers with prefabricated kits for building balloon-frame structures. The Lyman-Bridges Company sold buildings of "any size or style, in any number, on short notice." Shipped by rail, the building kits contained milled lumber, roofing shingles, windows, doors, and building plans. The smallest house offered by the company was a one-room house measuring 10 by 12 feet (3.3 by 4.0 meters), while the largest had eight big rooms as well as a pantry, several hallways, and four closets. Prices ranged from $175 for the smallest model to $3,500 for the deluxe model. These reasonable prices allowed many workers the luxury of owning their own homes, in contrast to Europe where traditional construction techniques kept the rates of home ownership low for most of the nineteenth century. Balloon-frame housing remained the dominant style of home building in North America until the 1940s.</thereading>
+			<readingglossdef>sawmill*sawmill: a factory that cuts trees into lumber (boards) for building</readingglossdef>
+		</groupreading>
+		<directions>Directions:  Select phrases from the answer choices and put them in the category to which they relate. Two answer choices will not be used. &lt;i&gt;&lt;b&gt;This question is worth 4 points.&lt;/b&gt;&lt;/i&gt;</directions>
+		<orientation>V</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>39</questionnumber>
+			<questiontext>x</questiontext>
+			<sectionheading1>&lt;b&gt;Timber-Frame Houses&lt;/b&gt;</sectionheading1>
+			<sectionheading2>&lt;b&gt;Balloon-Frame Houses&lt;/b&gt;</sectionheading2>
+			<choice1>Increased the percentage of working-class people who owned homes</choice1>
+			<choice2>Required only one or two skilled artisans with specialized tools</choice2>
+			<choice3>Were based on medieval building techniques</choice3>
+			<choice4>Were made possible by advances in technology</choice4>
+			<choice5>Transformed home building into an industry</choice5>
+			<choice6>Took a lot of labor and time to build</choice6>
+			<choice7>Were built of both wood and stone</choice7>
+			<choice8>Were easy to move from place to place</choice8>
+			<choice9>Is the dominant style of building in use today</choice9>
+			<correctanswer>3,6,7;1,4,5,8</correctanswer>
+		</question>
+	</dragdrop>
+<sectionClosing>This is the end of the Reading Section. Go on to the Listening Section.</sectionClosing>
+
+
+
+</test>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

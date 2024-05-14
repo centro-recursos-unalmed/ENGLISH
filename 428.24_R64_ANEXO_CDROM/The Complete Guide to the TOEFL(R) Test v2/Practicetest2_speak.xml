@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Speaking Section Directions</sectionname>
+<sectiondirections>This section tests your ability to speak about various subjects. There are six tasks in this section. Listen carefully to the directions, and read the questions on the screen. The first two tasks are independent speaking tasks. You have 15 seconds in which to prepare your response. When you hear a beep on the Listening Program, you will have 45 seconds in which to answer the question.
+
+The last four tasks are integrated speaking tasks. The third and fourth questions involve a reading text and a listening passage. You will have 45 seconds in which to read a short text. You will then hear a short conversation or part of a lecture on the same topic. You may take notes on both the reading and listening passage. You will then see a question on the screen asking about the information that you have just read and heard, and you will have 30 seconds in which to plan a response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question. 
+
+The fifth and sixth questions involve a short listening passage. You may take notes as you listen. After listening to the conversation or lecture, you will see a question, and you will have 20 seconds in which to plan your response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question.
+
+A clock on the screen will tell you how much preparation time or how much response time (speaking time) remains for each question. It is important that you time yourself accurately when you take this practice test. On an actual test your responses will be recorded and evaluated by trained raters. 
+
+</sectiondirections>
+
+	<speaking>
+		<numberofquestions>6</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>2_Sp_04.mp3</questionAudio>			
+			<art>PT1_2.jpg</art>
+			<audiofile>2_Sp_03.mp3</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>Describe the most interesting book that you have ever read. Explain why it was important to you. Include details and examples to support your explanation.</questiontext>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>2_Sp_06.mp3</questionAudio>			
+			<art>PT1_2.jpg</art>
+			<audiofile>2_Sp_05.mp3</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>Because of computers, telephones, and other technology, it is now possible for many people to work at home. Some people prefer working at home while others would rather work in an office. Which of these do you prefer and why?</questiontext>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<directions>Linslade University has begun a new program involving free laptop computers. Read the following notice from the university. You will have forty-five seconds in which to read the notice. Begin reading now.</directions>
+			<directionsAudio>2_Sp_08.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>&lt;b&gt;&lt;i&gt;Frequently Asked Questions about the Linslade University Laptop Give-Away Program&lt;/i&gt;&lt;/b&gt;
+
+&lt;b&gt;Q: What is the Laptop Give-Away?&lt;/b&gt;
+A: All full-time freshmen enrolling at Linslade University this fall will receive a laptop computer equipped with a comprehensive software package to use throughout their entire university career.
+&lt;b&gt;Q: Why is the university beginning this program?&lt;/b&gt;
+A: As electronic technology becomes more and more a part of our lives, it is critical that students be provided with the latest tools. Making laptops available to all incoming freshmen ensures that everyone has equal access to technology.
+&lt;b&gt;Q:  How can the computers be used?&lt;/b&gt;
+A:  However you like. You can, for example,  take lecture notes, e-mail your professors and fellow students, do research on the Internet, and submit assignments electronically. 
+&lt;b&gt;Q: Is this program available only to full-time incoming freshmen?&lt;/b&gt;
+A: Yes. This is a pilot program launching this fall. Free laptops will be available this year, at least, only to full-time first-year students. As the program expands, Linslade University hopes to be able to offer free laptops to incoming transfer students as well. So that the rest of the student community will not be left behind, laptops will available for purchase at a discount.
+</thereading>
+			<listeningdirections>Now listen to two students discussing this notice.</listeningdirections>
+			<questionAudio>2_Sp_10.mp3</questionAudio>			
+			<art>PT2_17.jpg</art>
+			<audiofile>2_Sp_09.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The man expresses his opinion of the new program. State his opinion and explain the reasons he gives for having that opinion.</questiontext>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<directions>Read the following description of utopian communities.</directions>
+			<directionsAudio>2_Sp_11.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>Many nineteenth-century reformers hoped to reform society through education or by eliminating specific social problems, but some wanted to start over by founding utopian ("ideal") communities. These thinkers hoped that the success of these small, cooperative communities would lead to imitation, and eventually, communities free of crime and poverty would cover the land. Many such communities were founded. Most had some or all of the following characteristics: (1) They were isolated geographically and socially from surrounding communities. (2) They experimented socially and economically. (3) They lasted only a few years. </thereading>
+			<listeningdirections>Now listen to a lecture on the utopian community Brook Farm.</listeningdirections>
+			<questionAudio>2_Sp_13.mp3</questionAudio>			
+			<art>PT2_18.jpg</art>
+			<audiofile>2_Sp_12.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The professor's lecture is about the Brook Farm community. Describe this community and explain why it is a typical utopian community.</questiontext>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>Now listen to a conversation between two students.</listeningdirections>
+			<questionAudio>2_Sp_16.mp3</questionAudio>				
+			<art>PT1_19b.jpg</art>
+			<audiofile>2_Sp_15.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The man discusses two possible solutions to Nancy's problem. Discuss her problem and then explain which of the two solutions you think is better and why you think so.</questiontext>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>Now listen to a lecture in a meteorology class.</listeningdirections>
+			<questionAudio>2_Sp_19.mp3</questionAudio>			
+			<art>PT2_20.jpg</art>
+			<audiofile>2_Sp_18.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>Using specific examples and points from the lecture, explain the naming process for hurricanes.</questiontext>
+		</question>
+	</speaking>
+	
+<sectionClosing>This is the end of the Speaking Section. Go directly to the Writing Section. </sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

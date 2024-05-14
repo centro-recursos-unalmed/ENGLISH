@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 4</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Speaking Section Directions</sectionname>
+<sectiondirections>This section tests your ability to speak about various subjects. There are six tasks in this section. Listen carefully to the directions, and read the questions on the screen. The first two tasks are independent speaking tasks. You have 15 seconds in which to prepare your response. When you hear a beep on the Listening Program, you will have 45 seconds in which to answer the question.
+
+The last four tasks are integrated speaking tasks. The third and fourth questions involve a reading text and a listening passage. You will have 45 seconds in which to read a short text. You will then hear a short conversation or part of a lecture on the same topic. You may take notes on both the reading and listening passage. You will then see a question on the screen asking about the information that you have just read and heard, and you will have 30 seconds in which to plan a response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question. 
+
+The fifth and sixth questions involve a short listening passage. You may take notes as you listen. After listening to the conversation or lecture, you will see a question, and you will have 20 seconds in which to plan your response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question.
+
+A clock on the screen will tell you how much preparation time or how much response time (speaking time) remains for each question. It is important that you time yourself accurately when you take this practice test. On an actual test your responses will be recorded and evaluated by trained raters. </sectiondirections>
+
+	<speaking>
+		<numberofquestions>6</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>4_Sp_45.mp3</questionAudio>			
+			<art>x</art>
+			<audiofile>x</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>There are many ways for people to stay healthy. Explain what you do to stay healthy. Give specific details and examples to support your explanation.</questiontext>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>4_Sp_46.mp3</questionAudio>			
+			<art>x</art>
+			<audiofile>x</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>Some people generally like to go to art museums. Other people generally like to go to science museums. Explain which of these two options you prefer. Include details and examples in your explanation.</questiontext>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<directions>Northwest Florida University has a new policy regarding bicycling on campus. Read the following notice from the university. You will have 45 seconds in which to read the notice. Begin reading now.</directions>
+			<directionsAudio>4_Sp_47.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>&lt;b&gt;Northwest Florida University Notice&lt;/b&gt;
+
+As of September 9, no one may ride their bicycles on the sidewalks or pedestrian walkways on the central campus. These paths will be reserved entirely for the use of pedestrians. Bicyclists must dismount and walk their bicycles on these pathways. Bicycle riding on campus is restricted to the bicycle paths along College Avenue, Fourth Street, and Hillsdale Avenue. 
+
+After September 9, anyone bicycling in these restricted areas may be ticketed by the campus police department.</thereading>
+			<listeningdirections>Now listen to two students discussing this notice.</listeningdirections>
+			<questionAudio>4_Sp_47b.mp3</questionAudio>			
+			<art>PT4_15.jpg</art>
+			<audiofile>4_Sp_47a.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The man expresses his opinion of the new policy regarding bicycles. State his opinion, and explain the reasons he gives for having that opinion.</questiontext>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<directions>Read the passage given to the students in a space science class. 
+You will have 45 seconds in which to read. Begin reading now.</directions>
+			<directionsAudio>4_Sp_48.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>As early as 1687, the scientist Sir Isaac Newton wrote that it would be possible for an artificial satellite to orbit the Earth. Of course, at that time, the technology needed to build and to launch a satellite did not exist. In 1945, science fiction writer Arthur C. Clarke wrote an article in which he described a worldwide system of communication satellites. The first artificial satellite, Sputnik, was launched by the Soviet Union in 1957. Satellites have made many scientific discoveries, such as the discovery of the Van Allen radiation belts. They are used to keep track of weather here on Earth. As Clarke predicted, they permit instantaneous communications between continents. They help ships and airplanes navigate. Basically, satellites have revolutionized science and technology and have changed the way we live in fundamental ways.</thereading>
+			<listeningdirections>Now listen to a lecture in the same space science class about the satellite Telstar.</listeningdirections>
+			<questionAudio>4_Sp_48b.mp3</questionAudio>			
+			<art>PT4_16.jpg</art>
+			<audiofile>4_Sp_48a.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The professor's lecture is about the satellite Telstar. Describe this satellite, and explain how this is related to the information about satellites presented in the reading.</questiontext>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<directions>4_Sp_49.mp3</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>Listen to a conversation between two students.</listeningdirections>
+			<questionAudio>4_Sp_49b.mp3</questionAudio>			
+			<art>PT4_17.jpg</art>
+			<audiofile>4_Sp_49a.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The two students discuss two possible solutions to Allison's problem. Discuss her problem and then explain which of the two solutions you think is better and why you think so.</questiontext>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>4_Sp_50.mp3</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>Listen to part of a lecture in a physics class.</listeningdirections>
+			<questionAudio>4_Sp_50b.mp3</questionAudio>			
+			<art>PT4_18.jpg</art>
+			<audiofile>4_Sp_50a.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>Using specific examples and points from the lecture, explain the Brazil Nut Phenomenon.</questiontext>
+		</question>
+	</speaking>
+	
+<sectionClosing>This is the end of the Speaking Section. Go directly to the Writing Section. </sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

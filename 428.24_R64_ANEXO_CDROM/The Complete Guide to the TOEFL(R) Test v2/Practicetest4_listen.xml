@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 4</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Listening Section Directions</sectionname>
+<sectiondirections>This section tests your understanding of conversations and lectures.  You will hear each conversation or lecture only once. Your answers should be based on what is stated or implied in the conversations and lectures.
+
+You are allowed to take notes as you listen, and you can use these notes to help you answer the questions. 
+
+In some questions, you will see a headphones icon.   &lt;icon&gt;   This icon tells you that you will hear, but not read, part of the lecture again. Then you will answer a question about the part of the lecture that you heard.
+
+Some questions have special directions that are &lt;readinghighlight&gt;highlighted&lt;/readinghighlight&gt;.
+
+This test includes two conversations and four lectures.
+
+You must give an answer for every question, and then click &lt;b&gt;NEXT&lt;/b&gt;. To confirm your answer, click &lt;b&gt;OK&lt;/b&gt;. Once the next question appears, you cannot go back to earlier questions. 
+</sectiondirections>
+
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<audiofile>4_Li_02.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT4_4.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>4_Li_03.mp3</questionAudio>
+			<questiontext>Why does Amy NOT plan to try out for the basketball team?</questiontext>
+			<choice>She doesn't have any experience playing basketball.</choice>
+			<choice>The university doesn't have a women's basketball team.</choice>
+			<choice>She doesn't think that she is tall enough.</choice>
+			<choice>It's too late to try out for the team this year.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_04.mp3</questionAudio>
+			<questiontext>What can be inferred about the fencing team's captain, Wendy Travis?</questiontext>
+			<choice>She was a walk-on when she tried out for the team.</choice>
+			<choice>She won a scholarship the first year she was on the team.</choice>
+			<choice>She transferred to the university from another school.</choice>
+			<choice>She was recruited to the team by Ms. Wagner.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_05.mp3</questionAudio>
+			<questiontext>According to the conversation, what quality does Ms. Wagner think is MOST important in a fencer?</questiontext>
+			<choice>Speed </choice>
+			<choice>Physical strength</choice>
+			<choice>Willingness to learn</choice>
+			<choice>Intelligence</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_06.mp3</questionAudio>
+			<questiontext>How often does the fencing team practice during tryouts?</questiontext>
+			<choice>Once a week</choice>
+			<choice>Twice a week</choice>
+			<choice>Three times a week</choice>
+			<choice>Four times a week</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_07.mp3</questionAudio>
+			<questiontext>What does Ms. Wagner suggest that Amy buy on the Internet?</questiontext>
+			<choice>A mask</choice>
+			<choice>A glove</choice>
+			<choice>A jacket</choice>
+			<choice>A weapon</choice>
+			<correctanswer>2</correctanswer>
+		</question>	
+		<question>
+			<questionnumber>6</questionnumber>
+			<audiofile>4_Li_08.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT4_5.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>4_Li_09.mp3</questionAudio>
+			<questiontext>Why does Larry want to talk with Professor Kemp?</questiontext>
+			<choice>To ask her to help him with his acting</choice>
+			<choice>To find out which play will be staged in the spring</choice>
+			<choice>To discuss his performance in her acting class</choice>
+			<choice>To make an appointment to audition for a play</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_10.mp3</questionAudio>
+			<questiontext>Why does Professor Kemp NOT want to direct the play &lt;i&gt;Our Town&lt;/i&gt;?</questiontext>
+			<choice>It would not involve any work for students interested in costumes and scenery.</choice>
+			<choice>She does not have the necessary background to direct this play.</choice>
+			<choice>She has never liked any of the plays written by Thornton Wilder.</choice>
+			<choice>This play is more appropriate for high school students than for university students.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<audiofile>4_Li_10a.mp3</audiofile>
+			<boxtext>Listen again to part of the lecture.</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_11.mp3</questionAudio>
+			<questiontext>What does the professor mean when she says this?     &lt;icon&gt;</questiontext>
+			<choice>She will be unable to attend the Shakespeare festival this year.</choice>
+			<choice>She would like to direct a play written by Shakespeare every year.</choice>
+			<choice>She doesn't understand Larry's comment about Shakespeare.</choice>
+			<choice>She thinks that it's time to stage a play not written by Shakespeare.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_12.mp3</questionAudio>
+			<questiontext>When does the action in the play &lt;i&gt;The Crucible&lt;/i&gt; take place?</questiontext>
+			<choice>In medieval times</choice>
+			<choice>In the seventeenth century</choice>
+			<choice>In the 1950s</choice>
+			<choice>In the present</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_13.mp3</questionAudio>
+			<questiontext>Why does Larry mention the plays &lt;i&gt;Death of a Salesman&lt;/i&gt; and &lt;i&gt;The Glass Menagerie&lt;/i&gt;?</questiontext>
+			<choice>They are plays that he would like to see sometime soon.</choice>
+			<choice>They are plays that he would like Professor Kemp to direct.</choice>
+			<choice>They are plays that his roommate would like to be in.</choice>
+			<choice>They are plays by Arthur Miller that he is familiar with.</choice>
+			<correctanswer>4</correctanswer>
+		</question>	
+		<question>
+			<questionnumber>11</questionnumber>
+			<audiofile>4_Li_14.mp3</audiofile>
+			<boxtext>Astronomy</boxtext>
+			<art>PT4_7.jpg:29,PT4_8.jpg:68,PT4_6.jpg:104,PT4_7.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>4_Li_15.mp3</questionAudio>
+			<questiontext>How does the professor describe the Great Red Spot?</questiontext>
+			<choice>By explaining how its color is similar to the color of familiar objects</choice>
+			<choice>By contrasting it with features found on planets other than Earth</choice>
+			<choice>By comparing it to storms that occur on the planet Earth</choice>
+			<choice>By discussing the damage that it has caused on the planet Jupiter</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>12</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_16.mp3</questionAudio>
+			<questiontext>According to the professor, which of the following facts about the Great Red Spot is definitely true?</questiontext>
+			<choice>It was discovered by the Italian astronomer Cassini.</choice>
+			<choice>It first formed about 350 years ago.</choice>
+			<choice>It will last for only a few more years.</choice>
+			<choice>It was first observed in the seventeenth century.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>13</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_17.mp3</questionAudio>
+			<questiontext>What chemical probably causes the Great Red Spot to appear red?</questiontext>
+			<choice>Phosphorous</choice>
+			<choice>Hydrogen</choice>
+			<choice>Methane</choice>
+			<choice>Helium</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>14</questionnumber>
+			<audiofile>4_Li_18.mp3</audiofile>
+			<questiontext>How do white ovals in the atmosphere of Jupiter differ from brown ovals?</questiontext>
+			<choice>White ovals are storms, but brown ovals are not.</choice>
+			<choice>The winds in brown ovals are stronger than those in white ovals.</choice>
+			<choice>White ovals last only for a few hours, but brown ovals last for decades.</choice>
+			<choice>The clouds in brown ovals are warmer than those in white ovals.</choice>
+			<correctanswer>2,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>15</questionnumber>
+			<audiofile>4_Li_19.mp3</audiofile>
+			<questiontext>In this lecture, the professor gives a number of characteristics of the Great Red Spot and Oval BA (Red Junior). Indicate whether each of the following is a characteristic of that feature.</questiontext>
+			<rows>5</rows>
+			<columns>3</columns>
+			<heading>The Great Red Spot</heading>
+			<heading>Oval BA (Red Junior)</heading>
+			<choice>Was formed by the joining of three ovals</choice>
+			<choice>Is the size of three planets as big as Earth</choice>
+			<choice>Changed from white to brown to red in a few months</choice>
+			<choice>May cause the other feature to slow down</choice>
+			<correctanswer>3,2,3,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>16</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_20.mp3</questionAudio>
+			<questiontext>What does the professor imply when he says this?     &lt;icon&gt;</questiontext>
+			<choice>The moons of Jupiter are more interesting than the Great Red Spot.</choice>
+			<choice>There are also giant storms on the planet Neptune.</choice>
+			<choice>He's decided that he is not going to discuss Neptune next week.</choice>
+			<choice>There may be storms like the Great Red Spot on Jupiter's moons.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>17</questionnumber>
+			<audiofile>4_Li_21.mp3</audiofile>
+			<boxtext>Biology</boxtext>
+			<art>PT4_9.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>4_Li_22.mp3</questionAudio>
+			<questiontext>What are the students primarily doing?</questiontext>
+			<choice>Preparing to give a presentation</choice>
+			<choice>Writing a research paper</choice>
+			<choice>Getting ready for an examination</choice>
+			<choice>Filling out a laboratory report</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>18</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_23.mp3</questionAudio>
+			<questiontext>If an animal has an exoskeleton, where is the thinnest part of its outer skeleton?</questiontext>
+			<choice>On its back</choice>
+			<choice>On its eyes</choice>
+			<choice>On its legs</choice>
+			<choice>On its head</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>19</questionnumber>
+			<audiofile>4_Li_24.mp3</audiofile>
+			<questiontext>What are two advantages of an exoskeleton?</questiontext>
+			<choice>It provides some animals with special tools such as a stinger.</choice>
+			<choice>It allows animals to grow to a larger size.</choice>
+			<choice>It is lightweight compared to an endoskeleton.</choice>
+			<choice>It protects animals from injury.</choice>
+			<correctanswer>1,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>20</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_25.mp3</questionAudio>
+			<questiontext>Why does the man mention sharks?</questiontext>
+			<choice>Sharks have skeletons made of chitin.</choice>
+			<choice>Sharks' skeletons are not as streamlined as those of most fish.</choice>
+			<choice>Sharks have skeletons made of cartilage, not bone.</choice>
+			<choice>Sharks developed later than most types of fish.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>21</questionnumber>
+			<audiofile>4_Li_26.mp3</audiofile>
+			<questiontext>In this discussion, the students give a number of characteristics of fish bones, bird bones, and mammal bones. Indicate which of the following sentences is a characteristic of each type of bone.</questiontext>
+			<rows>5</rows>
+			<columns>4</columns>
+			<heading>Fish bones</heading>
+			<heading>Bird bones</heading>
+			<heading>Mammal bones</heading>
+			<choice>Are so thin that light passes through them</choice>
+			<choice>Are the thickest, strongest, and heaviest bones</choice>
+			<choice>Are hollow but are strengthened by crosswalls</choice>
+			<choice>Have no marrow cavity</choice>
+			<correctanswer>2,4,3,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>22</questionnumber>
+			<audiofile>4_Li_26a.mp3</audiofile>
+			<boxtext>Listen again to part of the discussion. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_27.mp3</questionAudio>
+			<questiontext>What does the woman mean when she says this?   &lt;icon&gt;</questiontext>
+			<choice>The information is difficult to understand.</choice>
+			<choice>The picture contains several mistakes.</choice>
+			<choice>The print on the illustration is too small.</choice>
+			<choice>The man doesn't need to get another book.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>23</questionnumber>
+			<audiofile>4_Li_28.mp3</audiofile>
+			<boxtext>Musicology</boxtext>
+			<art>PT4_11.jpg:46,PT4_10.jpg:81,PT4_11.jpg:123,PT4_10.jpg:173,PT4_11.jpg:243,PT4_12.jpg:288,PT4_11.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions.
+
+You may use your notes to help you.</highlightbox>			
+			<questionAudio>4_Li_29.mp3</questionAudio>
+			<questiontext>What is the main purpose of this lecture?</questiontext>
+			<choice>To compare drums and other types of instruments</choice>
+			<choice>To describe one type of percussion instrument</choice>
+			<choice>To speculate about the early history of drums</choice>
+			<choice>To contrast drummers in the past with those of today</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>24</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_30.mp3</questionAudio>
+			<questiontext>According to the speaker, where were the first drums of any kind used?</questiontext>
+			<choice>Persia</choice>
+			<choice>Hungary</choice>
+			<choice>Africa</choice>
+			<choice>Rome</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>25</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_31.mp3</questionAudio>
+			<questiontext>How does the speaker explain the concept of talking drums?</questiontext>
+			<choice>By comparing then to several other types of drums</choice>
+			<choice>By providing an example of messages they might send</choice>
+			<choice>By imitating the sounds that these drums might make </choice>
+			<choice>By comparing them to a modern communication system</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>26</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_32.mp3</questionAudio>
+			<questiontext>Which of the following is NOT true about kettle drums?</questiontext>
+			<choice>They are the largest of all drums.</choice>
+			<choice>They were once played by foot, but today are played by hand.</choice>
+			<choice>They are shaped like large bowls.</choice>
+			<choice>They are the only drums that can be tuned to a specific note.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>27</questionnumber>
+			<audiofile>4_Li_33.mp3</audiofile>
+			<questiontext>Which of these drums are part of a standard five-drum set?</questiontext>
+			<choice>Snare drum</choice>
+			<choice>Tom-toms</choice>
+			<choice>Tympani</choice>
+			<choice>Bass drum </choice>
+			<choice>Tenor drum </choice>
+			<correctanswer>1,2,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>28</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_34.mp3</questionAudio>
+			<questiontext>What is the speaker's opinion of rock and roll drummers of the 1960s?</questiontext>
+			<choice>They were not as talented as earlier drummers.</choice>
+			<choice>They used too many drums in their drum set.</choice>
+			<choice>They were better known than earlier drummers.</choice>
+			<choice>They had more formal training than drummers today.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>29</questionnumber>
+			<audiofile>4_Li_35.mp3</audiofile>
+			<boxtext>Linguistics</boxtext>
+			<art>PT4_14.jpg:153,PT4_13.jpg:214,PT4_14.jpg:288,PT4_13.jpg:353,PT4_14.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer the questions. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>4_Li_39.mp3</questionAudio>
+			<questiontext>Why does the professor mention Samoans in this discussion?</questiontext>
+			<choice>Samoans speak to newborn babies as if they were adults.</choice>
+			<choice>Samoans do not directly speak to babies until they are one year old.</choice>
+			<choice>Samoan babies learn to speak sooner than babies in other cultures.</choice>
+			<choice>Samoans use an extreme form of child-directed speech.</choice>
+			<correctanswer>2</correctanswer>
+
+
+			
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>30</questionnumber>
+			<audiofile>4_Li_38.mp3</audiofile>
+			<questiontext>In this discussion, the professor explains the concept of child-directed speech (CDS) in a number of ways. Indicate whether each of the following is one of the methods that the professor uses to explain this concept.</questiontext>
+			<rows>5</rows>
+			<columns>3</columns>
+			<heading>Yes</heading>
+			<heading>No</heading>
+			<choice>She imitates some typical CDS sentences.</choice>
+			<choice>She plays a recording of a parent using CDS.</choice>
+			<choice>She mentions a more familiar name for CDS.</choice>
+			<choice>She compares CDS to normal speech.</choice>
+			<correctanswer>2,3,2,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>31</questionnumber>
+			<audiofile>4_Li_36.mp3</audiofile>
+			<boxtext>Listen again to part of the conversation. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_37.mp3</questionAudio>
+			<questiontext>What does the professor mean when she says this?     &lt;icon&gt;</questiontext>
+			<choice>She mostly disagrees with the idea that parents teach babies to speak.</choice>
+			<choice>She has no idea how to answer the student's question.</choice>
+			<choice>She completely disagrees with the opinion that the student offers.</choice>
+			<choice>She agrees that parents teach babies to talk, but many experts don't.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>32</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_40.mp3</questionAudio>
+			<questiontext>What can be inferred about Grace's baby nephew from the lecture?</questiontext>
+			<choice>He does not really mean "mama" when he says this word.</choice>
+			<choice>His mother wants him to take part in a language-learning experiment.</choice>
+			<choice>He has already learned the meaning of several words.</choice>
+			<choice>His expressive language skills are better than his receptive language skills.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>33</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_41.mp3</questionAudio>
+			<questiontext>Which of the following is an example of a holophrastic phase?</questiontext>
+			<choice>Na, na.</choice>
+			<choice>Want more milk.</choice>
+			<choice>Kitty!</choice>
+			<choice>Hi, mama!</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>34</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>4_Li_42.mp3</questionAudio>
+			<questiontext>What does Professor Jordan say about the grammatical mistakes that children make?</questiontext>
+			<choice>They are learned by imitating the mistakes that adults make.</choice>
+			<choice>They are generally misinterpreted by parents.</choice>
+			<choice> They are often logical errors caused by "overlearning" grammar.</choice>
+			<choice>They are the same mistakes no matter what language children speak.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+<sectionClosing>This is the end of the Listening Section of Practice Test 4. You may take a ten-minute break before beginning work on the Speaking Section.</sectionClosing>
+</test>

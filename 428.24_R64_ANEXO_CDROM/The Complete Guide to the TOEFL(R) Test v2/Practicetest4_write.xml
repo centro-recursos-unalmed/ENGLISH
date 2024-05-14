@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 4</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Writing Section Directions</sectionname>
+<sectiondirections>This section tests your ability to write academic English. It consists of two writing tasks.
+
+The first writing task is an "integrated" task. It involves reading a short passage and listening to a short lecture on the same topic. You will then have 20 minutes in which to write a response based on the information in the passage and the lecture.
+
+The second writing task is an "independent" task. It involves writing a response to a question using your own experience and background knowledge.
+
+Now read the directions for the first writing task.</sectiondirections>
+
+	<integrated>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>Take three minutes to read the short passage on the following screen. You may take notes as you read. 
+
+After three minutes, you will hear a lecture on the same topic as the reading. Again, you may take notes as you listen.
+
+You will have 20 minutes to write your response. Your response should include information from both the reading and the lecture. 
+
+Your essay will be rated on the completeness and accuracy of your response as well as on the correctness and quality of your writing. A typical response should be about 250 words. 
+
+You may use your notes and view the reading passage on the computer screen as you write. 
+
+If you finish this writing task in less than 20 minutes, you may start working on the second writing task if you want.</directions>
+			<directionsAudio>IntegratedWritingTask.mp3</directionsAudio>
+			<thereading>Graffiti has existed ever since humans have been able to write. Archaeologists have found graffiti on the walls of buildings in ancient Rome, Greece, and Egypt. The modern era of graffiti, or "tagging" as it is sometimes called, began in the early 1970s when young people from poor neighborhoods began writing their names on subway cars in New York City. Now it has spread all over the world and has created a street-art and fashion phenomenon.
+
+Ever since the movement began, graffiti artists have faced opposition and criticism and even arrest when they are simply expressing themselves artistically. Recently, some cities have passed laws that limit the amount of aerosol paint cans and marking pencils that people under the age of 18 can purchase. This type of law discriminates both against artists and against young people.
+
+Some people complain that graffiti is ugly, that it ruins private property. Does anyone really prefer a blank, featureless wall to a wall decorated with colorful graffiti art? In many ways, graffiti is like any public art. For example, the famous artist Christo has created striking pieces of public art. He once surrounded islands down in Florida with bright pink plastic, and he completely wrapped up a building in Berlin with clear plastic. Christo's desire to transform ordinary scenes into art--this is the same desire that motivates graffiti artists.
+
+If we are concerned about graffiti, we should try to encourage graffiti artists. We should provide them with public places where they can practice their art form. We should hire the best graffiti artists, the most creative ones, to train younger artists. And most of all, we should decriminalize graffiti.</thereading>
+			<audiofile>4_Wr_52.mp3</audiofile>			
+			<art>PT4_19.jpg</art>
+			<questionDirections>Now get ready to answer the question. Remember, you may view the reading passage as you write. You may also use your notes to help you.</questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; Summarize the main points made in the lecture that you just heard, discussing how they cast doubt on points made in the reading. You can refer to the reading passage as you write.</questiontext>
+			<questionaudio>4_Wr_52a.mp3</questionaudio>
+		</question>
+	</integrated>
+	<independent>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>Read the question. You have 30 minutes to write your essay. This includes the time to plan, write, and revise your essay. A typical response should be a minimum of 300 words.
+
+Your essay will be rated on the correctness and quality of your writing, including the way you organize your essay and develop and support your ideas.</directions>
+			<directionsAudio>IndependentWritingTask.mp3</directionsAudio>
+			<questionDirections>Read the question below. You have thirty minutes to write your essay. This includes the time to plan, write, and revise your essay.  A typical response should be a minimum of 300 words. </questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; Many important events have taken place in the last 100 years. Choose the event that you think is the most important. Use specific examples and reasons to explain your choice.</questiontext>
+		</question>
+	</independent>
+<sectionClosing>This is the end of the Writing Section and of Practice Test 4.</sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

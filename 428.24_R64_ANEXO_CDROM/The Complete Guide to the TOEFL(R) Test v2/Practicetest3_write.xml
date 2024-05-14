@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 3</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Writing Section Directions</sectionname>
+<sectiondirections>This section tests your ability to write academic English. It consists of two writing tasks.
+
+The first writing task is an "integrated" task. It involves reading a short passage and listening to a short lecture on the same topic. You will then have 20 minutes in which to write a response based on the information in the passage and the lecture.
+
+The second writing task is an "independent" task. It involves writing a response to a question using your own experience and background knowledge.
+
+Now read the directions for the first writing task.</sectiondirections>
+
+	<integrated>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>Take three minutes to read the short passage on the following screen. You may take notes as you read. 
+
+After three minutes, you will hear a lecture on the same topic as the reading. Again, you may take notes as you listen.
+
+You will have 20 minutes to write your response. Your response should include information from both the reading and the lecture. 
+
+Your essay will be rated on the completeness and accuracy of your response as well as on the correctness and quality of your writing. A typical response should be about 250 words. 
+
+You may use your notes and view the reading passage on the computer screen as you write. 
+
+If you finish this writing task in less than 20 minutes, you may start working on the second writing task if you want.</directions>
+			<directionsAudio>IntegratedWritingTask.mp3</directionsAudio>
+			<thereading>Home schooling is a small but growing movement in the United States, Canada, and elsewhere. Only about 1% to 2% of children are currently educated by their parents or guardians at home, but these numbers are increasing. Of course, home schooling is not new. Until the middle of the nineteenth century, many students were schooled at home. President John Quincy Adams and inventor Thomas Edison were home schooled, as were many other famous people.
+
+One significant reason why it is desirable to school students at home involves academic performance. On average, home-schooled children actually perform better than students attending public or private schools. A recent study involving over 25,000 students showed that home-schooled students scored significantly higher on standardized achievement tests than students at public or private schools.
+
+A common objection that opponents of home schooling make is that students who are educated at home are isolated and don't learn social skills. Another study has shown that this is not true. Almost 98% of home-schooled students took part in two or more outside activities. These include sports teams, Boy Scouts or Girl Scouts, and music and dance classes. About 70% took part in 5 or more outside activities per week. 
+
+Some parents today feel that schools are too dangerous, too bureaucratic, too impersonal, too disorderly, and too easily influenced by educational fads. Classes are too large and teachers are overworked. For these parents, schooling at home has become a viable option.</thereading>
+			<audiofile>3_Wr_56a.mp3</audiofile>			
+			<art>PT3_21.jpg</art>
+			<questionDirections>Now get ready to answer the question. Remember, you may view the reading passage as you write. You may also use your notes to help you.</questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; Summarize the main points made in the lecture that you just heard, discussing how they cast doubt on points made in the reading. You can refer to the reading passage as you write.</questiontext>
+			<questionaudio>3_Wr_56b.mp3</questionaudio>
+		</question>
+	</integrated>
+	<independent>
+		<numberofquestions>2</numberofquestions>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>Read the question. You have 30 minutes to write your essay. This includes the time to plan, write, and revise your essay. A typical response should be a minimum of 300 words.
+
+Your essay will be rated on the correctness and quality of your writing, including the way you organize your essay and develop and support your ideas.</directions>
+			<directionsAudio>IndependentWritingTask.mp3</directionsAudio>
+			<questionDirections>Read the question below. You have thirty minutes to write your essay. This includes the time to plan, write, and revise your essay.  A typical response should be a minimum of 300 words.</questionDirections>
+			<questiontext>&lt;b&gt;Question:&lt;/b&gt; A common expression in English is "Two heads are better than one." In other words, two people can do a better job than one person. Do you agree with this expression? Use specific reasons and details to support your answer.</questiontext>
+		</question>
+	</independent>
+<sectionClosing>This is the end of the Writing Section and of Practice Test 3.</sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

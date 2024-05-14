@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Speaking Section Directions</sectionname>
+<sectiondirections>This section tests your ability to speak about various subjects. There are six tasks in this section. Listen carefully to the directions, and read the questions on the screen. The first two tasks are independent speaking tasks. You have 15 seconds in which to prepare your response. When you hear a beep on the Listening Program, you will have 45 seconds in which to answer the question.
+
+The last four tasks are integrated speaking tasks. The third and fourth questions involve a reading text and a listening passage. You will have 45 seconds in which to read a short text. You will then hear a short conversation or part of a lecture on the same topic. You may take notes on both the reading and listening passage. You will then see a question on the screen asking about the information that you have just read and heard, and you will have 30 seconds in which to plan a response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question. 
+
+The fifth and sixth questions involve a short listening passage. You may take notes as you listen. After listening to the conversation or lecture, you will see a question, and you will have 20 seconds in which to plan your response. When you hear a beep on the Listening Program, you will have 60 seconds in which to answer the question.
+
+A clock on the screen will tell you how much preparation time or how much response time (speaking time) remains for each question. It is important that you time yourself accurately when you take this practice test. On an actual test your responses will be recorded and evaluated by trained raters. 
+</sectiondirections>
+
+	<speaking>
+		<numberofquestions>6</numberofquestions>
+		<question>
+			<questionnumber>1</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>1_Sp_04a.mp3</questionAudio>			
+			<art>PT1_2.jpg</art>
+			<audiofile>1_Sp_03.mp3</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>What is the most important decision that you have ever made?
+
+Give specific details and examples to support your explanation. </questiontext>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>1_Sp_06.mp3</questionAudio>			
+			<art>PT1_2.jpg</art>
+			<audiofile>1_Sp_05.mp3</audiofile>
+			<prep>15 seconds</prep>
+			<response>45 seconds</response>
+			<questiontext>In some university classes, grades depend mainly on tests, such as quizzes and final exams. In other classes, grades depend primarily on academic papers that the students write. Which type of class would you prefer to take? Give specific details and examples to support your explanation. </questiontext>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<directions>Lincoln University is instituting a new policy regarding requirements for graduation. Read the following notice from the Dean of Education.</directions>
+			<directionsAudio>1_Sp_08.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>&lt;i&gt;Notice from the Dean of Education&lt;/i&gt;
+
+Because our graduates will all be living in an increasingly globalized world, and because it is important that they know how to communicate in international settings, the Lincoln University Board of Regents has voted to require all students to satisfy a foreign language requirement. You may satisfy this requirement with a successful completion of four terms (12 credit hours) of language instruction in the language program of choice. (Only students whose native language is not English may satisfy this requirement by taking  English classes.)
+
+Students with prior language training may demonstrate their proficiency by taking a placement test in the language in question. Students with scores of 85 or above are not required to take further foreign language courses. However, we encourage students who have achieved a high level of language competency to continue their language study. This ruling affects all incoming students and all currently enrolled first- and second-year students regardless of major.</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>1_Sp_11.mp3</questionAudio>			
+			<art>PT1_17.jpg</art>
+			<audiofile>1_Sp_09_10.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The woman gives her opinion of the notice written by the Dean of Education. Explain her opinion and discuss the reasons she gives for having this opinion.</questiontext>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<directions>Read the following passage about airships.</directions>
+			<directionsAudio>1_Sp_12.mp3</directionsAudio>
+			<readingtime>45 seconds</readingtime>
+			<thereading>Unlike helicopters and airplanes, lighter-than-air craft depend on buoyant gases--hydrogen and helium--to make them fly. Because of these gases, they rise into the air. Powered lighter-than-air craft have engines and fins and rudders--just like airplanes--so their pilots can control the speed and direction of their flight.
+
+There are two main types of powered lighter-than-air craft: rigid airships and non-rigid airships. Rigid aircraft have internal frames made of aluminum--that's why they are called rigid. The first one of these was built in 1900 by a German engineer named Count Zeppelin. Rigid airships are therefore sometimes called &lt;i&gt;zeppelins&lt;/i&gt;. These long, cigar-shaped aircraft were filled with hydrogen, which made them very dangerous. When hydrogen combines with oxygen, it can burn violently. The other type of lighter-than-air craft is the non-rigid airship. These airships are also called &lt;i&gt;blimps&lt;/i&gt;. Blimps have no internal skeleton, no internal structure. They are merely fabric envelopes. It is the buoyant gas that gives them their shapes. They are fatter and much, much shorter in length than the old zeppelins. Blimps are filled with helium, which is a non-flammable gas, and so they are much safer than rigid airships. Unlike rigid zeppelins, blimps are still a fairly common sight in our skies, especially during important sporting events.</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>1_Sp_14.mp3</questionAudio>			
+			<art>PT1_18.jpg</art>
+			<audiofile>1_Sp_13.mp3</audiofile>
+			<prep>30 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>The professor and the students discuss two airships, the blimp &lt;i&gt;Columbia&lt;/i&gt; and the zeppelin &lt;i&gt;Hindenburg&lt;/i&gt;. Using information from the passage and the discussion, compare these two airships.</questiontext>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>x</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>1_Sp_17.mp3</questionAudio>			
+			<art>PT1_19a.jpg</art>
+			<audiofile>1_Sp_16.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>Mike offers Diane two possible solutions to her problem. Discuss her problem and then explain which of the two solutions you think is better and why you think so.</questiontext>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<directions>x</directions>
+			<directionsAudio>1_Sp_18.mp3</directionsAudio>
+			<readingtime>x</readingtime>
+			<thereading>x</thereading>
+			<listeningdirections>x</listeningdirections>
+			<questionAudio>1_Sp_20.mp3</questionAudio>			
+			<art>PT1_20.jpg</art>
+			<audiofile>1_Sp_19.mp3</audiofile>
+			<prep>20 seconds</prep>
+			<response>60 seconds</response>
+			<questiontext>Using specific examples and points from the lecture, explain the relationship between the lantana plants and insects and discuss how it benefits both of them.</questiontext>
+		</question>
+	</speaking>
+	
+<sectionClosing>This is the end of the Speaking Section. Go directly to the Writing Section. </sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+

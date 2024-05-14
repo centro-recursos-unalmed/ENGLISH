@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 2</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Reading Section Directions</sectionname>
+<sectiondirections>This section tests your ability to comprehend academic reading passages. It consists of three passages and a set of questions about each of them.  All of the questions are worth one point except for the last question in each set. Special directions for the last question will tell you how many points it is worth. 
+
+You have sixty minutes in which to complete this section of the test. 
+
+In the passages, some words or phrases are underlined in black. If you click on one, a definition or explanation will appear on your screen.
+
+As soon as you have finished one question, you may move on to the next one by clicking the NEXT button that appears in the top bar of your screen. You may skip questions and change answers later by clicking the REVIEW button. Click the BACK button to return to a previous question. 
+
+As soon as you have read these directions, click NEXT to go on to the first reading.</sectiondirections>
+
+<multiple>
+		<grouptitle>&lt;b&gt;Lichens&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>Lichens look like splashes of paint left behind by a careless painter. Unlike many plants, they do not require soil to grow. They grow on the bark of trees in steaming tropical rain forests, on farmers' fenceposts, on the bricks of big-city buildings, and on old gravestones. Lichens can tolerate extremes of climate. They grow on rocks in hot springs, on wind-swept mountain-top boulders, and on stones in the driest deserts. In the Arctic, lichens, known as reindeer moss, are the principal source of food for caribou. Whole mountainsides in Antarctica appear green and orange because of the presence of lichens; they are one of the few plants that can survive there. They are among the oldest of known plants. Recently, scientists discovered lichen fossils on a rock in a phosphate mine in southwest China that dated back 600 million years. 
+
+When conditions become harsh, lichens become dormant. If there is not enough moisture, they simply dry up, but a short rain or even a heavy dew gives them new life. When growing on rock surfaces, lichens &lt;readinghighlight&gt;secrete&lt;/readinghighlight&gt; acids that dissolve the minerals, contributing to the process of weathering by which rocks are slowly turned to soil. This property enables lichens to be pioneers. They appear on barren rock scoured clean by glaciers, fires, lava flows, or floods, beginning the process of soil formation that allows mosses, ferns, and other plants to later take root. But, despite their hardiness, lichens are extremely sensitive to airborne particles. That's why they serve as an early warning system for air pollution. 
+
+It is the acids lichens produce that give them their distinctive colors. &lt;readinghighlight&gt;Lichens are often spoken of in the same breath as mosses, and some lichens are even called mosses, but true mosses are all distinctively green, whereas lichens appear in many vivid colors.&lt;/readinghighlight&gt; At one time, before the invention of aniline dyes, acids from lichens were used to make dyes, such as the purple dye orchil, the blue dye litmus, and the red dye cudbear, and they are sometimes still used that way today. Some lichens, such as oak moss, contain oils that produce fragrant odors used in scented soaps, cosmetics, and perfumes. Some lichens are also known to have antibiotic properties.
+
+Lichens are a partnership of two or more types of plants, a &lt;readinggloss&gt;fungus&lt;/readinggloss&gt; and a type of &lt;readinggloss&gt;algae&lt;/readinggloss&gt;. If you look at the lichen body through a magnifying glass, you will see that it is made up of a &lt;readinghighlight&gt;tangled&lt;/readinghighlight&gt;  mass of fungal strands called hyphae. In the upper layer of these hyphae grow colonies of another type of plant. These are most commonly green algae but are sometimes blue-green algae.
+
+The two types of organisms live together to the benefit of both, a relationship known as symbiosis. The fungus provides support for the algae and protects the tender algae from direct sunlight and dry air. The fungus provides moisture and minerals for the plant. The fungus also produces chemicals which, when combined with alcohol produced by the algae, form acid crystals. This acid carves tiny holes in rocks and other substances, and the fungus inserts threads (not true roots) into these holes to anchor the plant in place. The algae contain &lt;readinggloss&gt;chlorophyll&lt;/readinggloss&gt; and synthesize sugars from carbon dioxide and sunlight, producing food for the lichen. A chemical secreted by the fungus softens the cell walls of the algae and allows nutrients to pass from the algae to the fungus.
+
+There are many examples of symbiosis in nature, but lichens are unique because they look and behave differently from their components. The algal components of lichen can live independently and are recognizable as species that grow alone. The fungal components, on the other hand, cannot live apart from their partners. They can be placed in known families of fungi but are unlike any species that live independently.
+
+So definite are the form, color, and characteristics of these double organisms that for hundred of years lichens were classified as &lt;readinghighlight&gt;one&lt;/readinghighlight&gt;. More than 15,000 species were named. If these organisms are classified as single species, it is difficult to fit them into the existing system of classification. But if they are classified as separate species, these fungal species that cannot live alone seem rather strange. Lichens, then, are a &lt;readinghighlight&gt;splendid&lt;/readinghighlight&gt;  example of the difficulties faced by taxonomists in classifying species.</thereading>
+			<readingglossdef>fungus*fungus: a non-green, plant-like organism such as a mushroom that feeds on dead or living plants</readingglossdef>
+			<readingglossdef>algae*algae: a simple plant that usually lives in water</readingglossdef>
+			<readingglossdef>chlorophyll*chlorophyll: a chemical that enables plants to photosynthesize (use sunshine in creating food) </readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<scrolltoposition>Lichens look like splashes</scrolltoposition>
+			<questiontext>What point about lichens does the author emphasize in paragraph 1?</questiontext>
+			<choice>They live primarily in cold places.</choice>
+			<choice>They live only in remote locations far from human communities.</choice>
+			<choice>They have adapted to a wide variety of environments.</choice>
+			<choice>They grow only on rock surfaces.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<scrolltoposition>When conditions become harsh</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;secrete&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>conceal</choice>
+			<choice>produce</choice>
+			<choice>absorb</choice>
+			<choice>withstand</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<scrolltoposition>When conditions become harsh</scrolltoposition>
+			<questiontext>Why does the author refer to lichens as &lt;i&gt;pioneers&lt;/i&gt; in paragraph 2?</questiontext>
+			<choice>Because they developed so early in the history of the planet.</choice>
+			<choice>Because of their primitive structure.</choice>
+			<choice>Because they grow in areas earlier than other plants do.</choice>
+			<choice>Because they are found in remote parts of the world.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<scrolltoposition>Lichens are often spoken of in the same breath as mosses, and some lichens are even called mosses, but true mosses are all distinctively green, whereas lichens appear in many vivid colors.*It is the acids lichen</scrolltoposition>
+			<questiontext>Which of the following sentences best expresses the essential information in the sentence highlighted?  (Incorrect answer choices omit important information or change the meaning of the original sentence in an important way.)&lt;readinghighlight&gt;&lt;/readinghighlight&gt;</questiontext>
+			<choice>Lichens are associated in people's minds with mosses, but real mosses are always green while lichens are seen in a variety of bright colors.</choice>
+			<choice>Many people know about green mosses, but only a few people are familiar with multi-colored lichens.</choice>
+			<choice>It is widely believed that mosses and lichens are the same organism, but in fact only green lichens should be considered true mosses.</choice>
+			<choice>People speak of lichens and mosses as if they were the same, and they even call some lichens "mosses" because the two types of plants are difficult to distinguish.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<scrolltoposition>It is the acids lichen</scrolltoposition>
+			<questiontext>Which of the following is NOT given in paragraph 3 as one of the ways humans use lichens?</questiontext>
+			<choice>As a means of coloring their clothing</choice>
+			<choice>As a type of medicine</choice>
+			<choice>As a source of food</choice>
+			<choice>As an ingredient in perfume </choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>6</questionnumber>
+			<scrolltoposition>Lichens are a partnership</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;tangled&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>twisted</choice>
+			<choice>damp</choice>
+			<choice>solid</choice>
+			<choice>clear</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<scrolltoposition>The two types of organisms</scrolltoposition>
+			<questiontext>Which of the following is an example of &lt;i&gt;symbiosis&lt;/i&gt; as described in paragraph 5?</questiontext>
+			<choice>Mistletoe, a kind of plant, grows on oak trees and harms them by extracting water and nutrients.</choice>
+			<choice>Fish called remoras attach themselves to sharks and eat the scraps of the sharks' meals. </choice>
+			<choice>Certain types of tall grass conceal tigers because of the tigers' striped markings.</choice>
+			<choice>Protozoa that live in the intestines of termites digest the cellulose that the termites eat, and their waste products nourish the termites.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>Which of the following can be inferred from the passage about the effects of direct sunlight on lichens?</questiontext>
+			<choice>It destroys the fungal component.</choice>
+			<choice>It is required for the fungus to carry on photosynthesis.</choice>
+			<choice>It causes lichens to become different colors.</choice>
+			<choice>It damages the algal component.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<scrolltoposition>So definite are</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;one&lt;/readinghighlight&gt; in paragraph 7 refers to</questiontext>
+			<choice>one species</choice>
+			<choice>one organism</choice>
+			<choice>one year</choice>
+			<choice>one color</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<scrolltoposition>So definite are the form</scrolltoposition>
+			<questiontext>In paragraph 7, why does the author say that these species of fungi "seem rather strange"?</questiontext>
+			<choice>They are more complex than typical fungi.</choice>
+			<choice>Unlike other fungi, they can produce their own food.</choice>
+			<choice>They exist only as partners of algae.</choice>
+			<choice>They do not fit into any known class of fungi.</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>11</questionnumber>
+			<scrolltoposition>So definite are</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;splendid&lt;/readinghighlight&gt; in the passage is closest in meaning to </questiontext>
+			<choice>unique</choice>
+			<choice>excellent</choice>
+			<choice>famous</choice>
+			<choice>improbable</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>Lichens are a partnership of two or more types of plants, a fungus and a type of algae. &lt;n&gt; If you look at the lichen body through a magnifying glass, you will see that it is made up of a tangled mass of fungal strands called hyphae. &lt;n&gt; In the upper layer of these hyphae grow colonies of another type of plant. &lt;n&gt; These are most commonly green algae but sometimes blue-green algae. &lt;n&gt;  </thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>12</questionnumber>
+			<questiontext>&lt;b&gt;A few enterprising lichens contain both.&lt;/b&gt;</questiontext>
+			<correctanswer>4</correctanswer>
+		</question>
+	</addsentence>
+	<dragdrop>
+		<grouptitle>&lt;b&gt;Lichens&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>Lichens look like splashes of paint left behind by a careless painter. Unlike many plants, they do not require soil to grow. They grow on the bark of trees in steaming tropical rain forests, on farmers' fenceposts, on the bricks of big-city buildings, and on old gravestones. Lichens can tolerate extremes of climate. They grow on rocks in hot springs, on wind-swept mountain-top boulders, and on stones in the driest deserts. In the Arctic, lichens, known as reindeer moss, are the principal source of food for caribou. Whole mountainsides in Antarctica appear green and orange because of the presence of lichens; they are one of the few plants that can survive there. They are among the oldest of known plants. Recently, scientists discovered lichen fossils on a rock in a phosphate mine in southwest China that dated back 600 million years. 
+
+When conditions become harsh, lichens become dormant. If there is not enough moisture, they simply dry up, but a short rain or even a heavy dew gives them new life. When growing on rock surfaces, lichens &lt;readinghighlight&gt;secrete&lt;/readinghighlight&gt; acids that dissolve the minerals, contributing to the process of weathering by which rocks are slowly turned to soil. This property enables lichens to be pioneers. They appear on barren rock scoured clean by glaciers, fires, lava flows, or floods, beginning the process of soil formation that allows mosses, ferns, and other plants to later take root. But, despite their hardiness, lichens are extremely sensitive to airborne particles. That's why they serve as an early warning system for air pollution. 
+
+It is the acids lichen produce that give them their distinctive colors. &lt;readinghighlight&gt;Lichens are often spoken of in the same breath as mosses, and some lichens are even called mosses, but true mosses are all distinctively green, whereas lichens appear in many vivid colors.&lt;/readinghighlight&gt; At one time, before the invention of aniline dyes, acids from lichens were used to make dyes, such as the purple dye orchil, the blue dye litmus, and the red dye cudbear, and they are sometimes still used that way today. Some lichens, such as oak moss, contain oils that produce fragrant odors used in scented soaps, cosmetics, and perfumes. Some lichens are also known to have antibiotic properties.
+
+Lichens are a partnership of two or more types of plants, a &lt;readinggloss&gt;fungus&lt;/readinggloss&gt; and a type of &lt;readinggloss&gt;algae&lt;/readinggloss&gt;. If you look at the lichen body through a magnifying glass, you will see that it is made up of a &lt;readinghighlight&gt;tangled&lt;/readinghighlight&gt; mass of fungal strands called hyphae. In the upper layer of these hyphae grow colonies of another type of plant. These are most commonly green algae but are sometimes blue-green algae.
+
+The two types of organisms live together to the benefit of both, a relationship known as symbiosis. The fungus provides support for the algae and protects the tender algae from direct sunlight and dry air. The fungus provides moisture and minerals for the plant. The fungus also produces chemicals which, when combined with alcohol produced by the algae, form acid crystals. This acid carves tiny holes in rocks and other substances, and the fungus inserts threads (not true roots) into these holes to anchor the plant in place. The algae contain &lt;readinggloss&gt;chlorophyll&lt;/readinggloss&gt; and synthesize sugars from carbon dioxide and sunlight, producing food for the lichen. A chemical secreted by the fungus softens the cell walls of the algae and allows nutrients to pass from the algae to the fungus.
+
+There are many examples of symbiosis in nature, but lichens are unique because they look and behave differently from their components. The algal components of lichen can live independently and are recognizable as species that grow alone. The fungal components, on the other hand, cannot live apart from their partners. They can be placed in known families of fungi but are unlike any species that live independently.
+
+So definite are the form, color, and characteristics of these double organisms that for hundred of years lichens were classified as &lt;readinghighlight&gt;one&lt;/readinghighlight&gt;. More than 15,000 species were named. If these organisms are classified as single species, it is difficult to fit them into the existing system of classification. But if they are classified as separate species, these fungal species that cannot live alone seem rather strange. Lichens, then, are a &lt;readinghighlight&gt;splendid&lt;/readinghighlight&gt; example of the difficulties faced by taxonomists in classifying species.</thereading>
+			<readingglossdef>fungus*fungus: a non-green, plant-like organism such as a mushroom that feeds on dead or living plants</readingglossdef>
+			<readingglossdef>algae*algae: a simple plant that usually lives in water</readingglossdef>
+			<readingglossdef>chlorophyll*chlorophyll: a chemical that enables plants to photosynthesize (use sunshine in creating food) </readingglossdef>
+		</groupreading>
+		<directions>&lt;b&gt;Directions:&lt;/b&gt; Select phrases from the answer choices and match them to the category to which they relate. Two answer choices will not be used. &lt;i&gt;&lt;b&gt;This question is worth 3 points.&lt;/b&gt;&lt;/i&gt;</directions>
+		<orientation>V</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>13</questionnumber>
+			<questiontext>x</questiontext>
+			<sectionheading1>&lt;b&gt;Fungi&lt;/b&gt;</sectionheading1>
+			<sectionheading2>&lt;b&gt;Algae&lt;/b&gt; </sectionheading2>
+			<choice1>Anchor the plant </choice1>
+			<choice2>Can be identified as species that live alone </choice2>
+			<choice3>Produce carbon dioxide </choice3>
+			<choice4>Provide the plant with water and minerals</choice4>
+			<choice5>Cannot exist independently</choice5>
+			<choice6>Use sunlight to provide the plant with food</choice6>
+			<choice7>Tolerate air pollution well</choice7>
+			<correctanswer>1,4,5;2,6</correctanswer>
+		</question>
+	</dragdrop>
+	<multiple>
+		<grouptitle>&lt;b&gt;&lt;i&gt;The Rosetta Stone&lt;/b&gt;&lt;/i&gt;</grouptitle>
+		<groupreading>
+		<thereading>Things were not going well for Ptolemy V, king of Egypt in the second century BC. He was not one of the all-powerful Egyptian pharaohs who had ruled for many centuries. The young king was one of the Ptolemaic pharaohs who were of Greek heritage, descendants of a ruler put in place by Alexander the Great when he conquered Egypt in the fourth century BC.  The reign of Ptolemy V was a time of civil unrest and foreign &lt;readinghighlight&gt;incursions&lt;/readinghighlight&gt;, and the king was unpopular. It was time for a public relations campaign. The priests of the king wrote a short history of the king's family, described his accomplishments, and explained his future plans. This message was written on stone tablets in &lt;readinggloss&gt;demotic&lt;/readinggloss&gt; Egyptian for the common people, in Egyptian &lt;readinggloss&gt;hieroglyphs&lt;/readinggloss&gt; for the priests, and in Greek for the ruling class. Thus, it was written in two languages but in three scripts. These tablets were posted all over Egypt. 
+
+Almost two thousand years later, in 1799, the French army, led by Napoleon Bonaparte, was occupying Egypt. Several years earlier, Napoleon's army had defeated the British army near Cairo and had taken over the country. However, the British fleet had destroyed the French navy and there was no way for the French soldiers to return home. During this "extended vacation," French military engineers strengthened existing defensive positions. In the port town of Rosetta (now known as El-Rashid), the French were rebuilding an old fort when Captain Pierre-Fran&lt;c&gt;ois Bouchard discovered an irregularly-shaped slab made of dark granite (often misidentified as basalt) with three types of writings on it in three distinct &lt;readinghighlight&gt;bands&lt;/readinghighlight&gt;. Besides military forces, Napoleon had also brought scientists and scholars with him. The Rosetta Stone, as it became known, was turned over to them. They quickly realized that the three scripts contained the same message. They translated the Greek quickly but could not understand the other two scripts.
+
+In 1801, the French were forced to surrender. Under the terms of the Treaty of Alexandria, the British claimed the artifacts that the French had found during their occupation. The French tried to smuggle the Rosetta Stone out of Egypt in a small boat but failed. The stone was brought to London and presented to the British Museum. On the back of the stone is the painted message, "Captured by the British Army in Egypt in 1801."
+
+It was through the Rosetta Stone that scholars learned how to read Egyptian hieroglyphs. The hieroglyphic alphabet, one of the earliest writing systems ever developed, had been used by the Egyptians for 3,500 years. However, it is far more complex than simple picture writing and contains thousands of symbols. After Egypt was conquered by the Romans, Latin became the dominant language, and by the fourth century AD, no one could understand the symbols. Before the Rosetta Stone was discovered, some &lt;readinghighlight&gt;scholars&lt;/readinghighlight&gt; even believed that hieroglyphs were not really an alphabet at all but were merely decorations.
+
+Copies of the Rosetta Stone were sent by the British Museum to linguists all over Europe, but learning which Greek word represented which hieroglyph proved difficult. It was the brilliant French linguist Jean Fran&lt;c&gt;ois Champollion who finally unlocked the mystery. He began studying the Rosetta Stone at the age of 18. After fourteen years, he deciphered the code. In a letter to the French Royal Academy of Inscriptions, he explained the three basic assumptions that led to a translation: (1) The Coptic Egyptian language, still spoken by a small group of Egyptians, was the final stage of the ancient Egyptian language. Champollion could consult with experts on Coptic Egyptian to learn about Ptolemaic Egyptian. (2) Hieroglyphs served not only as symbols of words and ideas (ideograms) but also as symbols of spoken sounds (phonograms). (3) Certain hieroglyphs enclosed in ovals were phonetic transcriptions of pharaohs' names. Once these hieroglyphs were understood, it was easier to decipher &lt;readinghighlight&gt;the rest&lt;/readinghighlight&gt;. Armed with Champollion's translation, scholars all over the world took a new interest in Egypt and laid the foundation for our understanding of this ancient civilization.
+
+The Rosetta Stone is still displayed at the British Museum and is one of the most popular exhibits there, but the Egyptian government wants it back. In 2003, Dr. Zahi Hawass, director of the Supreme Council of Antiquities in Cairo and a noted archaeologist himself, formally requested its return, saying, "The British ... should volunteer to return the stone because it is the icon of our Egyptian identity."</thereading>
+		<readingglossdef>demotic*demotic: describing a form of a language that is spoken by ordinary people</readingglossdef>
+		<readingglossdef>hieroglyphs*hieroglyphs: symbols used in ancient Egypt to represent words or sounds</readingglossdef>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>14</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>What was the original purpose of the Rosetta Stone?</questiontext>
+			<choice>To preserve the writing systems that were once used in ancient Egypt</choice>
+			<choice>To record the history of the all-powerful pharaohs of Egypt</choice>
+			<choice>To announce that a new king had been crowned</choice>
+			<choice>To present information about the current ruler of Egypt, Ptolemy V</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>15</questionnumber>
+			<scrolltoposition>Things were not going well</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;incursions&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>influences</choice>
+			<choice>travelers</choice>
+			<choice>invasions</choice>
+			<choice>adventures</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>16</questionnumber>
+			<scrolltoposition>Things were not going well</scrolltoposition>
+			<questiontext>It can be inferred from the information in paragraph 1 that the author believes that</questiontext>
+			<choice>demotic Egyptian and the form of Egyptian used by the priests were the same language</choice>
+			<choice>the priests of ancient Egypt were all members of the ruling class</choice>
+			<choice>demotic Egyptian was a spoken language that did not have a written form</choice>
+			<choice>ancient Greek and demotic Egyptian were different languages but used the same script</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>17</questionnumber>
+			<scrolltoposition>Almost two thousand years</scrolltoposition>
+			<questiontext>Why does the author probably put quotation marks (" ") around the phrase &lt;i&gt;extended vacation&lt;/i&gt; in paragraph 2?</questiontext>
+			<choice>The French ruler Napoleon Bonaparte used this exact phrase to refer to the time his army spent in Egypt.</choice>
+			<choice>The French Army was in Egypt because their fleet had been destroyed, not because they were on vacation there. </choice>
+			<choice>The French were not really in Egypt for an extended period, but rather for a very short time.</choice>
+			<choice>Unlike the soldiers, the scientists and scholars who came with Napoleon's army were enjoying their time in Egypt.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>18</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>What was Pierre-Fran&#231;ois Bouchard's probable occupation?</questiontext>
+			<choice>Captain of a warship</choice>
+			<choice>Archaeologist</choice>
+			<choice>Military engineer</choice>
+			<choice>Linguist</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>19</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>When writing about the Rosetta Stone, authors are sometimes mistaken about</questiontext>
+			<choice>the significance of the writing on it</choice>
+			<choice>its true shape</choice>
+			<choice>the name of the place where it was discovered</choice>
+			<choice>the material it is made of</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>20</questionnumber>
+			<scrolltoposition>Almost two thousand years later</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;bands&lt;/readinghighlight&gt; in the passage is closest in meaning to </questiontext>
+			<choice>lines</choice>
+			<choice>areas</choice>
+			<choice>symbols</choice>
+			<choice>pieces</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>21</questionnumber>
+			<scrolltoposition>It was through the Rosetta Stone</scrolltoposition>
+			<questiontext>We can infer from the passage that the scholars mentioned in paragraph 4</questiontext>
+			<choice>did not think that the hieroglyphic alphabet could ever be translated</choice>
+			<choice>were experts on the decorations used by the ancient Egyptians</choice>
+			<choice>played an important role in deciphering the Rosetta Stone</choice>
+			<choice>did not believe that Latin was ever the dominant language in Egypt</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>22</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext> Which of the following is NOT one of the assumptions that helped Champollion to translate the Rosetta Stone?</questiontext>
+			<choice>That hieroglyphs represented not only words and ideas but also sounds</choice>
+			<choice>That the three messages written on the stone did not have exactly the same meanings</choice>
+			<choice>That some of the hieroglyphs set off from the others represented the names of pharaohs </choice>
+			<choice>That one form of modern Egyptian was related to the ancient Egyptian language</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>23</questionnumber>
+			<scrolltoposition>Copies of the Rosetta Stone</scrolltoposition>
+			<questiontext>The phrase &lt;readinghighlight&gt;the rest&lt;/readinghighlight&gt; in paragraph 5 refers to</questiontext>
+			<choice>pharaohs' names</choice>
+			<choice>ovals</choice>
+			<choice>scholars </choice>
+			<choice>hieroglyphs</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>24</questionnumber>
+			<scrolltoposition>The Rosetta Stone is still</scrolltoposition>
+			<questiontext>How does the author emphasize the point that is made in paragraph 6? </questiontext>
+			<choice>By making a comparison</choice>
+			<choice>By asking the reader a question</choice>
+			<choice>By quoting an expert</choice>
+			<choice>By summarizing the previous paragraph</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>It was through the Rosetta Stone that scholars learned how to read Egyptian hieroglyphs. The hieroglyphic alphabet, one of the earliest writing systems ever developed, had been used by the Egyptians for 3,500 years. &lt;n&gt; However, it is far more complex than simple picture writing and contains thousands of symbols. &lt;n&gt; After Egypt was conquered by the Romans, Latin became the dominant language and by the fourth century AD, no one could understand the symbols. &lt;n&gt; Before the Rosetta Stone was discovered, some scholars even believed that hieroglyphs were not really an alphabet but were merely decorations. </thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>25</questionnumber>
+			<questiontext>&lt;b&gt;Hieroglyphic script is mostly pictorial, images of natural and man-made objects.&lt;/b&gt;</questiontext>
+			<correctanswer>2</correctanswer>
+		</question>
+	</addsentence>	
+	<dragdrop>
+		<grouptitle>&lt;b&gt;&lt;i&gt;The Rosetta Stone&lt;/b&gt;&lt;/i&gt;</grouptitle>
+		<groupreading>
+		<thereading>Things were not going well for Ptolemy V, king of Egypt in the second century BC. He was not one of the all-powerful Egyptian pharaohs who had ruled for many centuries. The young king was one of the Ptolemaic pharaohs who were of Greek heritage, descendants of a ruler put in place by Alexander the Great when he conquered Egypt in the fourth century BC.  The reign of Ptolemy V was a time of civil unrest and foreign &lt;readinghighlight&gt;incursions&lt;/readinghighlight&gt;, and the king was unpopular. It was time for a public relations campaign. The priests of the king wrote a short history of the king's family, described his accomplishments, and explained his future plans. This message was written on stone tablets in &lt;readinggloss&gt;demotic&lt;/readinggloss&gt; Egyptian for the common people, in Egyptian &lt;readinggloss&gt;hieroglyphs&lt;/readinggloss&gt; for the priests, and in Greek for the ruling class. Thus, it was written in two languages but in three scripts. These tablets were posted all over Egypt. 
+
+Almost two thousand years later, in 1799, the French army, led by Napoleon Bonaparte, was occupying Egypt. Several years earlier, Napoleon's army had defeated the British army near Cairo and had taken over the country. However, the British fleet had destroyed the French navy and there was no way for the French soldiers to return home. During this "extended vacation," French military engineers strengthened existing defensive positions. In the port town of Rosetta (now known as El-Rashid), the French were rebuilding an old fort when Captain Pierre-Fran&#231;ois Bouchard discovered an irregularly-shaped slab made of dark granite (often misidentified as basalt) with three types of writings on it in three distinct &lt;readinghighlight&gt;bands&lt;/readinghighlight&gt;. Besides military forces, Napoleon had also brought scientists and scholars with him. The Rosetta Stone, as it became known, was turned over to them. They quickly realized that the three scripts contained the same message. They translated the Greek quickly but could not understand the other two scripts.
+
+In 1801, the French were forced to surrender. Under the terms of the Treaty of Alexandria, the British claimed the artifacts that the French had found during their occupation. The French tried to smuggle the Rosetta Stone out of Egypt in a small boat but failed. The stone was brought to London and presented to the British Museum. On the back of the stone is the painted message, "Captured by the British Army in Egypt in 1801."
+
+It was through the Rosetta Stone that scholars learned how to read Egyptian hieroglyphs. The hieroglyphic alphabet, one of the earliest writing systems ever developed, had been used by the Egyptians for 3,500 years. However, it is far more complex than simple picture writing and contains thousands of symbols. After Egypt was conquered by the Romans, Latin became the dominant language, and by the fourth century AD, no one could understand the symbols. Before the Rosetta Stone was discovered, some &lt;readinghighlight&gt;scholars&lt;/readinghighlight&gt; even believed that hieroglyphs were not really an alphabet at all but were merely decorations.
+
+Copies of the Rosetta Stone were sent by the British Museum to linguists all over Europe, but learning which Greek word represented which hieroglyph proved difficult. It was the brilliant French linguist Jean Fran&#231;ois Champollion who finally unlocked the mystery. He began studying the Rosetta Stone at the age of 18. After fourteen years, he deciphered the code. In a letter to the French Royal Academy of Inscriptions, he explained the three basic assumptions that led to a translation: (1) The Coptic Egyptian language, still spoken by a small group of Egyptians, was the final stage of the ancient Egyptian language. Champollion could consult with experts on Coptic Egyptian to learn about Ptolemaic Egyptian. (2) Hieroglyphs served not only as symbols of words and ideas (ideograms) but also as symbols of spoken sounds (phonograms). (3) Certain hieroglyphs enclosed in ovals were phonetic transcriptions of pharaohs' names. Once these hieroglyphs were understood, it was easier to decipher &lt;readinghighlight&gt;the rest&lt;/readinghighlight&gt;. Armed with Champollion's translation, scholars all over the world took a new interest in Egypt and laid the foundation for our understanding of this ancient civilization.
+
+The Rosetta Stone is still displayed at the British Museum and is one of the most popular exhibits there, but the Egyptian government wants it back. In 2003, Dr. Zahi Hawass, director of the Supreme Council of Antiquities in Cairo and a noted archaeologist himself, formally requested its return, saying, "The British ... should volunteer to return the stone because it is the icon of our Egyptian identity."</thereading>
+		<readingglossdef>demotic*demotic: describing a form of a language that is spoken by ordinary people</readingglossdef>
+		<readingglossdef>hieroglyphs*hieroglyphs: symbols used in ancient Egypt to represent words or sounds</readingglossdef>
+		</groupreading>
+		<directions>Directions: Below is an introductory sentence for a brief summary of the passage. Complete the summary with answer choices that express the most important ideas of the passage. Some of the answer choices are incorrect because they express ideas that are not given in the passage or because they express only details from the passage. THREE of the answer choices will not be used. &lt;i&gt;&lt;b&gt;This question is worth 3 points.&lt;/b&gt;&lt;/i&gt;</directions>
+		<orientation>H</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>26</questionnumber>
+			<questiontext>&lt;b&gt;The priests of Ptolemy V wrote a message in three scripts: Greek, demotic Egyptian, and hieroglyphic.&lt;/b&gt;</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>Officials at the British Museum have so far refused to discuss the return of the Rosetta Stone to Egypt.</choice1>
+			<choice2>Through Champollion's brilliant work, the Rosetta Stone was translated and scholars were able to read hieroglyphs for the first time in many centuries. </choice2>
+			<choice3>Despite its name, the Rosetta Stone is not actually made of stone.</choice3>
+			<choice4>Napoleon's expedition to Egypt included not just soldiers but also scientific and scholarly experts.</choice4>
+			<choice5>The Rosetta Stone was discovered in Egypt by the French but was captured by the British and taken to the British Museum.</choice5>
+			<choice6>Egypt has requested the return of the Rosetta Stone.</choice6>
+			<correctanswer>2,5,6</correctanswer>
+		</question>
+	</dragdrop>
+	<multiple>
+		<grouptitle>&lt;b&gt;Transient Lunar Phenomena&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>For many years, sky watchers have reported seeing mysterious sights known as &lt;i&gt;Transient Lunar Phenomena&lt;/i&gt; (TLP) on the surface of the moon. These are of two main types: &lt;readinghighlight&gt;fleeting&lt;/readinghighlight&gt;  flashes of light and spreading clouds of mist. Most professional astronomers have tended to dismiss these phenomena as figments of the observers' imagination or as "observational errors": either optical illusions or problems with the observers' telescopes. One explanation put forth by professional astronomers blames the flashes on Earth satellites passing in front of the moon. Satellite surfaces can flash like a car's windshield in sunlight, simulating a lunar flash. It was 
+&lt;readinghighlight&gt;this mechanism&lt;/readinghighlight&gt; that astronomers R. R. Raste and P. Maley used to explain a large lunar flash observed on March 23, 1983, and other sightings as well. 
+
+One problem with the satellite theory is that TLP were reported long before the advent of artificial satellites. The earliest known account comes from the twelfth-century writer Gervase. On June 18, 1178, in Canterbury, England, Gervase was observing an eclipse of the moon. He was startled by what appeared to be "a flaming torch ... that spewed out fire, hot coals, and sparks." Eighteenth-century astronomer Sir William Herschel, discoverer of the planet Uranus, also reported seeing both types of TLP. He described one TLP as looking like a piece of slowly burning charcoal. In 1830, Andrew Grant, studying the moon from an observatory in Cape Town, South Africa, also observed flashing lights. He told newspaper reporters that he believed the lights came from the sun flashing off clear glass domes that covered cities and forests on the otherwise dead moon. Grant claimed in an interview that he had seen flocks of red and white birds, herds of "diminutive bison," and strange beavers that walked on their hind legs. Not only that, but he claimed even to have seen people with bat-like wings who had built towers and pyramids beneath the domes.
+
+&lt;readinghighlight&gt;In more recent times, a record number of TLP were monitored from 1968 to 1972, during the Apollo missions to the moon. This fact is hardly surprising given that more telescopes were probably trained on the moon during these four years than had been in the entire 270-year history of telescopic observation preceding that time.&lt;/readinghighlight&gt; Though many sightings were dubious, some were highly plausible because they were made by independent observers at different locations. Another notable TLP observation, and the only one confirmed by photographic evidence, took place on April 23, 1994. When over a hundred amateur astronomers reported seeing a dark red cloud spreading across a portion of the Aristachus crater, astronomer Bonnie Buratti of the Jet Propulsion Laboratory decided to investigate. She got access to photographs of the moon taken by the U.S. lunar mapping satellite Clementine, and indeed, these images confirmed the presence of a reddish cloud obscuring part of the crater. 
+
+Even those who believe in TLP cannot agree why the moon sporadically flashes and forms clouds, but many theories have been proposed. Another possibility is that, in some places on the moon, there are chemicals that glow when they are exposed to bursts of radiation from the sun during solar flares. There is, in fact, some evidence that TLP are observed more frequently during episodes of solar activity.  After Project Apollo astronauts brought lunar rocks back to the earth, scientists determined that there are flammable gases inside some moon rocks. Perhaps these rocks crack open and are then ignited by a &lt;readinghighlight&gt;stray&lt;/readinghighlight&gt; spark, causing the flash. However, what causes these rocks to split open? One possibility is "thermal cracking." A rock heats up in the intense sunlight. Suddenly, when the sun sets, the temperature drops, and the stone cracks. The rocks might also be shattered by "moonquakes," seismic activity on the moon, or by meteors. Scientist R. Zito believes the flashes come not from gas trapped inside the rocks but by the crystals of the rocks themselves. If someone chews a sugar cube in a dark room, sparks appear to come from the person's mouth as the sugar crystals are crushed. Zito believes that this "sugar cube effect" occurs when meteors smash into lunar rocks, crushing the crystals.
+
+And what about the billowing clouds? The most commonly held belief today is that they are caused by pockets of gas trapped beneath the lunar surface. The clouds may be caused by the rapid escape of these gases, which kicks up clouds of dust. The pockets of gas may be freed by moonquakes or the pockets may be punctured by meteors.
+
+The true cause of TLP--if indeed they do exist--is still an unsolved mystery, however, and will probably remain that way at least until humans return to the moon.</thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>27</questionnumber>
+			<scrolltoposition>0 </scrolltoposition>
+			<questiontext>Which of the following statements best summarizes the overall organization of the passage?</questiontext>
+			<choice>A popular idea is challenged, and this challenge is then refuted.</choice>
+			<choice>A generalization is made, and examples of it are examined.</choice>
+			<choice>Historical information is reviewed and then the current situation is presented.</choice>
+			<choice>A phenomenon is described and possible explanations for it are proposed.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>28</questionnumber>
+			<scrolltoposition>For many years, sky watchers</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;fleeting&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>brightly glowing</choice>
+			<choice>amazing</choice>
+			<choice>short-lived</choice>
+			<choice>blinking</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>29</questionnumber>
+			<scrolltoposition>For many years, sky watchers</scrolltoposition>
+			<questiontext>The phrase &lt;readinghighlight&gt;this mechanism&lt;/readinghighlight&gt; in paragraph 1 refers to</questiontext>
+			<choice>the flashing of sunlight off a reflective surface</choice>
+			<choice>the windshield of an automobile</choice>
+			<choice>a satellite</choice>
+			<choice>an observer's telescope</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>30</questionnumber>
+			<scrolltoposition>One problem with the satellite</scrolltoposition>
+			<questiontext>Why does the author mention the writer Gervase in paragraph 2?</questiontext>
+			<choice>To weaken the satellite theory of Raste and Maley</choice>
+			<choice>To document the earliest sighting of a lunar eclipse by a scientist</choice>
+			<choice>To support the ideas of Herschel and Grant</choice>
+			<choice>To provide an early theory about the causes of TLP</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>31</questionnumber>
+			<scrolltoposition>One problem with the satellite</scrolltoposition>
+			<questiontext>Which of these sightings claimed to be made by Andrew Grant does the author apparently find most unbelievable in paragraph 2?</questiontext>
+			<choice>The flocks of red and white birds</choice>
+			<choice>The bat-winged people who built towns and pyramids</choice>
+			<choice>The herds of tiny bison</choice>
+			<choice>The unusual beavers that walked on two legs</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>32</questionnumber>
+			<scrolltoposition>In more recent times, a record number of TLP were monitored from 1968 to 1972, during the Apollo missions to the moon. This fact is hardly surprising given that more telescopes were probably trained on the moon during these four years than had been in the entire 270-year history of telescopic observation preceding that time.*In more recent times</scrolltoposition>
+			<questiontext>Which of the following sentences best expresses the essential information in the sentence highlighted? (Incorrect answer choices omit important information or change the meaning of the original sentence in an important way.)&lt;readinghighlight&gt;&lt;/readinghighlight&gt;</questiontext>
+			<choice>Because far more people were looking at the moon through telescopes during the Apollo missions, more TLP were seen then than had been seen during any prior period. </choice>
+			<choice>From 1968 until 1972, not just amateur astronomers but also trained scientists saw more TLP than they had ever seen before.</choice>
+			<choice>More TLP occurred on the moon between 1968 and 1972 than had occurred during the previous 270 years of telescopic observation.</choice>
+			<choice>It is unsurprising that in the four years between 1968 and 1972 more people with telescopes were observing the moon than had observed it in the previous 270 years.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>33</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>According to the author, an observation is more reliable when it is made by </questiontext>		
+			<choice>a professional astronomer</choice>
+			<choice>a group of astronomers working together</choice>
+			<choice>a number of observers working separately in different locations</choice>
+			<choice>a person observing the same part of the moon night after night</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>34</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>How was astronomer Bonnie Buratti able to "confirm" the presence of a cloud on the moon?</questiontext>
+			<choice>By interviewing one hundred amateur astronomers</choice>
+			<choice>By examining satellite photography</choice>
+			<choice>By analyzing lunar rocks</choice>
+			<choice>By taking a picture through a telescope</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>35</questionnumber>
+			<scrolltoposition>Even those who believe in TLP</scrolltoposition>
+			<questiontext>The word &lt;readinghighlight&gt;stray&lt;/readinghighlight&gt; in the passage is closest in meaning to</questiontext>
+			<choice>speeding</choice>
+			<choice>hot</choice>
+			<choice>spinning</choice>
+			<choice>undirected</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>36</questionnumber>
+			<scrolltoposition>And what about the billowing clouds?</scrolltoposition>
+			<questiontext>Which of the following situations is an example of "thermal cracking" as described in paragraph 5?</questiontext>
+			<choice>A dam breaks when water rises behind it</choice>
+			<choice>Sparks appear when someone chews a candy mint in a dark room</choice>
+			<choice>A cool glass breaks when it is filled with boiling water</choice>
+			<choice>An ice cube melts in the heat of the sun</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>37</questionnumber>
+			<scrolltoposition>0</scrolltoposition>
+			<questiontext>All of the following are given as possible reasons for the cracking of moon rocks EXCEPT</questiontext>
+			<choice>seismic activity</choice>
+			<choice>sudden temperature changes</choice>
+			<choice>the action of meteors</choice>
+			<choice>the pressure of gases</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+	</multiple>
+	<addsentence>
+		<grouptitle>0</grouptitle>
+		<groupreading>
+		<thereading>And what about the billowing clouds? &lt;n&gt; The most commonly held belief today is that they are caused by pockets of gas trapped beneath the lunar surface. &lt;n&gt; The clouds may be caused by the rapid escape of these gases, which kicks up clouds of dust. &lt;n&gt; The pockets of gas may be freed by moonquakes or the pockets may be punctured by meteors. &lt;n&gt;  </thereading>
+		</groupreading>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>38</questionnumber>
+			<questiontext>&lt;b&gt;Many observers once thought that they were caused by lunar volcanoes, but today the moon is believed to have been geologically inactive for billions of years.&lt;/b&gt;</questiontext>
+			<correctanswer>1</correctanswer>
+		</question>
+	</addsentence>
+	<dragdrop>
+		<grouptitle>&lt;b&gt;Transient Lunar Phenomena&lt;/b&gt;</grouptitle>
+		<groupreading>
+		<thereading>For many years, sky watchers have reported seeing mysterious sights known as &lt;i&gt;Transient Lunar Phenomena&lt;/i&gt; (TLP) on the surface of the moon. These are of two main types: &lt;readinghighlight&gt;fleeting&lt;/readinghighlight&gt; flashes of light and spreading clouds of mist. Most professional astronomers have tended to dismiss these phenomena as figments of the observers' imagination or as "observational errors": either optical illusions or problems with the observers' telescopes. One explanation put forth by professional astronomers blames the flashes on Earth satellites passing in front of the moon. Satellite surfaces can flash like a car's windshield in sunlight, simulating a lunar flash. It was &lt;readinghighlight&gt;this mechanism&lt;/readinghighlight&gt; that astronomers R. R. Raste and P. Maley used to explain a large lunar flash observed on March 23, 1983, and other sightings as well. 
+
+One problem with the satellite theory is that TLP were reported long before the advent of artificial satellites. The earliest known account comes from the twelfth-century writer Gervase. On June 18, 1178, in Canterbury, England, Gervase was observing an eclipse of the moon. He was startled by what appeared to be "a flaming torch ... that spewed out fire, hot coals, and sparks." Eighteenth-century astronomer Sir William Herschel, discoverer of the planet Uranus, also reported seeing both types of TLP. He described one TLP as looking like a piece of slowly burning charcoal. In 1830, Andrew Grant, studying the moon from an observatory in Cape Town, South Africa, also observed flashing lights. He told newspaper reporters that he believed the lights came from the sun flashing off clear glass domes that covered cities and forests on the otherwise dead moon. Grant claimed in an interview that he had seen flocks of red and white birds, herds of "diminutive bison," and strange beavers that walked on their hind legs. Not only that, but he claimed even to have seen people with bat-like wings who had built towers and pyramids beneath the domes.
+
+&lt;readinghighlight&gt;In more recent times, a record number of TLP were monitored from 1968 to 1972, during the Apollo missions to the moon. This fact is hardly surprising given that more telescopes were probably trained on the moon during these four years than had been in the entire 270-year history of telescopic observation preceding that time.&lt;/readinghighlight&gt; Though many sightings were dubious, some were highly plausible because they were made by independent observers at different locations. Another notable TLP observation, and the only one confirmed by photographic evidence, took place on April 23, 1994. When over a hundred amateur astronomers reported seeing a dark red cloud spreading across a portion of the Aristachus crater, astronomer Bonnie Buratti of the Jet Propulsion Laboratory decided to investigate. She got access to photographs of the moon taken by the U.S. lunar mapping satellite Clementine, and indeed, these images confirmed the presence of a reddish cloud obscuring part of the crater. 
+
+Even those who believe in TLP cannot agree why the moon sporadically flashes and forms clouds, but many theories have been proposed. Another possibility is that, in some places on the moon, there are chemicals that glow when they are exposed to bursts of radiation from the sun during solar flares. There is, in fact, some evidence that TLP are observed more frequently during episodes of solar activity.  After Project Apollo astronauts brought lunar rocks back to the earth, scientists determined that there are flammable gases inside some moon rocks. Perhaps these rocks crack open and are then ignited by a &lt;readinghighlight&gt;stray&lt;/readinghighlight&gt; spark, causing the flash. However, what causes these rocks to split open? One possibility is "thermal cracking." A rock heats up in the intense sunlight. Suddenly, when the sun sets, the temperature drops, and the stone cracks. The rocks might also be shattered by "moonquakes," seismic activity on the moon, or by meteors. Scientist R. Zito believes the flashes come not from gas trapped inside the rocks but by the crystals of the rocks themselves. If someone chews a sugar cube in a dark room, sparks appear to come from the person's mouth as the sugar crystals are crushed. Zito believes that this "sugar cube effect" occurs when meteors smash into lunar rocks, crushing the crystals.
+
+And what about the billowing clouds? The most commonly held belief today is that they are caused by pockets of gas trapped beneath the lunar surface. The clouds may be caused by the rapid escape of these gases, which kicks up clouds of dust. The pockets of gas may be freed by moonquakes or the pockets may be punctured by meteors.
+
+The true cause of TLP--if indeed they do exist--is still an unsolved mystery, however, and will probably remain that way at least until humans return to the moon. </thereading>
+		</groupreading>
+		<directions>&lt;b&gt;Directions:&lt;/b&gt;  Select sentences from the answer choices and match them to the category to which they relate. Two answer choices will not be used. &lt;b&gt;&lt;i&gt;This question is worth 3 points.&lt;/i&gt;&lt;/b&gt;</directions>
+		<orientation>V</orientation>
+		<numberofquestions>39</numberofquestions>
+		<question>
+			<questionnumber>39</questionnumber>
+			<questiontext>x</questiontext>
+			<sectionheading1>&lt;b&gt;Theories that explain why TLP do &lt;i&gt;not&lt;/i&gt; exist&lt;/b&gt;</sectionheading1>
+			<sectionheading2>&lt;b&gt;Theories that explain why TLP &lt;i&gt;do&lt;/i&gt; exist&lt;/b&gt;</sectionheading2>
+			<choice1>TLP are caused by the collision of two meteors.</choice1>
+			<choice2>TLP are caused by the reflection of sunlight off satellites.</choice2>
+			<choice3>TLP are caused by meteors crushing the crystals in lunar rocks.</choice3>
+			<choice4>TLP are caused by chemicals on the surface of the sun that are affected by solar activity. </choice4>
+			<choice5>TLP are caused by errors made by amateur astronomers.</choice5>
+			<choice6>TLP are caused by the reflection of the sun off glass domes.</choice6>
+			<choice7>TLP were caused by the actions of astronauts on the Moon.</choice7>
+			<correctanswer>2,5;3,4,6</correctanswer>
+		</question>
+	</dragdrop>
+<sectionClosing>This is the end of the Reading Section. Go on to the Listening Section.</sectionClosing>
+</test>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

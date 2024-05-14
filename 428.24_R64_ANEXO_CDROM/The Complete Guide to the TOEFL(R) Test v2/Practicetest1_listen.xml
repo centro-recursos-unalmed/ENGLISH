@@ -1,0 +1,660 @@
+<?xml version="1.0"?>
+<test>
+<testtitle>Practice Test 1</testtitle>
+<testlevel>0</testlevel>
+<testunit>0</testunit>
+
+<sectionname>Listening Section Directions</sectionname>
+<sectiondirections>This section tests your understanding of conversations and lectures.  You will hear each conversation or lecture only once. Your answers should be based on what is stated or implied in the conversations and lectures.
+
+You are allowed to take notes as you listen, and you can use these notes to help you answer the questions. 
+
+In some questions, you will see a headphones icon.   &lt;icon&gt;   This icon tells you that you will hear, but not read, part of the lecture again. Then you will answer a question about the part of the lecture that you heard.
+
+Some questions have special directions that are &lt;readinghighlight&gt;highlighted&lt;/readinghighlight&gt;.
+
+This test includes two conversations and four lectures.
+
+You must give an answer for every question, and then click &lt;b&gt;NEXT&lt;/b&gt;. To confirm your answer, click &lt;b&gt;OK&lt;/b&gt;. Once the next question appears, you cannot go back to earlier questions. 
+</sectiondirections>
+
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>1</questionnumber>
+			<audiofile>1_Li_03_04.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT1_3.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the conversation. 
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>1_Li_06.mp3</questionAudio>
+			<questiontext>Why is Ted unable to meet with Professor Jacobs after class?</questiontext>
+			<choice>He wants to go to a poetry reading.</choice>
+			<choice>He has to attend a meeting.</choice>
+			<choice>He has another class.</choice>
+			<choice>He has to check his e-mail.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>2</questionnumber>
+			<audiofile>1_Li_07.mp3</audiofile>
+			<boxtext>Listen again to part of the conversation. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_08.mp3</questionAudio>
+			<questiontext>What does Ted mean when he says this?    &lt;icon&gt;</questiontext>
+			<choice>He is expressing surprise.</choice>
+			<choice>He's showing a lack of interest.</choice>
+			<choice>He's not sure what he is being asked to do.</choice>
+			<choice>He's confused and upset.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>3</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_09.mp3</questionAudio>
+			<questiontext>What is Ted most interested in reading aloud next Friday?</questiontext>
+			<choice>Part of a novel</choice>
+			<choice>A newspaper article</choice>
+			<choice>A collection of poems</choice>
+			<choice>A nonfiction guide to fishing</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>4</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_10.mp3</questionAudio>
+			<questiontext>Which of the following can be inferred about Professor Jacobs?</questiontext>
+			<choice>He likes some of Ted's poems, but not the poem "Northern Lights."</choice>
+			<choice>He doesn't always express his feelings about his students' work in class.</choice>
+			<choice>He prefers teaching graduate students to teaching undergraduates.</choice>
+			<choice>He doesn't like poems in which the imagery is frightening.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>5</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_11.mp3</questionAudio>
+			<questiontext>Why does Professor Jacobs ask Ted to come to his office? </questiontext>
+			<choice>To discuss Ted's grade in the creative writing class</choice>
+			<choice>To help Ted practice for the reading</choice>
+			<choice>To help Ted select some poems to read aloud</choice>
+			<choice>To give Ted a written invitation</choice>
+			<correctanswer>3</correctanswer>
+		</question>	
+		<question>
+			<questionnumber>6</questionnumber>
+			<audiofile>1_Li_12_13.mp3</audiofile>
+			<boxtext>x</boxtext>
+			<art>PT1_4.jpg</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the conversation.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>1_Li_15.mp3</questionAudio>
+			<questiontext>Why does Dana want a work-study position?</questiontext>
+			<choice>To pay for day-to-day expenses</choice>
+			<choice>To pay for her tuition</choice>
+			<choice>To pay back a bank loan</choice>
+			<choice>To pay for her room and board</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>7</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_16.mp3</questionAudio>
+			<questiontext>What can be inferred about merit-based work-study jobs?</questiontext>
+			<choice>They are given only to students who receive financial aid.</choice>
+			<choice>They are not arranged by Ms. Fong's office.</choice>
+			<choice>They involve less pay than need-based work-study jobs.</choice>
+			<choice>They are not funded by the government.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>8</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_17.mp3</questionAudio>
+			<questiontext>Which of these work-study positions does Dana express the most enthusiasm for?</questiontext>
+			<choice>Cafeteria worker</choice>
+			<choice>Receptionist</choice>
+			<choice>Lab technician</choice>
+			<choice>Museum tour guide</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>9</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_18.mp3</questionAudio>
+			<questiontext>What must Dana do first to apply for the position that she is interested in?</questiontext>
+			<choice>Arrange an interview with Dr. Ferrara</choice>
+			<choice>Mail an application to the museum</choice>
+			<choice>Fill out some forms</choice>
+			<choice>Meet with Ms. Fong in person</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>10</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_19.mp3</questionAudio>
+			<questiontext>Why does Ms. Fong say this?     &lt;icon&gt;</questiontext>
+			<choice>To encourage Dana to pursue the job.</choice>
+			<choice>To offer Dana an alternative job. </choice>
+			<choice>To suggest reasons for not taking the position.</choice>
+			<choice>To encourage Dana not to work.</choice>
+			<correctanswer>1</correctanswer>
+		</question>	
+	</multipleListen>
+	<dragdropListen>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>11</questionnumber>
+			<audiofile>1_Li_20_21.mp3</audiofile>
+			<boxtext>Anthropology</boxtext>
+			<art>PT1_6.jpg:49,PT1_8.jpg:100,PT1_7.jpg:137,PT1_6.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the lecture. 
+
+You may use your notes to help you.</highlightbox>	
+			<orientation>A</orientation>
+			<backgroundart>L_11.jpg</backgroundart>
+			<questionAudio>1_Li_23.mp3</questionAudio>
+			<questiontext>The professor mentions three types of winter houses used by the Inuit. Match these three types of houses with the locations where they were used.</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>Snow houses</choice1>
+			<choice2>Houses made of driftwood</choice2>
+			<choice3>Houses made of stone, earth, and whalebone</choice3>
+			<Loc1>3,50</Loc1>
+			<Loc2>160,50</Loc2>
+			<Loc3>320,50</Loc3>
+			<correctanswer>2,1,3</correctanswer>
+		</question>
+	</dragdropListen>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>12</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_24.mp3</questionAudio>
+			<questiontext>Why does the professor say this?    &lt;icon&gt;</questiontext>
+			<choice>To review part of a lecture he gave earlier</choice>
+			<choice>To give additional information about one group of Inuit</choice>
+			<choice>To explain why the Inuit in Greenland were isolated</choice>
+			<choice>To indicate where Thule is located </choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>13</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_25.mp3</questionAudio>
+			<questiontext>What can be inferred about the word &lt;i&gt;igloo&lt;/i&gt;?</questiontext>
+			<choice>Inuit might use this word to talk about a summer house.</choice>
+			<choice> It is no longer used at all by the Inuit.</choice>
+			<choice>In Inuit, it refers only to houses made from snow.</choice>
+			<choice>It was used only in one small part of the Canadian Arctic.</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>14</questionnumber>
+			<audiofile>1_Li_26.mp3</audiofile>
+			<questiontext>In this lecture, the professor describes the process the Inuit used to build a simple igloo. Indicate whether each of the following is a step in the igloo-building process. </questiontext>
+			<rows>6</rows>
+			<columns>3</columns>
+			<heading>Yes</heading>
+			<heading>No</heading>
+			<choice>Build a framework to support the igloo from inside</choice>
+			<choice>Cut blocks of hardened snow with a knife</choice>
+			<choice>Dig an entrance tunnel</choice>
+			<choice>Stand on top of the igloo in order to compress the snow and make it stronger</choice>
+			<choice>Melt snow on the interior surface of the igloo with lamps and then let the water re-freeze</choice>
+			<correctanswer>3,2,2,3,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>15</questionnumber>
+			<audiofile>1_Li_27.mp3</audiofile>
+			<questiontext>The professor did NOT mention that larger igloos were used in which of these ways?</questiontext>
+			<choice>As a place to dance</choice>
+			<choice>As a home for five or more families</choice>
+			<choice>As a place to hold wrestling matches</choice>
+			<choice>As a location for singing contests</choice>
+			<choice>As a storage space for food</choice>
+			<correctanswer>2,5</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>16</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_28.mp3</questionAudio>
+			<questiontext>According to the professor, what did the Inuit do in the early 1950s?</questiontext>
+			<choice>They completely stopped building snow houses.</choice>
+			<choice>They began making an entirely different type of snow house.</choice>
+			<choice>They began connecting clusters of igloos with tunnels.</choice>
+			<choice>They stopped using snow houses except as temporary shelters.  </choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>17</questionnumber>
+			<audiofile>1_Li_30_31.mp3</audiofile>
+			<boxtext>Astrophysics</boxtext>
+			<art>PT1_9.jpg:20,PT1_10.jpg:52,PT1_9.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the discussion.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>1_Li_33.mp3</questionAudio>
+			<questiontext>What is Professor Fuller's opinion of Albert Einstein?</questiontext>
+			<choice>She feels he was mistaken about some key points.</choice>
+			<choice>She believes he predicted travel to other stars.</choice>
+			<choice>She thinks that his theories are no longer completely valid.</choice>
+			<choice>She agrees with him about traveling faster than light.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+		<question>
+			<questionnumber>18</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_34.mp3</questionAudio>
+			<questiontext>What powers the "sails" on the ship that the class discusses?</questiontext>
+			<choice>Laser light</choice>
+			<choice>Nuclear reactions</choice>
+			<choice>Sunlight</choice>
+			<choice>Wind</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+		<question>
+			<questionnumber>19</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_35.mp3</questionAudio>
+			<questiontext>According to Professor Fuller, what must be developed before ships can travel to the stars?</questiontext>
+			<choice>A deeper understanding of Einstein's theories</choice>
+			<choice>New materials from which to build spaceships</choice>
+			<choice>A new means of powering spaceships</choice>
+			<choice>Another method of calculating the speed of light</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+	</multipleListen>
+	<dragdropListen>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>20</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>	
+			<orientation>A</orientation>
+			<backgroundart>L_20.jpg</backgroundart>
+			<questionAudio>1_Li_36.mp3</questionAudio>
+			<questiontext>Professor Fuller discusses the process by which a new technology evolves. Summarize this discussion by putting these four steps in the proper order.</questiontext>
+			<sectionheading1>x</sectionheading1>
+			<sectionheading2>x</sectionheading2>
+			<choice1>Technology phase</choice1>
+			<choice2>Application phase</choice2>
+			<choice3>Speculation phase</choice3>
+			<choice4>Science phase</choice4>
+			<Loc1>3,3</Loc1>
+			<Loc2>3,30</Loc2>
+			<Loc3>3,60</Loc3>
+			<Loc4>3,90</Loc4>
+			<correctanswer>3,4,1,2</correctanswer>
+		</question>
+	</dragdropListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>21</questionnumber>
+			<audiofile>1_Li_37.mp3</audiofile>
+			<questiontext>What does Professor Fuller say about the planets that have so far been discovered around other stars?</questiontext>
+			<choice>Most of them are gas giants.</choice>
+			<choice>Some of them are similar to the earth.</choice>
+			<choice>Many of them may be inhabited.</choice>
+			<choice>A few of them are very close to their stars.</choice>
+			<correctanswer>1,4</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>22</questionnumber>
+			<audiofile>1_Li_38ab.mp3</audiofile>
+			<boxtext>Listen again to part of the discussion. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_38cd.mp3</questionAudio>
+			<questiontext>What does Professor Fuller imply about travel to other stars when she says this?  &lt;icon&gt;</questiontext>
+			<choice>It is strongly inadvisable.</choice>
+			<choice>It is unlikely in the foreseeable future. </choice>
+			<choice>It may begin sooner than people realize. </choice>
+			<choice>It is a complete impossibility.</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>23</questionnumber>
+			<audiofile>1_Li_39_40.mp3</audiofile>
+			<boxtext>Art</boxtext>
+			<art>PT1_11.jpg:26,PT1_13.jpg:57,PT1_12.jpg:332,PT1_11.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the lecture.
+
+You may use your notes to help you.</highlightbox>			
+			<questionAudio>x</questionAudio>
+			<questiontext>x</questiontext>
+			<choice>x</choice>
+			<choice>x</choice>
+			<choice>x</choice>
+			<choice>x</choice>
+			<correctanswer>x</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>23</questionnumber>
+			<audiofile>1_Li_42.mp3</audiofile>
+			<questiontext>What does the professor say about Minimalism and Conceptualism?</questiontext>
+			<choice>They were the dominant schools of art when Photorealism began.</choice>
+			<choice>They were very similar in their philosophy and style to Photorealism.</choice>
+			<choice>They were abstract schools of art.</choice>
+			<choice>They had been influenced by both the Dutch Masters and the &lt;i&gt;tromp l'oeil&lt;/i&gt; school.</choice>
+			<correctanswer>1,3</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>24</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_43.mp3</questionAudio>
+			<questiontext>Which of the following did Audrey Flack NOT use when painting &lt;i&gt;The Farb Family Portrait&lt;/i&gt;?</questiontext>
+			<choice>An airbrush</choice>
+			<choice>A computer</choice>
+			<choice>A slide projector</choice>
+			<choice>Acrylic paints</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>25</questionnumber>
+			<audiofile>1_Li_44.mp3</audiofile>
+			<questiontext>How does the professor explain the subjects that Photorealists painted?</questiontext>
+			<choice>She quotes two Photorealistic painters on their choice of subjects.</choice>
+			<choice>She gives specific examples of subjects that Photorealists have painted.</choice>
+			<choice>She tells her student to read a paper about the topic of Photorealistic paintings. </choice>
+			<choice>She compares the subjects of Photorealistic paintings to those of another school of art.</choice>
+			<correctanswer>1,2</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>26</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_45.mp3</questionAudio>
+			<questiontext>Which of the following would Richard Estes most likely choose to paint?</questiontext>
+			<choice>A farmhouse and open fields</choice>
+			<choice>A woman examining her reflection in a mirror</choice>
+			<choice>A telephone booth reflected in a large store window</choice>
+			<choice>A broken window</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>27</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_46.mp3</questionAudio>
+			<questiontext>According to the speaker, why are the sculptures of Duane Hanson so remarkable?</questiontext>
+			<choice>They are very valuable.</choice>
+			<choice>They are quite large.</choice>
+			<choice>They are easy to create.</choice>
+			<choice>They are extremely lifelike.</choice>
+			<correctanswer>4</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>28</questionnumber>
+			<audiofile>1_Li_47.mp3</audiofile>
+			<questiontext>In this lecture, the professor gives a number of characteristics of the Photorealistic school of painting. Indicate whether each of the following is a typical characteristic of paintings of that school of art. </questiontext>
+			<rows>6</rows>
+			<columns>3</columns>
+			<heading>Yes</heading>
+			<heading>No</heading>
+			<choice>They feature three-dimensional optical illusions.</choice>
+			<choice>Their subjects are ordinary people and scenes.</choice>
+			<choice>They are often painted in bright colors.</choice>
+			<choice>They may be either representational or non-representational.</choice>
+			<choice>They show great attention to detail.</choice>
+			<correctanswer>3,2,2,3,2</correctanswer>
+		</question>
+	</checklist>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>29</questionnumber>
+			<audiofile>1_Li_48_49.mp3</audiofile>
+			<boxtext>Meteorology</boxtext>
+			<art>PT1_14.jpg:273,PT1_15.jpg:302,PT1_14.jpg:0</art>
+			<directions>x</directions>
+			<highlightbox>Now get ready to answer some questions about the lecture.
+
+You may use your notes to help you.</highlightbox>
+			<questionAudio>x</questionAudio>
+			<questiontext>x</questiontext>
+			<choice>x</choice>
+			<choice>x</choice>
+			<choice>x</choice>
+			<choice>x</choice>
+			<correctanswer>x</correctanswer>
+		</question>
+	</multipleListen>
+	<multipleanswer>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>29</questionnumber>
+			<audiofile>1_Li_51.mp3</audiofile>
+			<questiontext> According to the professor, which of the following are most often damaged by hail?</questiontext>
+			<choice>Rides at amusement parks</choice>
+			<choice>Cars and other vehicles</choice>
+			<choice>Farmers' crops</choice>
+			<choice>Buildings</choice>
+			<correctanswer>2,3</correctanswer>
+		</question>
+	</multipleanswer>
+	<multipleListen>
+		<numberofquestions>34</numberofquestions>
+		<cloze>0</cloze>
+		<question>
+			<questionnumber>30</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_52.mp3</questionAudio>
+			<questiontext>According to the professor, which of these methods of preventing damage from hail was used most recently?</questiontext>
+			<choice>Banging on pots and pans</choice>
+			<choice>Dancing</choice>
+			<choice>Shooting hail cannons</choice>
+			<choice>Ringing bells</choice>
+			<correctanswer>3</correctanswer>
+		</question>
+		<question>
+			<questionnumber>31</questionnumber>
+			<audiofile>1_Li_53ab.mp3</audiofile>
+			<boxtext>Listen again to part of the discussion. </boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_53cd.mp3</questionAudio>
+			<questiontext>What does the professor mean when he says this?     &lt;icon&gt;</questiontext>
+			<choice>He doesn't understand the student's question and wants her to clarify it.</choice>
+			<choice>He's unsure, but doesn't think it happens often.</choice>
+			<choice>He doesn't think there is any way to know the answer.</choice>
+			<choice>He doesn't think the question makes sense. </choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>32</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_54.mp3</questionAudio>
+			<questiontext>Why does the professor compare a hailstone to an onion?</questiontext>
+			<choice>Because of its size</choice>
+			<choice>Because of its structure</choice>
+			<choice>Because of its color</choice>
+			<choice>Because of its weight</choice>
+			<correctanswer>2</correctanswer>
+		</question>
+		<question>
+			<questionnumber>33</questionnumber>
+			<audiofile>x</audiofile>
+			<boxtext>x</boxtext>
+			<art>x</art>
+			<directions>x</directions>
+			<highlightbox>x</highlightbox>
+			<questionAudio>1_Li_55.mp3</questionAudio>
+			<questiontext>At what time of year are hailstorms most common?</questiontext>
+			<choice>In the spring</choice>
+			<choice>In the summer</choice>
+			<choice>In the fall</choice>
+			<choice>In the winter</choice>
+			<correctanswer>1</correctanswer>
+		</question>
+	</multipleListen>
+	<checklist>
+		<numberofquestions>34</numberofquestions>
+		<question>
+			<questionnumber>34</questionnumber>
+			<audiofile>1_Li_56.mp3</audiofile>
+			<questiontext>In this lecture, the professor describes the process by which hail is formed. Indicate whether each of the following is a step in that process. </questiontext>
+			<rows>6</rows>
+			<columns>3</columns>
+			<heading>Yes</heading>
+			<heading>No</heading>
+			<choice>Hailstones become so heavy that they fall to the ground.</choice>
+			<choice>Water droplets are lifted into the cold region of a thundercloud and freeze. </choice>
+			<choice>Tornado clouds circulate ice crystals inside of thunderclouds.</choice>
+			<choice>Droplets are lifted into the cloud again and again, adding more ice.</choice>
+			<choice>A mass of fast-moving warm air hits a slower-moving mass of cold air.</choice>
+			<correctanswer>2,2,3,2,3</correctanswer>
+		</question>
+	</checklist>
+<sectionClosing>This is the end of the Listening Section of Practice Test 1. You may take a ten-minute break before beginning work on the Speaking Section.</sectionClosing>
+</test>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+
+
+
+
