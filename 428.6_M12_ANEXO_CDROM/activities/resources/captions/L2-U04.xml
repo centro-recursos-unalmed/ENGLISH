@@ -1,0 +1,36 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:03.50" dur="00:00:5.60">There are many trains in India, but none may be as special as the Darjeeling Himalayan Railway.</p>
+    <p begin="00:00:09.90" dur="00:00:3.80">It's so small that people call it the "toy train."</p>
+    <p begin="00:00:14.10" dur="00:00:3.00">It also may be the slowest train in the world.</p>
+    <p begin="00:00:17.45" dur="00:00:08.70">Every day, a six man team prepares the old engine with water, coal, and steam, before permitting it to make the long mountain climb.</p>
+    <p begin="00:00:27.40" dur="00:00:4.80">People here have depended on the railway since it was established in 1881.</p>
+    <p begin="00:00:32.68" dur="00:00:05.20">A familiar feature for locals, the train has become almost like an old friend.</p>
+    <p begin="00:00:38.10" dur="00:00:2.50">"But as long as it is there, yes, it is a part of life."</p>
+    <p begin="00:00:41.80" dur="00:00:7.40">Every day, the toy train climbs over 2,250 meters.</p>
+    <p begin="00:00:52.70" dur="00:00:05.30">Tight mountain turns become increasingly difficult as the train climbs toward Darjeeling...</p>
+    <p begin="00:00:58.50" dur="00:00:06.00">...a town located at the foot of the Himalayas and surrounded by some of the tallest peaks in the world.</p>
+    <p begin="00:00:74.00" dur="00:00:06.50">The winding route means the train needs to use narrow tracks and travel at a very slow speed.</p>
+    <p begin="00:00:82.20" dur="00:00:6.70">Although the entire trip is about 80 kilometers, on a slow day it can take up to ten hours!</p>
+    <p begin="00:00:89.30" dur="00:00:12.20">Despite the inconvenience, the train appeals to both locals and sightseers. Nobody seems to object to the train's slow speed. In fact, most seem to derive a lot of pleasure from it.</p>
+    <p begin="00:00:102.70" dur="00:00:09.40">While other historic trains may be threatened by modernization, the Darjeeling Railway has been carefully preserved for its cultural importance.</p>
+    <p begin="00:00:115.85" dur="00:00:4.10">For fans of this train, being slow is actually a good thing.</p>
+    <p begin="00:00:120.40" dur="00:00:09.50">As the sign says, "slow" has four letters, so has life. "Speed" has  five letters, so has death.</p>
+   </div>
+  </body>
+</tt>

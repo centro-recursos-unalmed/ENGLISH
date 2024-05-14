@@ -1,0 +1,43 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:01.50" dur="00:00:8.50">At 6:10 am on Monday, August 29th, a category 4 hurricane named Katrina reached the Louisiana coast,</p>
+	<p begin="00:00:10.00" dur="00:00:02.50">destroying almost everything in its path.</p>
+	<p begin="00:00:13.00" dur="00:00:3.50">What were the circumstances that led to this catastrophic storm?</p>
+	<p begin="00:00:17.00" dur="00:00:8.00">Five days earlier, on August 24th, the temperature off the coast of the Bahamas was almost thirty degrees Celsius.</p>
+	<p begin="00:00:25.50" dur="00:00:03.50">Humid air was rising upward from the warm waters of the ocean.</p>
+	<p begin="00:00:29.50" dur="00:00:05.50">As the warm, wet air rose, it condensed and formed a system of thunderstorms.</p>
+	<p begin="00:00:35.70" dur="00:00:06.50">This condensation releases heat, which warms the cool air of the atmosphere, causing it to rise.</p>
+	<p begin="00:00:42.50" dur="00:00:04.50">As that air rises, more warm air from the ocean takes its place.</p>
+	<p begin="00:00:47.50" dur="00:00:05.50">This creates a cycle which continuously moves heat from the ocean to the atmosphere.</p>
+	<p begin="00:00:53.50" dur="00:00:05.50">The movement creates a pattern of wind that begins to move around and forms a center.</p>
+	<p begin="00:00:59.50" dur="00:00:08.00">Occasionally, one such rotating wheel of thunderstorms gathers strength, feeding on the combination of moisture and heat.</p>
+	<p begin="00:00:68.00" dur="00:00:09.00">When the winds of Tropical Depression Twelve reached almost 63 kilometers an hour, Tropical Storm Katrina was born.</p>
+	<p begin="00:00:77.50" dur="00:00:05.00">Most extreme tropical storms happen in the open sea, where they do little harm.</p>
+	<p begin="00:00:83.00" dur="00:00:03.50">Some, like Katrina, arrive on the land.</p>
+	<p begin="00:00:87.50" dur="00:00:08.00">Katrina moved slowly -- sometimes as slow as 9 kilometers per hour -- but she was getting stronger and heading toward Florida.</p>
+	<p begin="00:00:96.30" dur="00:00:07.50">Katrina only qualified as a category 1 hurricane when she touched the Florida coast and moved out into the Gulf of Mexico.</p>
+	<p begin="00:00:104.50" dur="00:00:04.00">In the Gulf, the water reached a very warm 30 degrees Centigrade.</p>
+	<p begin="00:00:108.70" dur="00:00:05.00">These warmer waters caused Katrina to become stronger and more energized.</p>
+	<p begin="00:00:114.00" dur="00:00:04.00">After three days moving over the warm waters of the Gulf, </p>
+	<p begin="00:00:118.30" dur="00:00:06.00">Katrina grew to a Category 5 hurricane, with winds of more than 250 kilometers an hour.   </p>
+	<p begin="00:00:125.00" dur="00:00:07.00">Before arriving on land, Katrina was a category 4 hurricane, but that was still extremely strong. </p>
+    <p begin="00:00:133.00" dur="00:00:06.00">With powerful winds, and a giant wave, or storm surge, over 6 meters high,</p>
+    <p begin="00:00:139.20" dur="00:00:06.00">Katrina was still the most destructive storm to hit the area in 36 years.</p>
+    <p begin="00:00:146.00" dur="00:00:02.50">The danger could no longer be ignored.</p>
+	<p begin="00:00:149.00" dur="00:00:06.30">Once over land, the states of Louisiana and Mississippi became exposed to Katrina’s destructive winds.</p>
+    <p begin="00:00:156.50" dur="00:00:07.00">At the same time, now that it was away from the warm waters of the Gulf, the storm began to weaken.</p>
+	<p begin="00:00:163.50" dur="00:00:08.50">Twelve hours after reaching land, Katrina was no longer a hurricane, with top winds of just over 100 kilometers an hour.</p>
+	<p begin="00:00:173.00" dur="00:00:03.50">A few short hours later, the only thing left of Katrina  ...</p>
+    <p begin="00:00:177.50" dur="00:00:03.50">...  was the widespread destruction she had left behind.</p>
+   </div>
+  </body>
+</tt>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:01.50" dur="00:00:03.00">Dogs are often known as man's best friend.</p>
+	<p begin="00:00:4.60" dur="00:00:05.70">Many societies have them as pets, or rely on them to perform a variety of tasks.</p>
+	<p begin="00:00:11.20" dur="00:00:4.50">The story of man and dog is a complex story that goes back thousands of years,</p>
+	<p begin="00:00:15.90" dur="00:00:3.50">and will almost certainly go on for thousands more.</p>
+	<p begin="00:00:21.50" dur="00:00:03.00">Dogs interact with humans in a variety of ways.</p>
+	<p begin="00:00:26.00" dur="00:00:04.50">Dogs such as border collies are trained to herd livestock such as sheep.</p>
+	<p begin="00:00:33.00" dur="00:00:05.00">Huskies pull us through some of the coldest and most dangerous places on Earth.</p>
+	<p begin="00:00:40.50" dur="00:00:04.50">Dogs have a sense of smell 1000 times more powerful than our own.</p>
+	<p begin="00:00:46.00" dur="00:00:04.50">This means they can search for people who are lost under deep snow,  ...</p>
+	<p begin="00:00:52.00" dur="00:00:02.50">or under the debris of a collapsed building,  ...</p>
+	<p begin="00:00:56.00" dur="00:00:02.50">or deep in the forest.</p>
+	<p begin="00:00:59.50" dur="00:00:08.00">Beagles perform their duties at airports, where their sense of smell helps them to find drugs and other illegal items in peoples' luggage. </p>
+	<p begin="00:00:68.00" dur="00:00:02.00">They lead the blind  ...</p>
+	<p begin="00:00:70.60" dur="00:00:02.50">And help to ease the lives of disabled people.</p>
+	<p begin="00:00:76.60" dur="00:00:04.00">For many, the dog is also an obedient companion - and friend. </p>
+	<p begin="00:00:82.70" dur="00:00:04.50">When did this remarkable partnership start? </p>
+	<p begin="00:00:91.00" dur="00:00:06.50">We know now that the wolf began working with people in the distant past - roughly 14,000 years ago. </p>
+	<p begin="00:00:99.70" dur="00:00:05.00">Over the years, the wolf became the talented domestic pet we know as the dog.</p>
+	<p begin="00:00:105.30" dur="00:00:05.50">There are plenty of theories, but the real reason why humans acquired dogs is still unknown.</p>
+	<p begin="00:00:111.00" dur="00:00:03.00">Was it because they needed to protect each other from harm?</p>
+	<p begin="00:00:114.50" dur="00:00:02.00">Was it a hunting partnership?</p>
+    <p begin="00:00:118.00" dur="00:00:03.50">Was it a need for companionship - a type of friendship? </p>
+    <p begin="00:00:122.00" dur="00:00:02.00">Or was it a combination of the three?</p>
+    <p begin="00:00:126.50" dur="00:00:05.00">For 14,000 years the dog has played an important role in human societies.</p>
+	<p begin="00:00:134.00" dur="00:00:04.30">It's a partnership that's likely to continue for many years to come.</p>
+   </div>
+  </body>
+</tt>

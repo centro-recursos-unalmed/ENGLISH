@@ -1,0 +1,42 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:1.00" dur="00:00:02.55">They were two women with one goal.</p>
+    <p begin="00:00:4.00" dur="00:00:06.50">Liv Arnesen and Ann Bancroft dreamed of becoming the first women in history to ski across Antarctica.</p>
+    <p begin="00:00:10.60" dur="00:00:04.50">And on February 11, 2001, they achieved their goal.</p>
+    <p begin="00:00:15.20" dur="00:00:05.50">The crossing had been completed only once before, by a team of two male explorers.</p>
+    <p begin="00:00:21.00" dur="00:00:10.40">The story of Liv and Ann's unparalleled adventure became the basis for a book, No Horizon is So Far, in which they shared their reasons for exploring the planet.</p>
+    <p begin="00:00:31.50" dur="00:00:6.50">"People ask us, what is there left to explore? There's certainly you to explore, you know, internally."</p>
+    <p begin="00:00:38.00" dur="00:00:6.00">"And these trips draw out new things in you as an individual, you never know how you're going to be in your moment of truth."</p>
+    <p begin="00:00:44.20" dur="00:00:05.50">Prior to leaving for Antarctica, the two women undertook a demanding training schedule.</p>
+    <p begin="00:00:49.90" dur="00:00:4.50">They practiced skiing down roads, pulling tires behind them.</p>
+    <p begin="00:00:54.50" dur="00:00:03.00">The hardships got worse when they arrived in Antarctica.</p>
+    <p begin="00:00:58.50" dur="00:00:10.00">There were very strong, sometimes unpredictable, winds of up to 160 kilometers an hour... and, of course, it was extremely cold.</p>
+    <p begin="00:00:70.00" dur="00:00:05.20">Sometimes they had to use their food to warm their fingers, to get the blood moving again.</p>
+    <p begin="00:00:76.50" dur="00:00:07.50">During their adventure, Liv and Ann shared their story with people from a hundred and fifty countries through an online journal.</p>
+    <p begin="00:00:84.50" dur="00:00:13.50">"I think the thing that's fabulous about opening the story up to others, is it comes back. And it's not just remarking on what we're doing."</p>
+    <p begin="00:00:98.20" dur="00:00:3.30">"What we ended up getting were other people's dreams."</p>
+    <p begin="00:00:103.30" dur="00:00:10.00">The Internet site enabled the two women not only to share their own adventures, but also to relate to other people's experiences in different parts of the world.</p>
+    <p begin="00:00:115.50" dur="00:00:05.30">"What do you think of this, eh, Ann? A little bit scary?"</p>
+    <p begin="00:00:122.20" dur="00:00:09.50">"We all understand overcoming struggles, for instance, finding support -- you know, you never do anything alone, those kinds of themes."</p>
+    <p begin="00:00:132.10" dur="00:00:05.70">Despite their remote location, the women still felt connected with people around the planet.</p>
+    <p begin="00:00:139.20" dur="00:00:03.80">Liv and Ann are now planning their next adventures.</p>
+    <p begin="00:00:143.70" dur="00:00:09.00">Their next goal is to travel to the other end of the world - and to become the first women in history to cross the Arctic Ocean.</p>
+    
+   </div>
+  </body>
+</tt>

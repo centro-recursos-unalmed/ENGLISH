@@ -1,0 +1,45 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:02.50" dur="00:00:09.20">For 2.5 million years, the Earth's climate has varied moving between extremely cold ice ages and warmer periods.</p>
+    <p begin="00:00:12.30" dur="00:00:08.50">But in the last century, Earth's temperature has risen unusually  fast -- by nearly one degree Celsius.</p>
+    <p begin="00:00:21.00" dur="00:00:11.40">Scientists believe that human activity is making the temperature go up, a process known as global warming. And many are worried the situation is becoming critical.</p>
+    <p begin="00:00:32.85" dur="00:00:09.10">Ever since the Industrial Revolution, factories, power plants, and more recently cars, have burned fossil fuels, such as oil and coal,</p>
+    <p begin="00:00:42.20" dur="00:00:5.50">releasing huge quantities of carbon dioxide and other gases into the atmosphere.</p>
+    <p begin="00:00:48.30" dur="00:00:08.30">These greenhouse gases trap heat near the Earth through a naturally-occurring process called the "greenhouse effect."</p>
+    <p begin="00:00:56.90" dur="00:00:5.10">The greenhouse effect begins with the sun, and the energy it sends to the Earth.</p>
+    <p begin="00:00:62.30" dur="00:00:05.95">The Earth and the atmosphere take in some of this energy, while the rest goes back into space.</p>
+    <p begin="00:00:68.50" dur="00:00:6.70">Naturally-occurring gases in the atmosphere trap some of this energy and reflect it back, warming the Earth.</p>
+    <p begin="00:00:75.60" dur="00:00:07.75">Scientists now believe that the greenhouse effect is being strengthened by greenhouse gases that are released by human activity.</p>
+    <p begin="00:00:83.60" dur="00:00:5.80">Evidence for global warming includes a number of unexpectedly warm years in recent years.</p>
+    <p begin="00:00:89.70" dur="00:00:06.90">Scientists report that 1998 was the warmest year in measured history, and 2005 was the second.</p>
+    <p begin="00:00:96.80" dur="00:00:07.80">Studies of ice cores show that greenhouse gases have reached their highest levels in the past 420,000 years.</p>
+    <p begin="00:00:104.80" dur="00:00:010.50">Arctic sea ice is also shrinking. According to NASA studies, the area covered by Arctic sea ice has decreased by about 10% in the last 30 years.</p>
+    <p begin="00:00:117.00" dur="00:00:08.50">If countries continue to use a lot of fossil fuel resources, the amount of greenhouse gases in the atmosphere will continue to rise.</p>
+    <p begin="00:00:126.70" dur="00:00:06.80">Researchers predict that temperatures will increase by about 1 to 6 degrees Celsius by the end of the century.</p>
+    <p begin="00:00:134.60" dur="00:00:04.90">So what are the possible consequences for the environment of these rising temperatures?</p>
+    <p begin="00:00:140.80" dur="00:00:02.50">Some climate models say there will be only slight changes.</p>
+    <p begin="00:00:144.50" dur="00:00:03.50">Others predict rises in sea levels that could flood coastal areas.</p>
+    <p begin="00:00:148.50" dur="00:00:04.80">Changing weather patterns could make huge storms like hurricanes more frequent.</p>
+    <p begin="00:00:153.70" dur="00:00:08.00">Extreme droughts could become more common in warm areas, and some animals, which may not be able to adapt, could face extinction.</p>
+    <p begin="00:00:162.00" dur="00:00:02.70">There is still a lot to be learned about global warming.</p>
+    <p begin="00:00:165.15" dur="00:00:08.00">However, many believe that governments and corporations can help to reduce the impact of global warming, by cutting greenhouse gas emissions.</p>
+    <p begin="00:00:173.60" dur="00:00:08.70">Consumers can also help by saving energy around the house, for example, by using light bulbs that require less energy, and driving fewer miles each week.</p>
+    <p begin="00:00:183.40" dur="00:00:5.10">These simple changes may help to keep the Earth cooler in the future.</p>
+   </div>
+  </body>
+</tt>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:01.60" dur="00:00:04.10">The island of Madagascar is renowned for its distinctive wildlife.</p>
+    <p begin="00:00:06.30" dur="00:00:10.00">But these Swiss scientists are interested more in the island's smells and tastes -- and the chance to find essences for entirely new perfumes and flavors.</p>
+    <p begin="00:00:17.50" dur="00:00:14.80">This scientist says he discovered a flower yesterday. The bud has just opened, and he expects the flower's scent to be very appealing, perhaps primarily a mix of vanilla and jasmine.</p>
+    <p begin="00:00:33.00" dur="00:00:09.60">The Swiss team goes by river deep into the forest, then by balloon up into the tree tops, hoping to obtain new flowers and fruits.</p>
+    <p begin="00:00:43.10" dur="00:00:6.50">The scientists bring the essences back to the laboratory where they use technology to recreate the scents.</p>
+    <p begin="00:00:50.00" dur="00:00:12.20">"I'm quite happy it's already very close to this beautiful stephanotis scent as I experienced it on the Tampolo River."</p>
+    <p begin="00:00:62.90" dur="00:00:8.70">The scents and flavors will be used in a variety of products for purchase in stores all over the world -- everything from bath products to fruit juices.</p>
+    <p begin="00:00:76.30" dur="00:00:5.40">This scientist says they have found two or three types of fruit whose taste is still unknown.</p>
+    <p begin="00:00:84.20" dur="00:00:7.60">They may be able to use these new essences to change existing flavors, and perhaps derive entirely new flavors.</p>
+    <p begin="00:00:98.80" dur="00:00:02.65">But not all the discoveries are special.</p>
+    <p begin="00:00:102.40" dur="00:00:12.60">"Juicy? Acidic? A little bit earthy? Watery? Nothing fantastic. Nothing special!"</p>
+    <p begin="00:00:115.30" dur="00:00:06.10">Only a few of these scents and flavors will be exported to markets and eventually displayed in stores.</p>
+    <p begin="00:00:121.60" dur="00:00:06.00">But the next time you're purchasing perfume, you could be smelling "the secrets of Madagascar."</p>
+    
+
+   </div>
+  </body>
+</tt>
