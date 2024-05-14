@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book name="National Geographic World English CD" abbr="NG_B" format="natgeo" discipline="Courseware" ISBNs="" assignment-type="0" type="section" link="/ilrn/activityengine/ae_master.do?book=NG_A&amp;aeDetailsRender=/ilrn/activityengine/ae_results_render.do&amp;aeAssignmentLaunch=/ilrn/activityengine/ae_assignment.do&amp;isAEContent=true&amp;noinfo=:">
+		<section name="Video Clips" assignment-type="0" type="section">
+			<section name="Unit 1  Animal Families" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-VD.xml"/>
+			<section name="Unit 2  A Job for Children " assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-VD.xml"/>
+			<section name="Unit 3  A Very Special Village" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-VD.xml"/>
+			<section name="Unit 4  Uncovering the Past" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-VD.xml"/>
+			<section name="Unit 5  Zoo Dentists" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-VD.xml"/>
+			<section name="Unit 6  Volcano Trek" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-VD.xml"/>
+		</section>
+		<section name="Unit 1" assignment-type="0" type="section">
+			<section name="Lesson A" assignment-type="0" type="section">
+				<section name="Vocabulary: Audio 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA1.xml"/>
+				<section name="Vocabulary: Audio 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA2.xml"/>
+				<section name="Vocabulary: Audio 3" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA3.xml"/>
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LA4.xml"/>
+			</section>
+			<section name="Lesson B" assignment-type="0" type="section">
+				<section name="Listening: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LB.xml"/>
+				<section name="Listening Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LB-L1.xml"/>
+				<section name="Pronunciation Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LB-LS.xml"/>
+			</section>
+			<section name="Lesson C" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LC-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LC-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LC-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LC.xml"/>
+			</section>
+			<section name="Lesson D" assignment-type="0" type="section">
+				<section name="Reading Passage: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LD.xml"/>
+				<section name="Reading Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-LD-RC.xml"/>
+			</section>
+			<section name="Animal Families" assignment-type="0" type="section">
+				<section name="Video Clip" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-VD.xml"/>
+				<section name="Video Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U01-VC-VC.xml"/>
+			</section>
+		</section>
+		<section name="Unit 2" assignment-type="0" type="section">
+			<section name="Lesson A" assignment-type="0" type="section">
+				<section name="Vocabulary: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LA1.xml"/>
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LA-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LA-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LA-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LA2.xml"/>
+			</section>
+			<section name="Lesson B" assignment-type="0" type="section">
+				<section name="Listening: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-L.xml"/>
+				<section name="Listening Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LB-L1.xml"/>
+				<section name="Pronunciation Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LB-LS.xml"/>
+			</section>
+			<section name="Lesson C" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LC-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LC-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LC-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LC.xml"/>
+			</section>
+			<section name="Lesson D" assignment-type="0" type="section">
+				<section name="Reading Passage: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LD.xml"/>
+				<section name="Reading Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-LD-RC.xml"/>
+			</section>
+			<section name="A Job for Children " assignment-type="0" type="section">
+				<section name="Video Clip" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-VD.xml"/>
+				<section name="Video Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U02-VC-VC.xml"/>
+			</section>
+		</section>
+		<section name="Unit 3" assignment-type="0" type="section">
+			<section name="Lesson A" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LA-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LA-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LA-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LA.xml"/>
+			</section>
+			<section name="Lesson B" assignment-type="0" type="section">
+				<section name="Listening: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-L.xml"/>
+				<section name="Listening Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LB-L1.xml"/>
+				<section name="Pronunciation Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LB-LS.xml"/>
+			</section>
+			<section name="Lesson C" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LC-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LC-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LC-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LC.xml"/>
+			</section>
+			<section name="Lesson D" assignment-type="0" type="section">
+				<section name="Reading Passage: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LD.xml"/>
+				<section name="Reading Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-LD-RC.xml"/>
+			</section>
+			<section name="A Very Special Village" assignment-type="0" type="section">
+				<section name="Video Clip" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-VD.xml"/>
+				<section name="Video Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U03-VC-VC.xml"/>
+			</section>
+		</section>
+		<section name="Unit 4" assignment-type="0" type="section">
+			<section name="Lesson A" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LA-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LA-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LA-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LA.xml"/>
+			</section>
+			<section name="Lesson B" assignment-type="0" type="section">
+				<section name="Listening: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-L.xml"/>
+				<section name="Listening Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LB-L1.xml"/>
+				<section name="Pronunciation Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LB-LS.xml"/>
+			</section>
+			<section name="Lesson C" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LC-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LC-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LC-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LC.xml"/>
+			</section>
+			<section name="Lesson D" assignment-type="0" type="section">
+				<section name="Reading Passage: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LD.xml"/>
+				<section name="Reading Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-LD-RC.xml"/>
+			</section>
+			<section name="Uncovering the Past" assignment-type="0" type="section">
+				<section name="Video Clip" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-VD.xml"/>
+				<section name="Video Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U04-VC-VC.xml"/>
+			</section>
+		</section>
+		<section name="Unit 5" assignment-type="0" type="section">
+			<section name="Lesson A" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LA-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LA-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LA-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LA.xml"/>
+			</section>
+			<section name="Lesson B" assignment-type="0" type="section">
+				<section name="Listening: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-L.xml"/>
+				<section name="Listening Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LB-L1.xml"/>
+				<section name="Pronunciation Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LB-LS.xml"/>
+			</section>
+			<section name="Lesson C" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LC-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LC-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LC-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LC.xml"/>
+			</section>
+			<section name="Lesson D" assignment-type="0" type="section">
+				<section name="Reading Passage: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LD.xml"/>
+				<section name="Reading Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-LD-RC.xml"/>
+			</section>
+			<section name="Zoo Dentists" assignment-type="0" type="section">
+				<section name="Video Clip" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-VD.xml"/>
+				<section name="Video Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U05-VC-VC.xml"/>
+			</section>
+		</section>
+		<section name="Unit 6" assignment-type="0" type="section">
+			<section name="Lesson A" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LA-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LA-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LA-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LA.xml"/>
+			</section>
+			<section name="Lesson B" assignment-type="0" type="section">
+				<section name="Listening: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LB.xml"/>
+				<section name="Listening Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LB-L1.xml"/>
+				<section name="Pronunciation Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LB-LS.xml"/>
+			</section>
+			<section name="Lesson C" assignment-type="0" type="section">
+				<section name="Vocabulary Practice" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LC-V1.xml"/>
+				<section name="Grammar Practice 1" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LC-G1.xml"/>
+				<section name="Grammar Practice 2" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LC-G2.xml"/>
+				<section name="Conversation: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LC.xml"/>
+			</section>
+			<section name="Lesson D" assignment-type="0" type="section">
+				<section name="Reading Passage: Audio" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LD.xml"/>
+				<section name="Reading Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-LD-RC.xml"/>
+			</section>
+			<section name="Volcano Trek" assignment-type="0" type="section">
+				<section name="Video Clip" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-VD.xml"/>
+				<section name="Video Comprehension" assignment-type="0" type="link" possible-score="10.0" link="?contentRoot=&amp;engine=index.swf&amp;contentFile=L0-U06-VC-VC.xml"/>
+			</section>
+		</section>
+	</book>
+</books>

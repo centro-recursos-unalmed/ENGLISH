@@ -1,0 +1,39 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+
+<p begin="00:00:04.30" dur="00:00:02.30">These people are archeologists.</p>
+<p begin="00:00:10.00" dur="00:00:02.40">They are looking for old things.</p>
+<p begin="00:00:15.00" dur="00:00:02.40">Here, they find plates and bones.</p>
+<p begin="00:00:20.00" dur="00:00:03.20">Archaeology is the study of ancient things.</p>
+<p begin="00:00:27.00" dur="00:00:03.00">They look at old buildings and houses.</p>
+<p begin="00:00:30.35" dur="00:00:03.40">They look for things like jewelry, pots and plates.</p>
+<p begin="00:00:35.00" dur="00:00:02.40">Archeologists also study paintings in caves. </p>
+<p begin="00:00:40.50" dur="00:00:03.50">They also study fossils -- the bones of old animals.</p>
+<p begin="00:00:46.50" dur="00:00:03.40">And they study human remains, like these skulls.</p>
+<p begin="00:00:51.40" dur="00:00:03.00">To find things, archaeologists get dirty.</p>
+<p begin="00:00:57.20" dur="00:00:02.30">Teams work with shovels and spades.</p>
+<p begin="00:01:00.00" dur="00:00:02.00">It is slow work.</p>
+<p begin="00:01:04.40" dur="00:00:02.10">The work can be exciting.</p>
+<p begin="00:01:07.00" dur="00:00:02.30">This is a Mayan city.</p>
+<p begin="00:01:10.00" dur="00:00:03.20">The beautiful carvings made by the Maya tell their history.</p>
+<p begin="00:01:13.30" dur="00:00:04.70">The archaeologists who found these writings are discovering Maya civilization.</p>
+<p begin="00:01:21.00" dur="00:00:02.50">Archeologists work in many places -</p>
+<p begin="00:01:24.40" dur="00:00:01.50">in South America,</p>
+<p begin="00:01:27.30" dur="00:00:01.40">in cities,</p>
+<p begin="00:01:29.20" dur="00:00:01.40">in Asian jungles.</p>
+<p begin="00:01:33.00" dur="00:00:03.00">Sometimes the work is dangerous.</p>
+<p begin="00:01:36.20" dur="00:00:02.50">But it is always interesting.</p>
+
+   </div>
+  </body>
+</tt>
+

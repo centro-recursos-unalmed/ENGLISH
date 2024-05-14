@@ -1,0 +1,43 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+
+<p begin="00:00:03.50" dur="00:00:02.30">People live in families. </p>
+<p begin="00:00:07.75" dur="00:00:02.00">Some families are big. </p>
+<p begin="00:00:09.93" dur="00:00:02.20">Other families are small.</p>
+<p begin="00:00:17.09" dur="00:00:02.00">Some animals live alone.</p>
+<p begin="00:00:21.36" dur="00:00:03.65">But many animals live in family groups as well.</p>
+<p begin="00:00:25.50" dur="00:00:03.30">These are lions. They live in family groups. </p>
+<p begin="00:00:29.00" dur="00:00:03.30">There are usually 5 to 7 females in the group. </p>
+<p begin="00:00:33.89" dur="00:00:03.30">In the group, there is usually only one male. </p>
+<p begin="00:00:37.20" dur="00:00:02.40">He has long hair on his neck. </p>
+<p begin="00:00:39.70" dur="00:00:01.70">He is very handsome.</p>
+<p begin="00:00:42.29" dur="00:00:02.70">He is the father of all the young lions. </p>
+<p begin="00:00:45.93" dur="00:00:02.45">These are his sons and daughters. </p>
+<p begin="00:00:53.69" dur="00:00:02.20">This is a family of meerkats. </p>
+<p begin="00:00:55.95" dur="00:00:01.80">It is a big family. </p>
+<p begin="00:00:59.00" dur="00:00:03.50">There are 20 to 30 meerkats in the family.</p>
+<p begin="00:01:04.33" dur="00:00:02.00">This is the alpha pair.</p>
+<p begin="00:01:06.50" dur="00:00:01.80">They are the leaders.</p>
+<p begin="00:01:08.55" dur="00:00:03.50">They are the mother and father of all the young meerkats. </p>
+<p begin="00:01:13.50" dur="00:00:01.60">Aren’t they pretty! </p>
+<p begin="00:01:16.82" dur="00:00:02.40">This is a family of gorillas.</p>
+<p begin="00:01:19.30" dur="00:00:02.25">This is the leader of the family. </p>
+<p begin="00:01:21.65" dur="00:00:02.40">He has silver hair on his back.</p>
+<p begin="00:01:24.30" dur="00:00:03.50">He is the father of all the young gorillas in the group.</p>
+<p begin="00:01:27.90" dur="00:00:02.00">There are seven females.</p>
+<p begin="00:01:30.00" dur="00:00:03.00">They are the mothers of all the young gorillas.</p>
+<p begin="00:01:35.15" dur="00:00:04.20">Families are important for animals and for people.</p>
+
+   </div>
+  </body>
+</tt>
+

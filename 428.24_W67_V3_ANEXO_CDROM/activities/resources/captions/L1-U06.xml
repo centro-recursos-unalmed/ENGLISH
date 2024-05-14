@@ -1,0 +1,55 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+
+	<p begin="00:00:03.20" dur="00:00:05.50">This beautiful, quiet place is covered in sunshine and has mountains all around it.</p>
+	<p begin="00:00:09.00" dur="00:00:02.00">Its name is Machu Picchu.</p>
+	<p begin="00:00:11.23" dur="00:00:02.90">It's sometimes called the Lost City of the Inca,</p>
+	<p begin="00:00:14.16" dur="00:00:03.20">and it's nearly 8,000 feet up in the Andes.</p>
+	<p begin="00:00:18.30" dur="00:00:04.20">"It's a magic attraction, that you can feel it here."</p>
+	<p begin="00:00:23.06" dur="00:00:02.20">"It's known all over the world that Machu Picchu is one of the</p>
+	<p begin="00:00:25.28" dur="00:00:03.50">magnetic centers of the ancient world."</p>
+	<p begin="00:00:28.95" dur="00:00:03.00">Machu Picchu is more than 500 years old.</p>
+	<p begin="00:00:32.19" dur="00:00:03.50">Today, it's a favorite place for visitors from all over the world.</p>
+	<p begin="00:00:36.17" dur="00:00:04.05">Even in the rain and fog, it's wonderful to walk through the ruins.</p>
+	<p begin="00:00:40.28" dur="00:00:04.70">When the Inca civilization ended, few people knew Machu Picchu existed.</p>
+	<p begin="00:00:45.15" dur="00:00:03.50">For a long time it was lost to the outside world.</p>
+	<p begin="00:00:49.00" dur="00:00:04.80">Then, in 1911, an explorer named Hiram Bingham found it again.</p>
+	<p begin="00:00:54.00" dur="00:00:02.95">At first, very few people visited Machu Picchu.</p>
+	<p begin="00:00:57.00" dur="00:00:03.00">But now, hundreds of tourists come here every day.</p>
+	<p begin="00:01:00.21" dur="00:00:03.50">They walk up the steps of the ancient city and climb over the ruins.</p>
+	<p begin="00:01:04.16" dur="00:00:04.00">Machu Picchu is no longer quiet. It's full of the sounds of tourists.</p>
+	<p begin="00:01:09.28" dur="00:00:03.00">Some people in Peru hope that more tourists will come here.  </p>
+	<p begin="00:01:13.16" dur="00:00:02.80">They think it will mean more business and money for the country.</p>
+	<p begin="00:01:16.29" dur="00:00:05.50">However, some conservationists worry that more visitors won't be good for Machu Picchu.</p>
+	<p begin="00:01:22.05" dur="00:00:03.00">They say that tourism may not be good for the environment. </p>
+	<p begin="00:01:25.50" dur="00:00:06.00">Jose, a local hotel owner says Machu Picchu and Peru can take a few more visitors.</p>
+	<p begin="00:01:32.28" dur="00:00:02.70">"Why not be like the rest of the world?"</p>
+	<p begin="00:01:35.00" dur="00:00:03.30">"Why not expose and show Machu Picchu to the rest of the world?"</p>
+	<p begin="00:01:39.07" dur="00:00:04.40">"It's such a wonderful place...why keep it to the few?"</p>
+	<p begin="00:01:44.09" dur="00:00:03.00">The truth is that parts of Peru are very poor,</p>
+	<p begin="00:01:47.24" dur="00:00:03.00">and tourists bring money to these communities.</p>
+	<p begin="00:01:50.70" dur="00:00:04.50">Aguas Calientes is a town that grew suddenly near an area where visitors get on buses</p>
+	<p begin="00:01:55.21" dur="00:00:02.80">to get to the summit of Machu Picchu.</p>
+	<p begin="00:01:58.04" dur="00:00:03.00">The people here live completely on money from tourism.</p>
+	<p begin="00:02:01.04" dur="00:00:03.20">The town is just a group of stalls where local people sell art</p>
+	<p begin="00:02:04.26" dur="00:00:02.80">and things they have made to visitors.</p>
+	<p begin="00:02:07.23" dur="00:00:02.77">The Lost City is no longer lost.</p>
+	<p begin="00:02:10.07" dur="00:00:02.00">Tourists have found it.</p>
+	<p begin="00:02:12.10" dur="00:00:04.00">The modern world is coming closer to this ancient world every day.</p>
+	<p begin="00:02:16.18" dur="00:00:02.90">Time may be running out for the Lost City of the Inca.</p>
+	<p begin="00:02:19.18" dur="00:00:02.00">More and more people are discovering it.</p>
+	<p begin="00:02:22.10" dur="00:00:05.00">In the end, it may be the modern world that forever changes this ancient city.</p>
+   
+</div>
+  </body>
+</tt>
+
