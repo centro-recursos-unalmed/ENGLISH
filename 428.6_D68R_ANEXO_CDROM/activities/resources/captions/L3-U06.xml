@@ -1,0 +1,52 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:12.00" dur="00:00:07.00">Lee Berger has spent his professional life searching for evidence of our human past.</p>
+    <p begin="00:00:20.30" dur="00:00:07.20">He is a paleoanthropologist who studies and searches for the graves and fossil remains of ancient humans.</p>
+    <p begin="00:00:29.00" dur="00:00:07.00">He's done most of his work in Africa, but it was during a vacation on the Pacific island of Palau,</p>
+    <p begin="00:00:36.00" dur="00:00:06.00">on a walk through one of its many caves, that he made an astonishing find.</p>
+    <p begin="00:00:45.10" dur="00:00:06.20">"You see that? This is just packed full of bone. I mean you can actually see there's still some actually exposed here."</p>
+    <p begin="00:00:51.30" dur="00:00:03.30">"But what's cool is that there was a whole skull here."</p>
+    <p begin="00:00:56.00" dur="00:00:07.30">Berger thinks these bones may be the remains of some of the earliest humans ever to populate these islands.</p>
+    <p begin="00:00:64.00" dur="00:00:6.00">Previous estimates trace the earliest humans found here by Berger to about twenty-nine hundred years ago.</p>
+    <p begin="00:00:70.50" dur="00:00:06.00">But all the bones previously found by Berger were above something called a "flowstone."</p>
+    <p begin="00:00:77.20" dur="00:00:07.20">A flowstone is a common phenomenon in caves, where water flowing over the ground deposits minerals that harden into stone.</p>
+    <p begin="00:00:85.20" dur="00:00:07.40">All of Berger's previous digging was above a flowstone that dated back about twenty-nine hundred years.</p>
+    <p begin="00:00:93.00" dur="00:00:06.30">Today, Berger has returned and is going to break through the flowstone.</p>
+    <p begin="00:00:97.80" dur="00:00:04.10">He hopes that he will find bones from an even earlier age underneath the flowstone.</p>
+    <p begin="00:00:102.30" dur="00:00:04.00">"We hope these dates are going to come out over the three thousand year mark."</p>
+    <p begin="00:00:107.10" dur="00:00:06.50">Under the flowstone, Berger finds several human bones...including a tooth and a piece of human skull.</p>
+    <p begin="00:00:114.00" dur="00:00:06.40">From these findings Berger can learn a lot more about early humans than just their age.</p>
+    <p begin="00:00:120.40" dur="00:00:03.80">The bones he has inspected have some very unusual features:</p>
+    <p begin="00:00:125.00" dur="00:00:04.50">a small chin, large teeth and what appears to be a small brain size...</p>
+    <p begin="00:00:129.50" dur="00:00:05.50">inspiring Berger to reconsider his notion of what early humans looked like.</p>
+    <p begin="00:00:135.50" dur="00:00:07.20">Berger believes that his Palau discoveries are new evidence of the wide variety of early human features in this region.</p>
+    <p begin="00:00:143.30" dur="00:00:06.10">Berger's discoveries may also have significance for another set of bones found in the region:</p>
+    <p begin="00:00:149.40" dur="00:00:08.20">those of a tiny human that researchers call "the hobbit," after the small creatures in Tolkien's story, Lord of the Rings.</p>
+    <p begin="00:00:158.00" dur="00:00:03.00">Its scientific name is Homo floresiensis.</p>
+	<p begin="00:00:162.00" dur="00:00:06.10">Debate continues over this controversial discovery. Contrary to some researchers,</p>
+    <p begin="00:00:168.20" dur="00:00:07.50">Berger believes the hobbits might not be a separate species of human, but just another variation of the same species.</p>
+    <p begin="00:00:176.20" dur="00:00:07.40">"It is also making me personally consider my understanding of what is normal human variation."</p>
+    <p begin="00:00:184.00" dur="00:00:08.30">Berger published a paper suggesting the bones he found are astonishing because they show how varied early humans were in their size and shape.</p>
+    <p begin="00:00:193.00" dur="00:00:07.50">This new understanding of the potential for human variation makes some people doubt whether the hobbit is a special species.</p>
+    <p begin="00:00:201.50" dur="00:00:5.00">The controversies will likely continue. But in the meantime, Berger will return.</p>
+    <p begin="00:00:207.10" dur="00:00:09.20">"What has struck me on this second scientific visit is how phenomenally little research has been done on these islands."</p>
+    <p begin="00:00:217.50" dur="00:00:08.10">Berger hopes to change that in the coming years, by continuing his search for more definitive answers to our human past.</p>
+
+   </div>
+  </body>
+</tt>

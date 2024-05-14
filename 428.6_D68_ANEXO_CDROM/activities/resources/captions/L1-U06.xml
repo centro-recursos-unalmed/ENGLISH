@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:03.10" dur="00:00:05.50">The cocoons of moths have been used to create high quality fabric for over 4000 years.</p>
+    <p begin="00:00:09.00" dur="00:00:05.00">A Chinese tradition says that it was discovered by Empress Hsi-Ling-Shih.</p>
+    <p begin="00:00:15.00" dur="00:00:06.00">When a cocoon fell into her teacup, the Empress discovered a long thin fiber of silk.</p>
+    <p begin="00:00:21.50" dur="00:00:05.00">The royal families of China loved silk and thought it was worth more than gold.</p>
+    <p begin="00:00:27.10" dur="00:00:05.00">The secret of its production was kept by China for 2500 years.</p>
+    <p begin="00:00:32.40" dur="00:00:04.40">It is said that eventually the secret was taken away by a Chinese princess.</p>
+    <p begin="00:00:38.00" dur="00:00:08.40">One day the princess left to get married in India. In her hair, she hid some silkworm caterpillars, and mulberry seeds for their food.</p>
+    <p begin="00:00:47.00" dur="00:00:08.00">In the Vietnamese town of Vong Nguyet, silk-making has been an important business for over 1200 years.</p>
+    <p begin="00:00:55.40" dur="00:00:03.00">Many of the village people keep silk worms in their living rooms.</p>
+    <p begin="00:00:59.00" dur="00:00:04.00">Each basket contains hundreds of silkworm caterpillars.</p>
+    <p begin="00:00:64.00" dur="00:00:05.00">This is the young, or larval, stage of a moth called Bombyx mori.</p>
+    <p begin="00:00:69.00" dur="00:00:10.00">Taking care of these caterpillars is hard work. The caterpillars have to eat every two hours during the day, and every three hours throughout the night.</p>
+    <p begin="00:00:79.20" dur="00:00:07.00">They eat only mulberry leaves. The caterpillars live only three weeks, and spend all their time eating.</p>
+    <p begin="00:00:87.00" dur="00:00:07.00">After three weeks, the caterpillars are placed on tree branches. Here, they begin to spin their cocoon.</p>
+    <p begin="00:00:95.10" dur="00:00:04.70">They create this cocoon to protect themselves as they turn into adult moths.</p>
+    <p begin="00:00:100.00" dur="00:00:04.00">First, the caterpillar creates a loose pattern of fibers.</p>
+    <p begin="00:00:104.50" dur="00:00:03.00">Eventually, it becomes closed off from the world.</p>
+    <p begin="00:00:108.00" dur="00:00:05.00">The silk fibers come from a part of the caterpillar's mouth called the salivary glands.</p>
+    <p begin="00:00:113.00" dur="00:00:10.00">The insect spins its head around and an unbroken silk fiber comes out. This fiber ranges from 400 to 600 meters long.</p>
+    <p begin="00:00:124.00" dur="00:00:05.00">To complete the cocoon the caterpillar doesn't stop working for three days.</p>
+    <p begin="00:00:129.30" dur="00:00:03.00">The silk farmers cannot allow the caterpillar to become an adult moth.</p>
+    <p begin="00:00:134.00" dur="00:00:03.50">If it did, it would eat its way out, and the silk would be broken.</p>
+    <p begin="00:00:138.00" dur="00:00:04.00">The cocoons must be brought to the spinning house before the cycle is complete.</p>
+    <p begin="00:00:143.00" dur="00:00:05.00">Throughout the village of Vong Nguyet, people turn the cocoons into silk thread.</p>
+    <p begin="00:00:149.00" dur="00:00:4.00">The first step is to heat the cocoons so that the silk becomes loose.</p>
+    <p begin="00:00:153.20" dur="00:00:08.00">The end of each cocoon must be found by hand and spun together. Usually a single thread needs ten or more cocoons.</p>
+    <p begin="00:00:162.00" dur="00:00:05.00">Vu Thi has been making silk for many years, and is continuing a long tradition.</p>
+    <p begin="00:00:168.00" dur="00:00:04.40">"Making silk is good work because it is the work of the ancestors."</p>
+    <p begin="00:00:173.00" dur="00:00:08.00">"The silk being spun here is done the old way, as it has been for many years. This machine over here makes it in the new way."</p>
+    <p begin="00:00:182.00" dur="00:00:04.00">The old spinning machines haven't changed much for over a thousand years.</p>
+    <p begin="00:00:186.00" dur="00:00:11.00">The modern machine next to them has been designed for a finer, higher quality silk thread. It is much faster, but the ends of the silk fibers still have to be found by hand.</p>
+    <p begin="00:00:198.00" dur="00:00:06.30">Once the silk thread is made it will leave Vong Nguyet and be sent to the weaving town of Van Phuc.</p>
+    <p begin="00:00:205.00" dur="00:00:08.00">Here the silk is made ready for the weaving machines, called looms. Small buildings here have machines from the 1940's.</p>
+    <p begin="00:00:213.00" dur="00:00:09.00">The process of weaving silk is very slow and the machines must be watched all the time. It takes around two and a half hours to make one meter of silk material.</p>
+    <p begin="00:00:222.50" dur="00:00:05.50">After a lot of work on the part of man and moth, the silk cloth is finally completed.</p>
+    <p begin="00:00:229.00" dur="00:00:06.00">Despite the invention of cheaper materials, natural silk is still loved for its beauty and comfort.</p>
+    <p begin="00:00:235.10" dur="00:00:06.00">This amazing product of man and moth continues to be extremely popular around the world.</p>
+
+
+   </div>
+  </body>
+</tt>

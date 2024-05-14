@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:03.30" dur="00:00:03.00">Since ancient times the moon has been a cause of wonder.</p>
+    <p begin="00:00:7.00" dur="00:00:04.50">People once thought it was made of cheese, or was the home of "the man in the moon."</p>
+    <p begin="00:00:12.00" dur="00:00:04.00">Some even thought it could turn people into strange beings called werewolves.</p>
+    <p begin="00:00:20.00" dur="00:00:06.00">The moon is just one quarter the size of Earth. But for us on Earth the moon looks very big in the night sky.</p>
+    <p begin="00:00:26.50" dur="00:00:07.50">This is because it's only 386 thousand kilometers away, a short distance compared with the hugeness of space.</p>
+    <p begin="00:00:37.80" dur="00:00:04.50">Many scientists believe the moon formed about 4.6 billion years ago.</p>
+    <p begin="00:00:43.00" dur="00:00:9.70">One idea is that a huge rock, called an asteroid, hit earth so hard that smaller rocks and other material were knocked loose and started to circle the Earth.</p>
+
+    <p begin="00:00:53.50" dur="00:00:05.50">Eventually, this cloud of rock and material came together to form the moon.</p>
+    <p begin="00:00:60.50" dur="00:00:05.50">The moon doesn’t have much atmosphere to protect it, so it gets hit by a lot of debris from space.</p>
+    <p begin="00:00:66.50" dur="00:00:06.00">Because of this, its entire surface has many thousands of holes, called craters.</p>
+    <p begin="00:00:75.00" dur="00:00:06.50">The scientist Galileo got the first close look at the moon, through his telescope in 1609.</p>
+    <p begin="00:00:83.00" dur="00:00:06.00">But by the mid-twentieth century, simply looking at the moon was not enough; we wanted to explore it.</p>
+    <p begin="00:00:100" dur="00:00:10.00">On July 20, 1969, two American astronauts, Neil Armstrong and Buzz Aldrin, walked, for the first time, on the moon’s surface.</p>  
+    <p begin="00:0:111.5" dur="00:00:3.5">The journey was one of the greatest advances in human history.</p>
+	<p begin="00:00:115" dur="00:00:08.00">"That’s one small step for man, one giant leap for mankind."</p>
+
+    <p begin="00:0:125" dur="00:00:7">Since the moon only has one-sixth the gravity on Earth, the astronauts felt very light on its surface.</p>
+    <p begin="00:0:137" dur="00:00:5">The moon circles the Earth in the same way that the Earth goes round the sun.</p>
+    <p begin="00:00:142.5" dur="00:00:06.50">The moon doesn't shine on its own. Instead, it shines back, or reflects, light from the sun.</p>
+    <p begin="00:00:149" dur="00:00:07.50">So on Earth we see more or less of the moon, depending on its position. These views are called "phases."</p>
+    <p begin="00:00:157.5" dur="00:00:05">When the moon is on the far side of the Earth, away from the sun, the moon is full.</p>
+    <p begin="00:00:163.5" dur="00:00:07">As the moon circles the Earth, we can only see the sunlight that hits part of it. This creates "crescent moons" or "half moons."</p>
+    <p begin="00:00:171" dur="00:00:07.50">When the moon is exactly between the Earth and the sun, light falls on the far side of the moon. Then the moon is dark, or "new."</p>  
+    <p begin="00:00:179.5" dur="00:00:03.50">It takes about 29 days for the moon to complete its cycle.</p> 
+    <p begin="00:00:183.5" dur="00:00:04.00">Sometimes, the Earth comes exactly between the sun and a full moon.</p>
+    <p begin="00:00:188" dur="00:00:04.00">Sunlight can't reach the moon, creating a total lunar eclipse.</p>
+   
+    <p begin="00:00:192.5" dur="00:00:03.00">The moon has a powerful influence on our planet.</p>
+    <p begin="00:00:195.5" dur="00:00:03.50">As Earth turns, the moon's gravity pulls our oceans.</p>
+    <p begin="00:00:199.50" dur="00:00:03.50">This creates the movement of the oceans, called tides.</p>
+
+    <p begin="00:00:204" dur="00:00:05.00">The force of the tides has helped shape Earth's coasts and has influenced the rhythms of life.</p>
+    <p begin="00:00:210" dur="00:00:06.00">Our nearest neighbor in space is much more than a beautiful view.</p>
+    
+   </div>
+  </body>
+</tt>

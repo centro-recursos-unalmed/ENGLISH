@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:04.50" dur="00:00:03.00">At sunrise, off the Carolina coast.</p>
+    <p begin="00:00:08.00" dur="00:00:03.50">The waters are blood red... Like pirate's blood.</p>
+    <p begin="00:00:12.75" dur="00:00:08.50">In 1717, Blackbeard the pirate captured a French slave ship....He renamed it the Queen Anne's Revenge...</p>
+    <p begin="00:00:22.25" dur="00:00:09.00">For a year Blackbeard's terrifying group of pirates sailed in this ship. But in 1718, the ship disappeared.</p>
+    <p begin="00:00:32.10" dur="00:00:04.25">What happened? Did the terrible and fearless Blackbeard sink it himself?</p>
+    <p begin="00:00:37.00" dur="00:00:04.10">Nobody is sure, but archaeologists are finding clues to the mystery.</p>
+    <p begin="00:00:42.20" dur="00:00:04.25">Archaeologist Kim Eslinger looks at a map where they think the ship is.</p>
+    <p begin="00:00:50.65" dur="00:00:06.50">For five years, archaeologists have been studying the remains of a shipwreck found about a kilometer from the coast.</p>
+    <p begin="00:00:58.20" dur="00:00:03.25">They know that most of the ship's wooden body is gone.</p>
+    <p begin="00:00:62.00" dur="00:00:03.50">But its large guns - its cannons - are still there.</p>
+    <p begin="00:00:67.30" dur="00:00:03.50">It's difficult for the archaeologists to see far in the dark water.</p>
+    <p begin="00:00:71.50" dur="00:00:03.70">They put ropes around one of the cannons, so they can pull it up to the surface.</p>
+    <p begin="00:00:76.00" dur="00:00:09.30">Their hope is that on the cannon they will find a name - Concorde - the original name of the French ship that Blackbeard stole.</p>
+    <p begin="00:00:86.60" dur="00:00:07.40">Mike Daniel is the maritime historian who discovered the remains. He's sure they have identified Blackbeard's ship.</p>
+    <p begin="00:00:96.70" dur="00:00:08.00">"Most of the evidence on the site points to the fact that it is the Queen Anne's Revenge. I'm a hundred percent sure, due to the fact that it is where it was supposed to be."</p>
+    <p begin="00:00:106.41" dur="00:00:07.00">Everything that archaeologists have found is dated before 1718 - the year that Blackbeard's ship disappeared.</p>
+    <p begin="00:00:116.80" dur="00:00:05.20">When the cannon is eventually pulled out of the water, it doesn't look much like a cannon at all.</p>
+    <p begin="00:00:125.50" dur="00:00:04.35">It looks dirty and strange after almost three hundred years under water.</p>
+    <p begin="00:00:134.00" dur="00:00:05.50">To project boss Mike Ramsing, the cannon is ugly, but also beautiful.</p>
+    <p begin="00:00:141.00" dur="00:00:03.50">"Well it doesn't look like much but I'm pretty certain it's at least one cannon..."</p>
+    <p begin="00:00:144.75" dur="00:00:02.80">For him, it's the most important find in years.</p>
+    <p begin="00:00:147.75" dur="00:00:02.50">"This is the highlight of my career here."</p>
+    <p begin="00:00:151.00" dur="00:00:05.75">When the archaeologists eventually clean it up, they'll be able to get a closer look at the find.</p>
+    <p begin="00:00:157.75" dur="00:00:07.70">Until then, they use special X-ray technology originally developed for the army to look at the cannon inside.</p>
+    <p begin="00:00:166.50" dur="00:00:04.00">Archaeologist Kim Eslinger explains why it's important to x-ray first.</p>
+    <p begin="00:00:170.90" dur="00:00:06.20">"It helps us with our research, helps us as we start to break into things, you never just want to sort of break into it and not know what you're going to expect."</p>
+    <p begin="00:00:179.20" dur="00:00:10.70">Another project archaeologist, Wayne Lusardi says that it may take two months to get all the rocks off of the cannon, and to carefully study and record each layer of information.</p>
+    <p begin="00:00:191.25" dur="00:00:09.00">Lusardi says that the cannon will be transferred to a special bath. This will take off the salt and make sure that the metal will survive in the air.</p>
+    <p begin="00:00:202.60" dur="00:00:02.00">That may take two or three years...</p>
+    <p begin="00:00:206.50" dur="00:00:04.00">It's a long wait to see if the cannon has the name that the team has been searching for.</p>
+    <p begin="00:00:213.70" dur="00:00:08.10">The team would like to finish the project by the year 2018, three hundred years after the Queen Anne's Revenge disappeared.</p>
+    <p begin="00:00:222.50" dur="00:00:06.30">"To open one of these up and find the definitive proof that it is definitely Blackbeard's ship would be probably pretty overwhelming,"</p>
+    <p begin="00:00:228.90" dur="00:00:11.50">The archaeologists hope that one day they will confirm this really is Queen Anne's Revenge - the ship that was sailed 300 years ago by the terrifying pirate known as Blackbeard.</p>
+   
+
+   </div>
+  </body>
+</tt>

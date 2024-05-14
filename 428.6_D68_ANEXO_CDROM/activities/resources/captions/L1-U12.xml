@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:9.25" dur="00:00:07.50">In the desert of West Texas, there's not a lot of activity. It's hot and dry and not many people live here.</p>
+    <p begin="00:00:17.50" dur="00:00:10.80">But on this ancient land there is a mystery. And the best place to see this mystery is at the viewing site, just east of Marfa on the highway called U.S. 90.</p>
+    <p begin="00:00:29.60" dur="00:00:04.70">From here, on almost any night, you can watch the mysterious Marfa Lights.</p>
+    <p begin="00:00:35.25" dur="00:00:04.70">What do the lights look like? Well, it depends on who you talk to.</p>
+    <p begin="00:00:41.25" dur="00:00:03.30">One Marfa resident talks about the first time she saw them.</p>
+    <p begin="00:00:45.25" dur="00:00:03.25">"I remember the night well that I saw the Marfa lights for the first time."</p>
+    <p begin="00:00:49.25" dur="00:00:03.70">They appeared suddenly, she says, and were very fast.</p>
+    <p begin="00:00:54.60" dur="00:00:04.80">They divided into two bright lights, then into four.</p>
+    <p begin="00:00:63.15" dur="00:00:05.25">"I've seen them several times, but they never appear the same way. Each time they're a little different when I see them."</p>
+    <p begin="00:00:68.75" dur="00:00:02.00">Another local resident tells her story.</p>
+    <p begin="00:00:71.00" dur="00:00:06.70">"Well, it was about six years ago, and the strangest thing happened to me. I was living out in the Chenocktee Mountains on a ranch out in West Texas,"</p>
+    <p begin="00:00:78.60" dur="00:00:09.00">"and getting ready to go to bed that evening, got in bed, turned out the lights, and a bright light just showed up..."</p>
+    <p begin="00:00:88.00" dur="00:00:08.10">According to Wood, the light shone through her window, changed colors and stayed there for a few minutes. Then it headed off into the distance.</p>
+    <p begin="00:00:97.50" dur="00:00:05.25">The appearance and disappearance of the lights was seen by pilots flying here many years ago too.</p>
+    <p begin="00:00:104.00" dur="00:00:08.25">Here you can find an old World War II training site. In the mid-1940s, many of the pilots saw the mysterious lights during their flights.</p>
+    <p begin="00:00:113.30" dur="00:00:01.50">Fritz Kahl was one of them.</p>
+    <p begin="00:00:116.00" dur="00:00:16.30">"We discovered these by chance off in the distance, close to the ground, very small, very soft, and it's a phenomena that they tell me exists over other parts of the world."</p>
+    <p begin="00:00:134.30" dur="00:00:06.70">"This happens to be our local chapter of that book, that phenomenon in the mystery world."</p>
+    <p begin="00:00:142.50" dur="00:00:02.00">But who can explain where the lights come from?</p>
+    <p begin="00:00:145.25" dur="00:00:01.75">Where are they actually located?</p>
+    <p begin="00:00:147.40" dur="00:00:01.60">How long have they existed?</p>
+    <p begin="00:00:149.70" dur="00:00:05.25">Despite efforts to explain the phenomenon, some are doubtful that these questions will ever be answered.</p>
+    <p begin="00:00:158.00" dur="00:00:03.25">Another local resident says that the mystery is not a bad thing.</p>
+    <p begin="00:00:164.40" dur="00:00:06.10">If the mystery is unanswered, he says, people will keep investigating, keep looking for the answer.</p>
+    <p begin="00:00:172.25" dur="00:00:05.00">Whatever these lights really are, their mystery and magic goes on.</p>
+    
+
+   </div>
+  </body>
+</tt>

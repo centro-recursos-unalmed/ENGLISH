@@ -1,0 +1,44 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:1.50" dur="00:00:05.00">Here's a giant Pacific octopus in an equally giant aquarium tank.</p>
+    <p begin="00:00:7.00" dur="00:00:07.00">The giant Pacific octopus is from a group of entities known as octopods, meaning "eight legs or arms."</p>
+    <p begin="00:00:15.80" dur="00:00:03.20">Now, there are also sharks in this tank as well.</p>
+    <p begin="00:00:19.40" dur="00:00:04.60">This is a spiny dogfish shark, known to be a fierce predator.</p>
+    <p begin="00:00:24.25" dur="00:00:07.70">Usually, dogfish sharks eat fish, but they have also been known to attack and eat an occasional octopus.</p>
+    <p begin="00:00:32.00" dur="00:00:03.40">Could this octopus be in danger of being eaten?</p>
+    <p begin="00:00:35.45" dur="00:00:02.80">Well, don't dismiss it yet.</p>
+    <p begin="00:00:38.30" dur="00:00:03.50">The giant Pacific octopus is an extraordinary creature.</p>
+    <p begin="00:00:42.00" dur="00:00:06.50">It can camouflage itself from predators, by transforming its skin color to match its surroundings.</p>
+    <p begin="00:00:48.60" dur="00:00:06.90">And if that doesn't work, it can release a dark ink at an attacker, and escape by forcing water out of its body.</p>
+    <p begin="00:00:55.60" dur="00:00:07.50">The spiny dogfish shark got its name from two sharp spines on its fins, which contain a mild poison.</p>
+    <p begin="00:00:65.00" dur="00:00:05.00">Dogfish sharks are known to travel in large schools, or packs, like dogs...</p>
+    <p begin="00:00:73.00" dur="00:00:06.90">When bodies of sharks began appearing at the bottom of the tank, the aquarium staff became worried about the sharks' welfare.</p>
+    <p begin="00:00:80.50" dur="00:00:05.50">The giant octopus usually dines on fish and small sea creatures like shrimps, and crabs,</p>
+    <p begin="00:00:86.00" dur="00:00:05.50">so no one expected the humble octopus to be responsible for the dead sharks.</p>
+    <p begin="00:00:92.50" dur="00:00:03.00">But they soon discovered what was happening...</p>
+    <p begin="00:00:99.50" dur="00:00:06.80">Each of the octopus' flexible arms contains two rows of suckers, used for catching prey.</p>
+    <p begin="00:00:109.00" dur="00:00:05.50">In its mouth is a beak which it uses to kill prey and tear it into pieces.</p>
+    <p begin="00:00:114.60" dur="00:00:03.20">Including, it seems, fearless sharks...</p>
+    <p begin="00:00:123.80" dur="00:00:05.00">The aquarium staff had learned something new about the giant Pacific octopus.</p>
+    <p begin="00:00:132.00" dur="00:00:04.00">They hadn't expected it to be a master shark-killer.</p>
+    <p begin="00:00:138.00" dur="00:00:03.50">Well, it's clear we can pronounce the octopus the winner in this fight.</p>
+    <p begin="00:00:145.00" dur="00:00:08.20">There definitely was a dangerous animal in this aquarium tank. But the danger had eight legs - and powerful suckers!</p>
+
+   </div>
+  </body>
+</tt>

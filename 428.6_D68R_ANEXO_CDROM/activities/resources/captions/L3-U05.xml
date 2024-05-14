@@ -1,0 +1,58 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:2.50" dur="00:00:06.10">Humans have a long history of migrating across great oceans, eager for new destinations.</p>
+    <p begin="00:00:9.00" dur="00:00:05.30">Ultimately, we have been searching for, among other things, paradise.</p>
+    <p begin="00:00:34.50" dur="00:00:01.40">In the Tuamotus -</p>
+    <p begin="00:00:36.40" dur="00:00:03.00">a small, isolated group of islands located in the vast Pacific,</p>
+    <p begin="00:00:39.80" dur="00:00:05.20">just over 320 kilometers northeast of Tahiti - paradise means…</p>
+    <p begin="00:00:45.60" dur="00:00:02.00">coconuts...</p>
+    <p begin="00:00:49.30" dur="00:00:01.50">digging for clams...</p>
+    <p begin="00:00:52.00" dur="00:00:2.70">spear fishing...</p>
+    <p begin="00:00:55.00" dur="00:00:05.40">and camping on the beach, with mild ocean winds and the sounds of the sea singing you to sleep.</p>
+    <p begin="00:00:62.40" dur="00:00:06.40">But paradise today is not without its tensions. The biggest worry here is global warming.</p>
+    <p begin="00:00:69.10" dur="00:00:07.40">The more than 75 little islands, called atolls, that make up the Tuamotus are thin coral reefs.</p>
+    <p begin="00:00:76.50" dur="00:00:06.30">Some are only just visible above the water; the highest are just ten feet above sea level.</p>
+    <p begin="00:00:82.90" dur="00:00:02.50">The average temperature of the oceans is climbing.</p>
+    <p begin="00:00:86.30" dur="00:00:07.50">As the seas rise, scientists estimate that many of these living, breathing reefs, and the diverse sea life they protect,</p>
+    <p begin="00:00:94.30" dur="00:00:03.00">may disappear in the next fifty to a hundred years.</p>
+    <p begin="00:00:97.60" dur="00:00:05.00">Frank Murphy is a trained marine biologist from the University of California, Berkeley.</p>
+    <p begin="00:00:103.00" dur="00:00:03.50">"It struck me the other day when my children arrived from Tahiti</p>
+    <p begin="00:00:106.50" dur="00:00:03.20">and they saw an atoll for the first time, that actually in their lifetime,</p>
+    <p begin="00:00:110.30" dur="00:00:03.00">these could disappear. It's pretty amazing."</p>
+    <p begin="00:00:114.00" dur="00:00:05.00">Fishing is a primary source of both food and income in the Tuamotus.</p>
+    <p begin="00:00:119.50" dur="00:00:06.00">Gerard catches big mahi-mahis from his boat, and sells them on the island of Fakarava.</p>
+    <p begin="00:00:128.00" dur="00:00:06.00">Gathering and drying the white meat of coconut, known as copra, is the region's biggest business.</p>
+    <p begin="00:00:135.00" dur="00:00:08.00">A 45 kilogram sack sells for 38 dollars. A hard working family will produce one hundred sacks a month.</p>
+    <p begin="00:00:144.00" dur="00:00:06.00">In the past 20 years a new economy has grown quickly in the Tuamotus - black pearls.</p>
+    <p begin="00:00:154.30" dur="00:00:05.30">Pamela and Veldo are 22, and have their own pearl growing business at a place called Tureia,</p>
+    <p begin="00:00:160.00" dur="00:00:02.50">on a tiny island of sand surrounded by water.</p>
+    <p begin="00:00:164.00" dur="00:00:05.30">They have boxes filled with thousands of oysters tied just below the surface.</p>
+    <p begin="00:00:170.00" dur="00:00:7.00">Veldo takes daily care of the boxes of oysters, making sure they are closed tightly to protect them from natural predators.</p>
+    <p begin="00:00:177.50" dur="00:00:05.50">Pamela works 8-hour days, preparing up to 400 oysters a day.</p>
+	<p begin="00:00:183.50" dur="00:00:03.50">Each oyster will take a year and a half to produce a pearl.</p>
+    <p begin="00:00:191.30" dur="00:00:04.30">Visitors come pursuing the dream of paradise, and leave with many questions.</p>
+    <p begin="00:00:196.00" dur="00:00:02.50">Is it peaceful here? Certainly.</p>
+    <p begin="00:00:199.00" dur="00:00:03.40">Is it paradise? Perhaps as close as you can get.</p>
+    <p begin="00:00:203.00" dur="00:00:02.00">A tropical dream come true.</p>
+    <p begin="00:00:207.50" dur="00:00:07.00">Yet it is clear these tiny but magnificent islands in a giant sea of blue are at some risk.</p>
+    <p begin="00:00:216.20" dur="00:00:06.50">These visitors are happy to have seen a bit of paradise, since it may soon change forever.</p>
+
+
+   </div>
+  </body>
+</tt>

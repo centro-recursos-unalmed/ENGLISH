@@ -1,0 +1,53 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:3.00" dur="00:00:05.00">The most powerful source of energy on the planet is actually out in space.</p>
+    <p begin="00:00:8.00" dur="00:00:02.00">It's our sun.</p>
+    <p begin="00:00:10.00" dur="00:00:07.00">More energy falls as sunlight on the U.S. in a single day than the U.S. uses in a year.</p>
+    <p begin="00:00:17.20" dur="00:00:03.50">But it's been difficult to turn that sunlight into electricity.</p>
+    <p begin="00:00:21.20" dur="00:00:04.00">Many people already utilize some solar energy.</p>
+    <p begin="00:00:25.20" dur="00:00:02.30">But the world's need for power is great...</p>
+    <p begin="00:00:28.00" dur="00:00:04.30">and for solar power to be a real substitute for other energy sources,</p>
+    <p begin="00:00:32.30" dur="00:00:3.70">it has to be both affordable and dependable.</p>
+    <p begin="00:00:38.50" dur="00:00:03.30">A major advocate for solar energy can be found in California.</p>
+    <p begin="00:00:43.30" dur="00:00:04.50">Sacramento, the state capital, is one of the nation's leaders in solar power.</p>
+    <p begin="00:00:48.30" dur="00:00:04.00">Many new homes in Sacramento are equipped with solar cells.</p>
+    <p begin="00:00:52.30" dur="00:00:04.00">And solar panels shade parking lots and city buildings.</p>
+    <p begin="00:00:56.40" dur="00:00:06.30">But most importantly, Sacramento has shown that by buying a lot of solar power at one time,</p>
+    <p begin="00:00:62.30" dur="00:00:04.00">it's possible to significantly reduce the price per unit - </p>
+    <p begin="00:00:66.30" dur="00:00:04.00">so people can actually save money using solar power...</p>
+    <p begin="00:00:70.60" dur="00:00:01.30">or make money.</p>
+    <p begin="00:00:72.40" dur="00:00:04.00">California, along with many other states, has started "net metering."</p>
+    <p begin="00:00:76.50" dur="00:00:06.10">Net metering lets citizens profit from their extra solar power by selling it back to the utility company,</p>
+    <p begin="00:00:83.00" dur="00:00:03.10">for exactly the price they would normally pay for it.</p>
+    <p begin="00:00:86.20" dur="00:00:05.50">If they use less power than they produce, the utility company sends them a check for the difference.</p>
+    <p begin="00:00:92.50" dur="00:00:04.00">In California's Mojave Desert, there is a solar generating plant</p>
+    <p begin="00:00:96.50" dur="00:00:03.50">that makes all other solar plants seem small by comparison.</p>
+    <p begin="00:00:100.00" dur="00:00:05.40">The Kramer Solar Junction power facility covers over 400 hectares of land.</p>
+    <p begin="00:00:105.50" dur="00:00:08.50">It creates more energy from solar power than every other solar panel in America combined - a total of 150 megawatts.</p>
+    <p begin="00:00:114.80" dur="00:00:05.20">"Which at that full capacity is enough power for the residential needs of about half a million people."</p>
+    <p begin="00:00:121.00" dur="00:00:05.40">Unlike photovoltaic systems, which capture the energy in sunlight directly,</p>
+    <p begin="00:00:126.40" dur="00:00:4.00">these mirrors reflect the sunlight onto a tube filled with a special oil.</p>
+    <p begin="00:00:132.00" dur="00:00:6.00">The hot, 700 degree oil then goes into a boiler that powers an electric turbine.</p>
+    <p begin="00:00:138.00" dur="00:00:08.10">Each section also has a natural gas generator so the plant can guarantee a supply of power even during periods of bad weather.</p>
+    <p begin="00:00:147.50" dur="00:00:05.00">Furthermore, it can do all this while creating very little carbon dioxide or pollution.</p>
+    <p begin="00:00:153.50" dur="00:00:05.30">So long as the sun rises, solar power will continue to offer hope for a dependable - </p>
+    <p begin="00:00:159.20" dur="00:00:04.00">and cleaner - solution to the world's energy needs.</p>
+
+   </div>
+  </body>
+</tt>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:03.00" dur="00:00:02.30">The warnings are few.</p>
+	<p begin="00:00:06.00" dur="00:00:02.10">The signs are sudden.</p>
+    <p begin="00:00:08.50" dur="00:00:03.30">The ground shakes. The tide goes into reverse. </p>
+	<p begin="00:00:12.10" dur="00:00:02.40">A great roaring sound fills the air.</p>
+    <p begin="00:00:15.00" dur="00:00:02.00">And then...</p>
+    <p begin="00:00:19.00" dur="00:00:01.45">it strikes.</p>
+	<p begin="00:00:21.00" dur="00:00:07.00">Wave after wave of crashing, crushing water. And when it is over, nothing is left.</p>
+    <p begin="00:00:29.40" dur="00:00:01.20">A tsunami.</p>
+    <p begin="00:00:32.00" dur="00:00:03.00">The word in Japanese means "harbor wave."</p>
+    <p begin="00:00:36.00" dur="00:00:05.00">Japan has been hit by many tsunamis in its history, as a result of its location.</p>
+    <p begin="00:00:41.45" dur="00:00:9.05">It lies across the edges of 4 tectonic plates, where most earthquakes - the principal cause of tsunamis - are born.</p>
+    <p begin="00:00:50.50" dur="00:00:07.00">When two tectonic plates push together, the resulting earthquake sends enormous amounts of energy up through the ocean...</p>
+    <p begin="00:00:58.10" dur="00:00:03.20">displacing huge amounts of water.</p>
+    <p begin="00:00:62.50" dur="00:00:02.80">A series of waves expands in all directions.</p>
+	<p begin="00:00:66.20" dur="00:00:03.40">In deep water, these waves travel fast -</p>
+    <p begin="00:00:70.00" dur="00:00:04.50">up to 500 miles an hour - but reach a height of only a few feet.</p>
+	<p begin="00:00:74.60" dur="00:00:03.50">A passing ship may not even detect them.</p>
+    <p begin="00:00:78.50" dur="00:00:07.20">But as the waves enter shallow waters, friction with the ocean floor lowers their speed and raises their height.</p>
+    <p begin="00:00:86.40" dur="00:00:05.50">As they move onto land, the waves can rise to a height of a 10 story building.</p>
+    <p begin="00:00:95.00" dur="00:00:04.00">A tsunami wave doesn't break like an ordinary wave.</p>
+    <p begin="00:00:100.40" dur="00:00:05.10">Instead, it advances like a wall of water, crashing over everything in its way,</p>
+	  <p begin="00:00:106.30" dur="00:00:03.00">sometimes reaching more than a kilometer inland.</p>
+    <p begin="00:00:111.00" dur="00:00:08.40">More damage is caused when the wave moves back out to sea, dragging everything in its path underwater and out to sea.</p>
+    <p begin="00:00:119.50" dur="00:00:06.50">Most tsunamis have several waves, arriving between 10 and 60 minutes after the first strike -</p>
+    <p begin="00:00:126.50" dur="00:00:03.20">just when survivors think the danger has passed.</p>
+    <p begin="00:00:130.00" dur="00:00:05.50">The deadliest tsunami ever recorded occurred in December of 2004.</p>
+    <p begin="00:00:137.00" dur="00:00:07.10">An earthquake off the coast of Indonesia caused a tsunami that rushed across the Indian Ocean</p>
+    <p begin="00:00:144.50" dur="00:00:02.10">and reached as far as the coast of Africa.</p>
+    <p begin="00:00:147.30" dur="00:00:02.40">Whole sections of cities were destroyed.</p>
+	<p begin="00:00:153.00" dur="00:00:03.00">More than 200,000 people died.</p>
+    <p begin="00:00:160.00" dur="00:00:03.00">Most had no way of being warned.</p>
+    <p begin="00:00:169.00" dur="00:00:05.30">Five thousand miles away in Hawaii, scientists at the Pacific Tsunami Warning Center</p>
+    <p begin="00:00:174.30" dur="00:00:03.20">monitor the earth's movements 24 hours a day,</p>
+    <p begin="00:00:178.00" dur="00:00:05.00">hoping to prevent a similar disaster from happening in the Pacific region.</p>
+    <p begin="00:00:186.00" dur="00:00:4.00">If they detect a quake big enough to cause a tsunami,</p>
+    <p begin="00:00:190.30" dur="00:00:03.55">the scientists track where the wave will head and warn the people in its path.</p>
+    <p begin="00:00:195.00" dur="00:00:01.50">Their advice is simple:</p>
+    <p begin="00:00:197.20" dur="00:00:02.40">Abandon coastal areas and move to higher ground.</p>
+	<p begin="00:00:200.20" dur="00:00:02.00">Wait for news that the danger has passed.</p>
+    <p begin="00:00:203.00" dur="00:00:05.10">And be ready to deal with the destruction that a tsunami inevitably leaves behind.</p>
+
+   </div>
+  </body>
+</tt>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:2.00" dur="00:00:05.10">Leopards spend much of their time in trees. They eat there, they sleep there.</p>
+    <p begin="00:00:7.10" dur="00:00:04.00">In fact, leopards spend more time in trees than any other big cat.</p>
+    <p begin="00:00:11.40" dur="00:00:07.00">This leopard is in a tree in the Mala Mala Game Reserve in Kruger National Park, South Africa.</p>
+    <p begin="00:00:18.80" dur="00:00:06.80">The reason leopards spend so much time in trees is because other cats - like lions - kill leopards...</p>
+    <p begin="00:00:26.00" dur="00:00:05.00">and because hyenas and wild dogs love to steal their precious kills.</p>
+    <p begin="00:00:31.10" dur="00:00:04.20">This gives leopards a great incentive to master the art of  tree-climbing,</p>
+    <p begin="00:00:35.50" dur="00:00:04.10">never failing to know exactly which branch will support their weight.</p>
+    <p begin="00:00:41.40" dur="00:00:02.40">Well, almost never failing...</p>
+    <p begin="00:00:55.50" dur="00:00:05.00">Sometimes, a leopard must carry himself and his dinner up a tree.</p>
+    <p begin="00:00:61.40" dur="00:00:03.00">The leopard has incredibly strong neck muscles.</p>
+    <p begin="00:00:64.50" dur="00:00:05.10">These enable it to drag its prey up into trees, where it won't be troubled by predators.</p>
+    <p begin="00:00:70.00" dur="00:00:05.30">The prey might be double - even triple - the leopard's own weight.</p>
+    <p begin="00:00:75.40" dur="00:00:03.30">You might think that finding and killing an impala would be the hard part...</p>
+    <p begin="00:00:80.30" dur="00:00:05.00">But, in fact, the really difficult thing is knowing which branch will support all that weight.</p>
+    <p begin="00:00:88.20" dur="00:00:06.00">And then, after all that trouble, a lucky hyena grabs the kill and runs away.</p>
+    <p begin="00:00:95.00" dur="00:00:01.50">Seeking to reverse its fortune,</p>
+    <p begin="00:00:97.00" dur="00:00:06.80">the hungry leopard goes out and kills another impala, and again, tries to drag it up the tree.</p>
+    <p begin="00:00:104.40" dur="00:00:05.80">Another hyena arrives, and decides it would like the leopard's precious prize.</p>
+    <p begin="00:00:112.00" dur="00:00:02.00">Who'll win this conflict?</p>
+    <p begin="00:00:116.00" dur="00:00:08.10">Well, consider this: relative to their weight, hyenas have the strongest jaws in the Mala Mala Game Reserve.</p>
+    <p begin="00:00:128.50" dur="00:00:02.50">Nothing is going to make this hyena let go.</p>
+    <p begin="00:00:131.80" dur="00:00:02.10">Well...except maybe this....</p>
+	<p begin="00:00:135.00" dur="00:00:02.10">a lioness.</p>
+    <p begin="00:00:138.00" dur="00:00:06.20">The hyena quickly runs off, and the leopard doesn't hesitate to leap upwards with its kill.</p>
+    <p begin="00:00:147.00" dur="00:00:05.00">But the lioness decides that she has eyes for the prize, and also heads up the tree.</p>
+    <p begin="00:00:153.80" dur="00:00:04.00">Survival in this landscape often requires great skill.</p>
+    <p begin="00:00:158.20" dur="00:00:04.50">But this time, the leopard has estimated the strength of the tree branches perfectly.</p>
+    <p begin="00:00:163.30" dur="00:00:06.00">Even though the lioness is a short distance from a juicy meal, she knows that she's too heavy to climb any higher. </p>
+    <p begin="00:00:169.50" dur="00:00:7.10">At last, the drama is over and the leopard is rewarded with a well-earned meal - in peace.</p>
+
+   </div>
+  </body>
+</tt>

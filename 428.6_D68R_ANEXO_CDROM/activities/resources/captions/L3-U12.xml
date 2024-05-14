@@ -1,0 +1,43 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:5.00" dur="00:00:04.00">Somewhere in this forest, maybe in this plant or that herb,</p>
+    <p begin="00:00:10.00" dur="00:00:06.00">there might be a cure for an illness like diabetes, malaria, or even common fevers and colds.</p>
+    <p begin="00:00:16.20" dur="00:00:04.40">But as the plants disappear, so too do the potential cures.</p>
+    <p begin="00:00:21.50" dur="00:00:05.00">The rainforests of Paraguay have long been a source of medicinal cures.</p>
+    <p begin="00:00:26.80" dur="00:00:04.50">Traditional folk healers often lead the way to the plants that provide the medicines.</p>
+    <p begin="00:00:32.00" dur="00:00:05.50">Paraguay's renowned healers, called "shamans," have a deep knowledge of local medicinal plants -</p>
+    <p begin="00:00:38.00" dur="00:00:04.50">the equivalent of the knowledge contained in an entire medical library.</p>
+    <p begin="00:00:43.00" dur="00:00:4.00">But Paraguay has one of the highest deforestation rates in the world.</p>
+    <p begin="00:00:47.30" dur="00:00:06.90">That's why researchers believe it's a priority to record the shaman's extensive knowledge - before the forest disappears.</p>
+    <p begin="00:00:54.30" dur="00:00:09.30">The journey begins in Paraguay's isolated Mbaracay Forest Nature Reserve and the nearby native community of Tekoha Ryapu,</p>
+    <p begin="00:00:64.00" dur="00:00:02.00">where shaman Gervasio lives.</p>
+    <p begin="00:00:66.10" dur="00:00:06.00">To reach Gervasio, a group of researchers set out on a long journey through the reserve.</p>
+    <p begin="00:00:71.90" dur="00:00:08.40">Meanwhile, at the village, Gervasio is using chants and prayers, perhaps to establish a spiritual connection, or bond, with the forest.</p>
+    <p begin="00:00:83.10" dur="00:00:05.50">When he feels ready, Gervasio and his wife lead the group on the search.</p>
+    <p begin="00:00:90.80" dur="00:00:09.50">They are looking for a root called Suruvi, also known as Jatropha isabelli, which is used to treat and cure various illnesses.</p>
+    <p begin="00:00:101.50" dur="00:00:04.50">Scientists are very interested in this family of plants for cancer research.</p>
+    <p begin="00:00:106.40" dur="00:00:07.00">Gervasio brings the root back to the village where his wife inserts it in a pot of water to prepare tea.</p>
+    <p begin="00:00:113.80" dur="00:00:06.00">Scientists have published a book to help record and transmit Gervasio's forest knowledge.</p>
+    <p begin="00:00:120.00" dur="00:00:04.50">The book helps people to easily identify and study local plants.</p>
+    <p begin="00:00:124.70" dur="00:00:09.00">Recording and analyzing Paraguayan plants for possible medical cures is urgent business, some may even call it an emergency.</p>
+    <p begin="00:00:133.75" dur="00:00:04.90">Medicinal plants that were once healthy and multiplying are now disappearing -</p>
+    <p begin="00:00:139.00" dur="00:00:04.00">and so too is the possibility of finding new medical cures.</p>
+
+   </div>
+  </body>
+</tt>

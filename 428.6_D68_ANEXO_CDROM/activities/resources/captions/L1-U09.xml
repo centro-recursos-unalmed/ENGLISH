@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:03.20" dur="00:00:03.70">This is where photographer Mark Thiessen likes to spend his vacation...</p>
+    <p begin="00:00:07.50" dur="00:00:05.30">"For me it's an adventure. All of your senses just come alive when you're in the middle of photographing a fire."</p>
+    <p begin="00:00:14.00" dur="00:00:06.60">Mark says his occupation as a National Geographic photographer is not always as exciting as you might think.</p>
+    <p begin="00:00:21.90" dur="00:00:04.35">He spends most of his time taking photos of things like dinosaur bones, or people.</p>
+    <p begin="00:00:27.10" dur="00:00:03.50">He doesn't get to photograph things like dangerous wild animals.</p>
+    <p begin="00:00:31.90" dur="00:00:04.85">But instead of running after wild animals, Mark runs after wildfires.</p>
+    <p begin="00:00:40.10" dur="00:00:03.00">He tells the story of how he became a photographer as a child.</p>
+    <p begin="00:00:44.25" dur="00:00:02.50">"I knew I wanted to be a photographer since I was a little kid,"</p>
+    <p begin="00:00:47.50" dur="00:00:08.30">As a child, Mark would listen to police radio messages at night. When he heard of a fire, he would wake up his mom and they would race to see it.</p>
+    <p begin="00:00:55.50" dur="00:00:04.50">"I guess once you get bit by the bug even at a young age you just never want to stop."</p>
+    <p begin="00:00:62.50" dur="00:00:05.75">So every summer, Mark takes his photographic equipment and drives west to photograph wild fires.</p>
+    <p begin="00:00:70.25" dur="00:00:04.80">This year his first stop is the state of Idaho, where wild fires occur frequently.</p>
+    <p begin="00:00:76.00" dur="00:00:07.50">On this night Mark gets lucky. He rides along through a huge fire that is spreading across the Idaho desert.</p>
+    <p begin="00:00:84.70" dur="00:00:02.75">"It's like a tornado going across the front of the truck."</p>
+    <p begin="00:00:88.75" dur="00:00:06.65">Why is Mark so interested in these fires? He says one of the reasons is that you never know what's going to happen next.</p>
+    <p begin="00:00:97.50" dur="00:00:04.10">That makes it interesting, but also dangerous, sometimes terrifying.</p>
+    <p begin="00:00:105.00" dur="00:00:03.00">A powerful wind is blowing, and pushes against the truck.</p>
+    <p begin="00:00:109.50" dur="00:00:05.50">To the left, a huge wall of fire is advancing in Mark's direction. It's best to keep moving.</p>
+    <p begin="00:00:118.40" dur="00:00:06.20">The fire can act in strange ways. On his left, Mark can see a "fire whirl."</p>
+    <p begin="00:00:125.75" dur="00:00:07.10">That's when some of the flames start twisting together, creating a fire tornado that can reach a height of ten meters.</p>
+    <p begin="00:00:137.50" dur="00:00:04.75">Mark is in fact a skilled and capable wildland firefighter himself. </p>
+    <p begin="00:00:146.00" dur="00:00:02.25">"All right hold it real still for me."  "Okay."</p>
+    <p begin="00:00:149.25" dur="00:00:06.75">His goal is to photograph the men and women who have the tough responsibility of fighting this kind of fire.</p>
+    <p begin="00:00:158.25" dur="00:00:05.60">"There's great people to meet who have great stories to tell and great pictures to be taken."</p>
+    <p begin="00:00:165.40" dur="00:00:06.90">When Mark is with the firefighters, he feels part of a team - a team that's employed to do a very important job.</p>
+    <p begin="00:00:174.00" dur="00:00:04.25">And of course, he is always trying to find the best photographs of the fire.</p>
+    <p begin="00:00:181.60" dur="00:00:06.80">Although Mark knows that fires have the potential to destroy a lot of land, he is also amazed by their great beauty.</p>
+    <p begin="00:00:193.40" dur="00:00:05.50">He says the sight of trees damaged by fire can be quite beautiful, almost magical.</p>
+    <p begin="00:00:202.00" dur="00:00:06.75">The opportunity to see and photograph something special brings Mark Thiessen back to the fires every summer.</p>
+    <p begin="00:00:214.00" dur="00:00:05.95">Every time he finishes taking photographs of a fire, he feels tired but also excited.</p>
+    <p begin="00:00:224.00" dur="00:00:02.25">He feels that he's really been alive.</p>
+    <p begin="00:00:228.25" dur="00:00:04.00">And it's clear he plans to continue for many years to come.</p>
+
+
+   </div>
+  </body>
+</tt>

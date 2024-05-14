@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:3.00" dur="00:00:02.30">It is early morning in Venice.</p>
+    <p begin="00:00:7.30" dur="00:00:03.55">Before the light of the sun fills the famous Piazza San Marco...</p>
+    <p begin="00:00:12.10" dur="00:00:02.55">...the traders of Venice are getting ready for the crowds of tourists.</p>
+    <p begin="00:00:15.50" dur="00:00:04.10">In a few hours, thousands of people will come to this square.</p>
+    <p begin="00:00:20.00" dur="00:00:03.50">But for now, the people of Venice have the city to themselves.</p>
+    <p begin="00:00:24.10" dur="00:00:02.30">Market traders welcome the first visitors.</p>
+    <p begin="00:00:29.00" dur="00:00:03.00">Early morning is the best time for shopping in the outdoor markets.</p>
+    <p begin="00:00:33.00" dur="00:00:02.56">"We have many, many kinds of fish."</p>
+    <p begin="00:00:39.00" dur="00:00:03.20">This is the part of Venice that most visitors never see.</p>
+    <p begin="00:00:43.35" dur="00:00:02.40">This is the Venice that some people call home.</p>
+    <p begin="00:00:49.90" dur="00:00:09.50">Resident Fabrizio Copano says that he lives in the most beautiful city in the world. It's a city that's clean and easy to live in, with a high quality of life.</p>
+    <p begin="00:00:62.00" dur="00:00:03.50">But for some people, Venice has disadvantages, too.</p>
+    <p begin="00:00:67.40" dur="00:00:10.40">"My son, he doesn't love, uh, live in Venice.  I am very sorry."</p>
+    <p begin="00:00:78.00" dur="00:00:04.00">The population of Venice is getting increasingly older.</p>
+    <p begin="00:00:82.50" dur="00:00:11.00">Why? Fabrizio says living in Venice is not cheap. Property is particularly expensive, and housing prices have increased a lot in recent years.</p>
+    <p begin="00:00:94.40" dur="00:00:8.40">It's especially difficult for young people looking for their own place to live. Many of them must move away, leaving Venice to the tourists.</p>
+    <p begin="00:00:106.50" dur="00:00:4.00">It seems like the whole world has come here to the Piazza San Marco.</p>
+    <p begin="00:00:111.00" dur="00:00:08.50">The tourists come to experience a city that feels like it's still in the fifteenth century. And some local people say that's the problem.</p>
+    <p begin="00:00:123.00" dur="00:00:05.50">"Venice did change a lot since I was born."</p>
+    <p begin="00:00:129.40" dur="00:00:04.50">Giovanni dal Missier is one of the younger people trying to stay in his hometown.</p>
+    <p begin="00:00:135.00" dur="00:00:05.20">During the day, the huge crowds of visitors can make just getting home from work very difficult.</p>
+    <p begin="00:00:141.00" dur="00:00:07.20">"I get bored with the people, with the tourists, because there are too much, too many."   Jobs are another problem.</p>
+    <p begin="00:00:148.50" dur="00:00:07.10">Do you want to be a gondolier or work with tourists? If not, it can be difficult to earn a living here.</p>
+    <p begin="00:00:156.20" dur="00:00:05.20">But some say that the young people leaving Venice will soon find that other cities are not so different.</p>
+    <p begin="00:00:163.00" dur="00:00:08.50">"Florence is very expensive, Rome is very expensive, London, Paris, Vienna."</p>
+    <p begin="00:00:172.30" dur="00:00:07.70">It has been said that anyone who comes to Venice will fall in love. Even if it's only with Venice itself.</p>
+    <p begin="00:00:180.40" dur="00:00:08.10">Giovanni dal Missier knows the feeling. He says that despite all the challenges here, it's hard to think of living anywhere else.</p>
+    <p begin="00:00:189.00" dur="00:00:09.05">"I know that it's a very special gift that, for me, it's a gift to live in a city as Venice."</p>
+    <p begin="00:00:202.50" dur="00:00:8.00">Only a few people get to enjoy living in Venice. These days even fewer people are ready to face the challenges of living here.</p>
+    <p begin="00:00:211.50" dur="00:00:03.50">But for those who stay, it can be a wonderful experience.</p>
+    <p begin="00:00:224.50" dur="00:00:06.50">Every day they can experience the joy of falling in love with Venice all over again.</p>
+
+
+   </div>
+  </body>
+</tt>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:11.00" dur="00:00:05.00">The islands of the Caribbean region are famous for their relaxing beaches and lively music.</p>
+
+    <p begin="00:00:17.70" dur="00:00:06.50">But the music of the instrument known as "steelband", or "pan", is native to only one island nation...: </p>
+
+    <p begin="00:00:28.50" dur="00:00:04.00">Trinidad and Tobago... home of the steelband.</p>
+    <p begin="00:00:34.00" dur="00:00:03.00">Steelband music is a popular part of life here.</p>
+    <p begin="00:00:39.50" dur="00:00:09.00">From the small fishing villages to the hilltops... the whole population knows and loves the national instrument.</p>
+
+    <p begin="00:00:49.00" dur="00:00:03.00">"Whoo yeah, you got that, ha ha."</p>
+    <p begin="00:00:53.50" dur="00:00:07.00">"Pan is most important to Trinidad and Tobago. It's part of our culture. It was invented in Trinidad and Tobago."</p>
+    <p begin="00:01:10" dur="00:00:06.50">"It is the only musical instrument invented in the 20th century."</p>
+    <p begin="00:0:78" dur="00:00:07.30">The special sound brings happiness to children and adults alike, and to musicians from many different places and backgrounds.</p>
+    <p begin="00:00:86.0" dur="00:00:04.50">Through the islands' streets and markets, you can't escape the music.</p>
+    <p begin="00:00:91.0" dur="00:00:03.00">Where does steelband music come from?</p>
+    <p begin="00:00:94.5" dur="00:00:03.00">Trinidad is an oil-producing nation.</p>
+    <p begin="00:00:100.7" dur="00:00:07.40">During World War Two, the island's old oil drums became useful for something else - as musical instruments.</p>
+    <p begin="00:00:110.3" dur="00:00:09.00">The drums produced sounds that have heavily influenced the music of the region, and can now be heard in everything from island calypso to classical music.</p>
+    <p begin="00:00:119.5" dur="00:00:06.50">In fact, the music goes back several centuries to early Africans who were not allowed to use their own drums.</p>
+    <p begin="00:00:127" dur="00:00:06.50">"They were banned from beating the Congo drums because people thought they were communicating,"</p>
+    <p begin="00:00:134" dur="00:00:12.00">At first people played these African rhythms by hitting old tin cans. Later, people played on the tops of steel drums, and that's how the steelband sound was eventually formed. </p>
+    <p begin="00:00:148" dur="00:00:07.00">Steel drum musicians usually play by ear. Most players don't use music written on paper.</p>
+    <p begin="00:00:156" dur="00:00:10.5">"In fact in the early days they knew nothing about music. They played by sound, they even tuned the pan by sound... tonk, tonk, tonk and they listened until they got it right."</p>
+    <p begin="00:00:169.8" dur="00:00:04.50">The steelband sound starts with the man who tunes the drums- the tuner. </p>
+    <p begin="00:00:175.2" dur="00:00:05.40">This tuner is known as Honey Boy. He's been tuning pans for many years. </p>
+    <p begin="00:00:181" dur="00:00:06.70">It takes a long time to tune the drums. But these instruments are used by some of the region's top performers.</p>
+    <p begin="00:00:188.60" dur="00:00:04.00">But the steelband is more than just music to Trinidad.</p>
+
+    <p begin="00:00:193.00" dur="00:00:06.50">It is a part of the local culture... showing the world the creativity of the island's people.</p>
+    <p begin="00:00:199.90" dur="00:00:06.20">Every night, places called "panyards" fill with musicians who come to learn the instrument.</p>
+    <p begin="00:00:208" dur="00:00:02.50">People like Beverly and Dove.</p>
+    <p begin="00:00:213.5" dur="00:00:06.00">"Well it's the music of my country so... I should learn it. I should know a little bit about it."</p>
+    <p begin="00:00:220" dur="00:00:09.70">"Pan is to Trinidad part of our main culture. This is ours. We made it, we created it."</p>
+    <p begin="00:00:230" dur="00:00:10.00">Dove says that steelband belongs to the people of Trinidad and Tobago. But it is something which they are happy to share with audiences and musicians around the world.</p>
+    
+
+   </div>
+  </body>
+</tt>

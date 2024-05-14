@@ -1,0 +1,43 @@
+<?xml version="1.0"?><tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:01.30" dur="00:00:04.00">Even with the best equipment, mountain climbing can be hard work...</p>
+    <p begin="00:00:06.00" dur="00:00:06.00">In fact, at high altitudes simply walking is more tiring than doing the same activity at sea level.</p>
+    <p begin="00:00:12.50" dur="00:00:04.00">That's because air automatically becomes thinner the higher you climb.</p>
+    <p begin="00:00:17.10" dur="00:00:4.00">This means that a person takes in less oxygen with each breath.</p>
+    <p begin="00:00:22.00" dur="00:00:05.50">It's this lack of oxygen in the body that causes mountain sickness, or hypoxia.</p>
+    <p begin="00:00:28.00" dur="00:00:07.40">Now, researchers are studying three high-altitude peoples that may give us a better understanding of human evolution.</p>
+    <p begin="00:00:36.00" dur="00:00:08.30">Dr. Mark Aldenderfer of the University of Southern California, has been studying how native Tibetans have adapted to their environment.</p>
+    <p begin="00:00:45.30" dur="00:00:08.30">"Tibetans deal with hypoxia apparently by breathing faster, in other words, obtaining more oxygen into their lungs</p>
+    <p begin="00:00:54.00" dur="00:00:02.00">and moving it through their systems much more rapidly."</p>
+    <p begin="00:00:57.00" dur="00:00:07.90">On the other side of the world, native people of the South American Andes developed a different strategy for living in high mountain air.</p>
+    <p begin="00:00:65.60" dur="00:00:06.10">"Andeans on the other hand, how they seem to adjust to hypoxia, is to have more hemoglobin in their blood."</p>
+    <p begin="00:00:72.10" dur="00:00:02.30">"So, in other words, their blood, in one sense, you could say is thicker."</p>
+    <p begin="00:00:75.40" dur="00:00:08.50">People in the highlands of Ethiopia have also adapted to high altitudes, but scientists still don't know exactly how.</p>
+    <p begin="00:00:84.10" dur="00:00:06.90">Ancient peoples were originally attracted to mountain heights by the prospect of good hunting, despite the lack of oxygen.</p>
+    <p begin="00:00:91.30" dur="00:00:04.40">At first, their survival could be attributed to human culture.</p>
+    <p begin="00:00:96.10" dur="00:00:02.40">"You need controlled use of fire. You need to be able to make a fire,</p>
+    <p begin="00:00:99.00" dur="00:00:05.00">and you need to be able to use that fire to keep you warm, and if you move, you have to be able to take the fire with you."</p>
+    <p begin="00:00:104.70" dur="00:00:09.30">Humans also needed clothes for survival, not just animal skins, but clothes that were warm enough to protect the wearer from the intense cold.</p>
+    <p begin="00:00:114.00" dur="00:00:06.80">According to Dr. Aldenderfer, the first tools needed to make complex clothing, such as needles,</p>
+    <p begin="00:00:120.80" dur="00:00:04.50">appeared just as people were moving into the high altitudes of Tibet.</p>
+	<p begin="00:00:126.30" dur="00:00:09.80">In addition to cultural adaptation, evidence suggests that biological adaptation was also important in enabling humans to live in such high altitudes.</p>
+	<p begin="00:00:137.40" dur="00:00:07.20">Data from DNA studies may provide us with proof that people are genetically adapted to these high-altitude environments.</p>
+
+   </div>
+  </body>
+</tt>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+
+
+
+<head>
+
+<styling>
+
+<style id="1" tts:textAlign="center"/>
+
+  <style id="2" tts:color="transparent"/>
+  <style id="3" style="2" tts:backgroundColor="black"/>
+  <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+    <p begin="00:00:07.00" dur="00:00:07.40">In the hills of New York's Hudson River Valley  lies Sleepy Hollow - a town known primarily for a very scary legend.</p>
+    <p begin="00:00:15.00" dur="00:00:05.20">The Dutch came to Sleepy Hollow in the 1600's, and started to farm the land.</p>
+    <p begin="00:00:24.30" dur="00:00:06.00">At this old house, you can still see what life was like in the 17th and 18th centuries.</p>
+    <p begin="00:00:31.00" dur="00:00:04.30">You can see farm carts and horses, and learn how to cut wood.</p>
+    <p begin="00:00:36.50" dur="00:00:08.10">Although it's a fun place to visit, the town is most famous today for the story of a tall, thin teacher and a horseman with no head.</p>
+    <p begin="00:00:46.25" dur="00:00:04.00">Storyteller Jonathon Kruk explains the legend.</p>
+    <p begin="00:00:50.25" dur="00:00:06.52">"Now dwelling in these parts, in a tenant house, was a certain schoolmaster by the name of Ichabod Crane."</p>
+    <p begin="00:00:57.40" dur="00:00:09.30">American author, Washington Irving, visited this area as a youth. Later, he wrote "The Legend of Sleepy Hollow" about the people and places in this town.</p>
+    <p begin="00:00:67.30" dur="00:00:05.40">Bill Lent looks after the Old Dutch Church in Sleepy Hollow. He explains how the story started:</p>
+    <p begin="00:00:73.50" dur="00:00:06.00">"Grandpas were the entertainment center around the fireplace in the evening."</p>
+    <p begin="00:00:80.00" dur="00:00:05.30">Bill says the old storytellers created the shocking legend to help keep the kids under control.</p>
+    <p begin="00:00:87.20" dur="00:00:08.00">Bill knows everything about the story, and shows tourists where the famous characters are buried.</p>
+    <p begin="00:00:96.00" dur="00:00:013.30">"And when he was writing the book, he remembered the name on the stone, Katrina Van Tassel. Lead female character in 'The Legend of Sleepy Hollow.'</p>
+    <p begin="00:00:110.00" dur="00:00:07.10">In the story, the teacher, Ichabod Crane, rode his horse toward this bridge by the Old Dutch Church, racing from the headless horseman.</p>
+    <p begin="00:00:119.00" dur="00:00:9.50">"Ichabod urged his horse, Gunpowder, on, 'come, come,' but the horse needed no further urging as he took off and headed down to get to that churchyard bridge."</p>
+    <p begin="00:00:0129.10" dur="00:00:04.70">At "The Horseman" restaurant, the locals say they love hearing the legend.</p>
+    <p begin="00:00:134.10" dur="00:00:04.30">"So many times I ask myself, is it real or just a legend?"</p>
+    <p begin="00:00:139.10" dur="00:00:05.10">Every year Sal Tarantino plays the headless horseman in the town's Halloween festival.  </p>
+    <p begin="00:00:145.00" dur="00:00:8.23">"The hardest problem is a real jack-o-lantern. We've tried that several times. A good-sized jack-o-lantern with the right candle in it weighs about 20 pounds."</p>
+    <p begin="00:00:153.50" dur="00:00:05.50">"And to hold that out on your arm and try to control the horse at 40 miles an hour in the dark doesn't work too well."</p>
+    <p begin="00:00:161.30" dur="00:00:03.50">Irving did not actually write the legend here in Sleepy Hollow.</p>
+    <p begin="00:00:165.10" dur="00:00:05.50">But he was deeply affected by the town, and as an adult returned to live here in this large house by the Hudson River.</p>
+    <p begin="00:00:172.00" dur="00:00:06.00">In the house is a complete collection of books written by Irving, including his famous short stories.</p>
+    <p begin="00:00:181.00" dur="00:00:03.40">Today, you can come to visit Irving's house by train.</p>
+    <p begin="00:00:186.00" dur="00:00:06.40">The manager here says that Irving wasn't pleased when the train first arrived, because of the pollution and the noise.</p>
+    <p begin="00:00:193.00" dur="00:00:04.40">When the trains came, things began to change immediately.</p>
+    <p begin="00:00:198.00" dur="00:00:04.45">In 1899, the country's first car factory was built in Sleepy Hollow.</p>
+    <p begin="00:00:203.50" dur="00:00:4.00">The factory recently closed down. But the town is still busy.</p>
+    <p begin="00:00:208.50" dur="00:00:8.15">Nearly two centuries after Irving wrote "The Legend of Sleepy Hollow," people still find this place magical.</p>
+    <p begin="00:00:218.00" dur="00:00:02.60">And the legend lives on even today.</p>
+    <p begin="00:00:223.00" dur="00:00:06.35">The storyteller says that, if you listen, you may still recognize the sounds of the headless horseman of Sleepy Hollow.</p>
+   
+    
+
+
+   </div>
+  </body>
+</tt>
