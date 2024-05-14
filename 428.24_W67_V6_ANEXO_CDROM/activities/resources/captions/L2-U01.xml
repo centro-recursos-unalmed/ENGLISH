@@ -1,0 +1,50 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+
+	<p begin="00:00:02.50" dur="00:00:04.30">Here in Malaysian Borneo, a seasonal invasion is underway.</p>
+	<p begin="00:00:09.20" dur="00:00:03.50">Staff at hotels watch nervously for a food that is</p>
+	<p begin="00:00:13.20" dur="00:00:01.20">...smelly </p>
+	<p begin="00:00:14.40" dur="00:00:01.20">...awful </p>
+	<p begin="00:00:16.00" dur="00:00:02.30">...and loved by millions.</p>
+	<p begin="00:00:18.80" dur="00:00:02.00">Meet the durian fruit.</p>
+	<p begin="00:00:21.00" dur="00:00:03.30">Its smell is hard to describe.</p>
+	<p begin="00:00:24.45" dur="00:00:03.15">"It smells like a rotten fish and custard."</p>
+	<p begin="00:00:28.00" dur="00:00:01.00">"A rubbish dump."</p>
+	<p begin="00:00:29.00" dur="00:00:01.00">"Bleu cheese."</p>
+	<p begin="00:00:30.00" dur="00:00:01.30">"Perhaps a dead dog."</p>
+	<p begin="00:00:31.30" dur="00:00:01.30">"Like private parts."</p>
+	<p begin="00:00:33.20" dur="00:00:03.40">Many cultures love foods that have a really strong smell.</p>
+	<p begin="00:00:37.00" dur="00:00:06.50">For example cheese, a favorite in the West, is actually rotted milk...a smell people in Asia find disgusting. </p>
+	<p begin="00:00:44.50" dur="00:00:04.49">And like cheese in France, durian is precious in Southeast Asia.</p>
+	<p begin="00:00:49.00" dur="00:00:03.30">Some even believe it’s worth killing for.</p>
+	<p begin="00:00:54.80" dur="00:00:03.60">Durian trees don’t bear fruit until they’re fifteen years old.</p>
+	<p begin="00:00:59.40" dur="00:00:05.20">And it doesn’t come cheap either. A single durian can cost as much as fifty US dollars.</p>
+	<p begin="00:00:68.00" dur="00:00:06.00">Here in Kuching, the capital of Malaysian Borneo, hotels are on the front lines of the durian war.</p>
+	<p begin="00:00:74.20" dur="00:00:05.60">When the fruit is in season, hotel managers maintain a constant vigil to keep it out.</p>
+	<p begin="00:00:80.20" dur="00:00:07.50">For them, the problem is really about money. One smelly durian fruit can scare off a hotel full of customers.</p>
+	<p begin="00:00:88.00" dur="00:00:04.50">"It goes into the curtains. It sticks into the carpet. It sticks into the bedspreads.” </p>
+	<p begin="00:00:93.30" dur="00:00:04.00">That doesn’t stop people from trying to smuggle it in.</p>
+	<p begin="00:00:98.50" dur="00:00:05.00">"We can immediately smell it, and they always deny it, but we know that they’ve got them.”</p>
+	<p begin="00:00:106.00" dur="00:00:05.00">Every hotel has its own method of dealing with a durian alert.</p>
+	<p begin="00:00:112.00" dur="00:00:03.00">"There are only two methods of getting rid of the smell we've found."</p>
+	<p begin="00:00:115.20" dur="00:00:05.79">"One is charcoal. Charcoal absorbs the smell. And the other...that takes quite a long time."</p>
+	<p begin="00:00:121.00" dur="00:00:07.00">"And the other one...we’ve got an ionizer that...it’s an industrialized one, and within three hours we can pull the smell out of the room.”</p>
+	<p begin="00:00:132.00" dur="00:00:07.00">"Please no durians here, not in the hotel. Outside...in the fresh air you can do it. But definitely not here."</p>
+	<p begin="00:00:139.20" dur="00:00:06.50">In Borneo, visitors can decide for themselves if the durian is delicious, or just plain disgusting...</p>
+	<p begin="00:00:145.80" dur="00:00:04.30">as long as they do their taste testing outdoors.</p>
+	
+	
+	
+   </div>
+  </body>
+</tt>
+

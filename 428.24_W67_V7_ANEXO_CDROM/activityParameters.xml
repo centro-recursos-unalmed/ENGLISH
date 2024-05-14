@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<parameters>
+	<parameter label="AUD_showLoadingPct" value="false"/>
+	<parameter label="AUD_showSubmitButton" value="false"/>
+	<parameter label="VID_BufferRate" value="12"/>
+	<parameter label="VID_showSubmitButton" value="false"/>
+	<parameter label="MCQ_showAudioLoadingPct" value="false"/>
+	<parameter label="MCQ_enablePDFButton" value="true"/>
+</parameters>

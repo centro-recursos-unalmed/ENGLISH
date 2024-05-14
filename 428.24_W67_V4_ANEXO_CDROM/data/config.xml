@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<levelPrefix>Level 1B</levelPrefix>
+	<demo on="false"/>
+	<welcome src="data/welcome_we.swf"/>
+	<main>
+		<background src="data/main_we.swf"/>
+		<border_shadow on="false"/>
+		<toc src="data/toc.xml">
+			<highlight color="0xFFCB65"/>
+			<icon color="0x225196"/>
+			<level1_folder font="Arial" size="13" color="0x000000"/>
+			<level2_folder font="Arial" size="13" color="0x000000"/>
+			<level2_file font="Arial" size="13" color="0x225196"/>
+			<dropdown_filter font="Arial" size="13" color="0x000000"/>
+		</toc>
+		<help src="help/main.swf"/>
+	</main>
+	<copyright src="data/copyright_boston_2010.swf"/>
+</config>

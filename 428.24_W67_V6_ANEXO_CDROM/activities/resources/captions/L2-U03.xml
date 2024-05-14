@@ -1,0 +1,43 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+
+	<p begin="00:00:00.50" dur="00:00:04.50">This monument to Islamic heritage is getting a new lease on life. </p>
+	<p begin="00:00:05.20" dur="00:00:07.20">The Bouananiya Medersa, or Koranic school, was once an architectural jewel of the medieval city of Fes. </p>
+	<p begin="00:00:12.50" dur="00:00:03.50">But centuries of neglect have taken a toll. </p>
+	<p begin="00:00:16.25" dur="00:00:06.00">Restorers are cleaning layers of whitewash off of intricate plaster carvings.  </p>
+	<p begin="00:00:22.35" dur="00:00:01.55">It's slow work. </p>
+	<p begin="00:00:24.20" dur="00:00:05.00">But when it's done, they hope the Medersa will shine again, as a masterpiece,</p>
+	<p begin="00:00:29.20" dur="00:00:03.50">and a testament to the grand artistic legacy of their city. </p>
+	<p begin="00:00:32.80" dur="00:00:06.40">Muslim refugees from Spain and Tunisia founded Fes in the 9th century.  </p>
+	<p begin="00:00:39.40" dur="00:00:07.50">By the 1300s, it was one of the cultural capitals of the Islamic world, a center for art and learning.  </p>
+	<p begin="00:00:48.00" dur="00:00:06.50">Today, its medina, or historic city center, is a living museum of Morocco's Islamic heritage.  </p>
+	<p begin="00:00:54.55" dur="00:00:05.00">"Probably the best-preserved Islamic medina in the world right now."</p>
+	<p begin="00:00:60.25" dur="00:00:06.30">"There are thousands of traditional houses that are, some of them going back 700 years."</p>
+	<p begin="00:00:67.00" dur="00:00:04.00">The medina is culturally rich - but its people are poor.  </p>
+	<p begin="00:00:71.10" dur="00:00:04.30">Historic preservation often takes second place to more basic concerns.</p>
+	<p begin="00:00:75.50" dur="00:00:07.00">The people who live in them, usually five or six families renting a room or two each, can't afford to make repairs. </p>
+	<p begin="00:00:82.60" dur="00:00:05.40">Historic homes that aren't falling down are also in danger, of a different kind.  </p>
+	<p begin="00:00:88.85" dur="00:00:06.00">This 18th century palace is being sold off, piece by piece, to antiquities dealers.</p>
+	<p begin="00:00:95.25" dur="00:00:02.50">A fountain was the first to go.</p>
+	<p begin="00:00:98.35" dur="00:00:04.34">In theory, the government should protect Fes's historic buildings.  </p>
+	<p begin="00:00:102.70" dur="00:00:09.80">But in practice, it's too big a job.  And so private citizens have stepped in. They're saving Fes's medina, house by house.</p>
+	<p begin="00:00:112.55" dur="00:00:09.00">"It's the thing we need to protect.  And it's a part of our memory, it's a part of our history, and it's a part of our daily life."</p>
+	<p begin="00:00:121.70" dur="00:00:07.40">Private foundations are paying to restore monuments like the Medersa, which will eventually become a museum of Islamic architecture. </p>
+	<p begin="00:00:129.40" dur="00:00:05.00">Fes has realized that its architectural history is too valuable to lose.</p>
+	<p begin="00:00:134.50" dur="00:00:04.30">There's still a lot of work to be done, and not only on restoration.</p>
+	<p begin="00:00:139.00" dur="00:00:08.00">Renovating palaces and historic monuments won't cure poverty, and poverty is the ultimate source of Fes's woes.</p>
+	<p begin="00:00:147.20" dur="00:00:06.20">But preserving the city's architectural heritage ensures that at least these riches will endure.</p>
+	
+   </div>
+  </body>
+</tt>
+

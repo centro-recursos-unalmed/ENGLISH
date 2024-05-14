@@ -1,0 +1,52 @@
+<?xml version="1.0"?> <tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+   <styling>
+      <style id="1" tts:textAlign="center"/>
+      <style id="2" tts:color="transparent"/>
+      <style id="3" style="2" tts:backgroundColor="black"/>
+      <style id="4" style="2 3" tts:fontSize="20"/>
+   </styling>
+  </head>
+  <body>
+   <div xml:lang="en">
+
+	<p begin="00:00:03.50" dur="00:00:01.50">The human body. </p>
+	<p begin="00:00:05.50" dur="00:00:05.00">No machine can match the feats it performs every day.  </p>
+	<p begin="00:00:11.00" dur="00:00:04.50">Our lungs suck in 70 quarts of air each minute when we exercise...</p>
+	<p begin="00:00:16.25" dur="00:00:04.00">Our hearts pump two thousand gallons of blood each day...</p>
+	<p begin="00:00:20.35" dur="00:00:04.50">And more than 600 muscles keep us moving, in every direction. </p>
+	<p begin="00:00:26.20" dur="00:00:06.00">Like all living things, human beings are made up of cells – 100 trillion of them. </p>
+	<p begin="00:00:32.30" dur="00:00:05.00">Individual cells are organized into tissues...like this heart muscle tissue. </p>
+	<p begin="00:00:37.40" dur="00:00:03.50">Different kinds of tissue form an organ, such as the heart.</p>
+	<p begin="00:00:41.00" dur="00:00:04.50">And several organs working together create an organ system.</p>
+	<p begin="00:00:46.00" dur="00:00:05.60">Each of the 10 major organ systems in the human machine performs a special job. </p>
+	<p begin="00:00:52.10" dur="00:00:05.20">The circulatory and respiratory systems supply energy 24 hours a day. </p>
+	<p begin="00:00:57.31" dur="00:00:07.00">The heart works automatically, and incredibly hard.  No other muscle in the body is as strong. </p>
+	<p begin="00:00:64.35" dur="00:00:09.50">It beats 100,000 times a day...36 million times a year, sending blood on a complete trip around the body in less than a minute.</p>
+	<p begin="00:00:74.45" dur="00:00:07.00">The lungs pull in oxygen from the air, delivering breath through 15 hundred miles of airways.</p>
+	<p begin="00:00:81.55" dur="00:00:08.00">All this work is fueled by food...And turning pizza into useable molecules is the job of the digestive system. </p>
+	<p begin="00:00:90.00" dur="00:00:03.50">Swallowing sends food down the esophagus into the stomach.</p>
+	<p begin="00:00:93.70" dur="00:00:05.50">Like a blender, the stomach contracts to break it down, helped out by acid and enzymes. </p>
+	<p begin="00:00:99.30" dur="00:00:08.50">This liquefied food travels into the small intestine, which can be over 20 feet long, where most nutrients enter the bloodstream.</p>
+	<p begin="00:00:108.00" dur="00:00:04.30">And the brains of this whole operation – is the human brain. </p>
+	<p begin="00:00:112.50" dur="00:00:06.10">A wrinkled blob about the size of a grapefruit, it’s the most complex object on earth.</p>
+	<p begin="00:00:118.65" dur="00:00:04.30">The brain contains up to 100 billion neurons, or nerve cells.</p>
+	<p begin="00:00:123.00" dur="00:00:05.00">Neurons send signals rocketing through the brain at over 200 miles an hour.</p>
+	<p begin="00:00:128.10" dur="00:00:08.00">The brain, spinal cord, and nerves make up the nervous system – and all work together to control the body’s activities.</p>
+	<p begin="00:00:137.80" dur="00:00:02.80">The reproductive system creates new life. </p>
+	<p begin="00:00:140.70" dur="00:00:08.00">Each human begins as two single cells – an egg cell from the mother, and a sperm cell from the father.</p>
+	<p begin="00:00:149.10" dur="00:00:02.50">When these two cells meet, they begin to divide...</p>
+	<p begin="00:00:152.00" dur="00:00:03.75">And over 9 months, a whole new person is formed. </p>
+	<p begin="00:00:157.30" dur="00:00:06.00">Strands of DNA carried in the original two cells act like a set of blueprints – </p>
+	<p begin="00:00:163.30" dur="00:00:06.00">telling the cells to build a person with brown eyes, curly hair, or a wide smile.</p>
+	<p begin="00:00:170.00" dur="00:00:03.00">The end result of all this genetic scrambling...</p>
+	<p begin="00:00:173.10" dur="00:00:04.50">bodies that take us on a miraculous journey every day. </p>
+	<p begin="00:00:178.00" dur="00:00:02.00">They allow us to push the frontiers...</p>
+	<p begin="00:00:180.00" dur="00:00:02.10">Meet awesome challenges...</p>
+	<p begin="00:00:182.50" dur="00:00:04.30">And expand the boundaries of human achievement.</p>
+	
+
+   </div>
+  </body>
+</tt>
+

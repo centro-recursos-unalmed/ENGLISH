@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<setupscreens>
+	<screen type="normal">
+		<content type="text" tag="firstLine">
+			You need headphones for this activity.</content>
+		<content type="text" tag="secondLine"/>
+		<content type="text" tag="thirdLine">
+			When you have them, click Next.</content>
+		<content type="image" tag="backgroundImage">screen1_pic.png</content>
+	</screen>
+	<screen type="play">
+		<content type="text" tag="firstLine">
+			Now, check your headphones</content>
+		<content type="text" tag="secondLine">
+			Click Play Audio to hear a sample sound. If you can't hear the sound, talk to your teacher</content>
+		<content type="text" tag="thirdLine">
+			When you are ready, click Next.</content>
+		<content type="image" tag="backgroundImage"/>
+	</screen>
+	<screen type="normal">
+		<content type="text" tag="firstLine">
+			You also need a microphone for this activity.</content>
+		<content type="text" tag="secondLine"/>
+		<content type="text" tag="thirdLine">
+			When you have one, click Next</content>
+		<content type="image" tag="backgroundImage">screen3_pic.png</content>
+	</screen>
+	<screen type="playrecord">
+		<content type="text" tag="firstLine">
+			Now, check your microphone.</content>
+		<content type="text" tag="secondLine">
+			Click Record to record your voice. Next, click Play Audio. If you can't hear your voice, talk to your teacher</content>
+		<content type="text" tag="thirdLine">
+			When you are ready, click Next</content>
+		<content type="image" tag="backgroundImage"/>
+	</screen>
+</setupscreens>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<templates>
+	<template id="FIBMI" file="FIBMI.swf" multipage="true"/>
+	<template id="FIBPNT" file="FIBMI.swf" multipage="true"/>
+	<template id="FIBOPB" file="NG_FIBOPB.swf" multipage="false"/>
+	<template id="FIBPG" file="FIBPG.swf" multipage="false"/>
+	<template id="SPK" file="WE_SPK.swf" multipage="true"/>
+	<template id="DNDMAT" file="NG_DNDMAT.swf" multipage="false"/>
+	<template id="DNDFS" file="DNDFS.swf" multipage="true"/>
+	<template id="DNDIMG" file="DNDIMG.swf" multipage="false"/>
+	<template id="DNDNON" file="NG_DNDNON.swf" multipage="false"/>
+	<template id="MCQMSR" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="MCQSSR" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="MCQMS" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="MCQSS" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="MCQMSP" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="MCQSSP" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="MCQ" file="NG_MCQMSR.swf" multipage="true"/>
+	<template id="AUD" file="AUD.swf" multipage="false"/>
+	<template id="VID" file="VID.swf" multipage="false"/>
+</templates>
